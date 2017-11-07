@@ -1,0 +1,1050 @@
+
+
+================================================================================
+
+CLUSTER 0
+
+{'', 'rec.pets', 'sci.engr.biomed', 'alt.security', 'comp.sys.laptops', 'rec.radio.amateur.misc', 'ucla.rumor', 'rec.pets.dogs', 'comp.sys.ibm.pc.hardware', 'alt.config', 'misc.consumers.house', 'sci.crypt', 'sci.med', 'comp.lang.c++', 'tx.politics', 'sci.space', 'comp.windows.x', 'sci.misc', 'comp.graphics', 'rpi.rumor', 'talk.religion.misc', 'sci.skeptic', 'talk.politics.misc', 'comp.comression', 'sci.bio.technology', 'rec.motorcycles', 'alt.atheism', 'alt.discrimination', 'ba.market.misc', 'talk.politics.guns', 'ba.forsale', 'comp.periphs', 'rec.arts.sf.science', 'misc.health.alternative', 'rec.sport.hockey', 'rec.sport.baseball', 'comp.misc', 'rec.autos', 'ba.market.computers', 'alt.security.pgp', 'soc.motss', 'comp.os.os2', 'misc.forsale', 'comp.sys.mac', 'sci.electronics', 'comp.lsi', 'alt.sex', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'comp.robotics', 'nyc.general', 'sci.philosophy.meta', 'rec.scouting', 'comp.sys.mac.hardware', 'misc.wanted', 'rec.video', 'comp.lsi.testing', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 1
+
+{'alt.politics.bush', 'alt.fan.rush-limbaugh', 'sci.space.shuttle', 'ba.motorcycles', 'sci.astro', 'sci.crypt', 'sci.med', 'alt.autos.antique', 'sci.materials', 'sci.space', 'alt.fan.bill-gates', 'comp.graphics', 'alt.conspiracy', 'talk.religion.misc', 'alt.news-media', 'talk.politics.misc', 'alt.politics.perot', 'rec.motorcycles', 'talk.politics.guns', 'rec.autos.tech', 'rec.motorcycles.racing', 'rec.autos', 'misc.legal', 'comp.os.ms-windows.advocacy', 'alt.privacy.clipper', 'soc.culture.usa', 'soc.culture.jewish', 'talk.politics.mideast', 'alt.politics.elections', 'comp.os.ms-windows.misc', 'alt.politics.usa.misc', 'alt.rush-limbaugh', 'rec.autos.antique', 'alt.politics.clinton', 'alt.politics.libertarian', 'alt.society.sovereign', 'rec.motorcycles.harley', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 2
+
+{'comp.windows.x', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.apps', 'comp.os.msdos.apps', 'comp.sys.ibm.pc.hardware', 'comp.windows.x.motif', 'comp.sys.mac.hardware', 'comp.windows.ms', 'comp.windows.open-look', 'alt.atheism', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 3
+
+{'sci.physics', 'alt.security', 'alt.sega.genesis', 'comp.os.ms-windows.apps', 'comp.security.misc', 'comp.org.ieee', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.forsale.computers', 'sci.space.shuttle', 'sci.astro', 'ne.forsale', 'sci.crypt', 'sci.med', 'alt.society.civil-liberty', 'misc.consumers', 'pa.forsale', 'sci.space', 'dc.general', 'sci.misc', 'sci.med.physics', 'comp.windows.x', 'comp.graphics', 'alt.conspiracy', 'talk.religion.misc', 'talk.politics.misc', 'rec.games.video.marketplace', 'sci.math', 'rec.motorcycles', 'talk.politics.space', 'alt.atheism', 'talk.politics.guns', 'alt.sci.planetary', 'comp.os.ms-windows.setup', 'rec.sport.hockey', 'phl.forsale', 'rec.sport.baseball', 'rec.autos', 'alt.security.pgp', 'sci.environment', 'alt.privacy.clipper', 'misc.forsale', 'comp.org.acm', 'alt.pagan', 'sci.electronics', 'dc.forsale', 'soc.culture.usa', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'talk.origins', 'rec.games.video', 'sci.bio', 'comp.sys.mac.hardware', 'alt.activism', 'rec.games.video.sega'}
+
+
+================================================================================
+
+CLUSTER 4
+
+{'comp.unix.ultrix', 'comp.windows.x.apps', 'comp.music', 'alt.toolkits.xview', 'comp.os.ms-windows.apps', 'comp.windows.misc', 'comp.os.ms-windows.programmer.misc', 'comp.sys.ibm.pc.hardware', 'comp.text.tex', 'comp.sources.wanted', 'comp.unix.sysv386', 'sci.crypt', 'comp.os.linux', 'bit.listserv.tn3270-l', 'comp.windows.x', 'comp.mail.mh', 'comp.graphics', 'comp.text.interleaf', 'comp.fonts', 'comp.unix.solaris', 'comp.text', 'comp.windows.open-look', 'comp.text.frame', 'comp.windows.x.i386unix', 'comp.multimedia', 'rec.music.makers', 'comp.os.msdos.apps', 'comp.windows.x.intrinsics', 'soc.culture.celtic', 'comp.lang.postscript', 'comp.sys.sun.admin', 'comp.os.msdos.misc', 'comp.unix.aix', 'comp.os.ms-windows.misc', 'comp.windows.interviews', 'comp.sys.hp', 'comp.sys.sun.misc', 'comp.windows.ms'}
+
+
+================================================================================
+
+CLUSTER 5
+
+{'rec.autos', 'soc.motss', 'misc.forsale', 'talk.abortion', 'labs.talk', 'ne.forsale', 'sci.crypt', 'sci.med', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'ca.politics', 'rec.scouting', 'ba.politics', 'alt.atheism'}
+
+
+================================================================================
+
+CLUSTER 6
+
+{'rec.sport.baseball', 'alt.security', 'rec.motorcycles.racing', 'comp.os.ms-windows.advocacy', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'sci.astro', 'sci.electronics', 'sci.crypt', 'rec.autos.tech', 'comp.sys.mac.wanted', 'sci.med', 'ba.motorcycles', 'comp.os.os2.misc', 'comp.os.ms-windows.misc', 'sci.space', 'alt.fan.bill-gates', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'comp.sys.mac.hardware', 'comp.sys.amiga.graphics', 'comp.graphics.animation', 'rec.motorcycles', 'talk.politics.guns', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 7
+
+{'sci.engr.biomed', 'bionet.general', 'alt.security', 'comp.org.ieee', 'comp.graphics.visualization', 'ba.motorcycles', 'ne.forsale', 'sci.med', 'sci.crypt', 'comp.sys.mac.misc', 'rec.radio.swap', 'comp.lang.c++', 'sci.space', 'comp.graphics', 'comp.unix.aux', 'talk.religion.misc', 'talk.politics.misc', 'comp.comression', 'rec.motorcycles', 'alt.atheism', 'comp.sys.mac.programmer', 'ba.market.misc', 'talk.politics.guns', 'alt.flame', 'rec.sport.hockey', 'rec.sport.baseball', 'bionet.neuroscience', 'rec.autos', 'ba.market.computers', 'uw.forsale', 'misc.forsale', 'talk.abortion', 'comp.sys.mac', 'sci.electronics', 'pnw.forsale', 'comp.sys.mac.system', 'seattle.forsale', 'uwash.forsale', 'misc.forsale.computers.other', 'comp.sys.mac.hardware', 'sci.bio'}
+
+
+================================================================================
+
+CLUSTER 8
+
+{'alt.security', 'comp.security.misc', 'misc.legal', 'comp.org.ieee', 'alt.security.pgp', 'comp.org.eff.talk', 'alt.privacy.clipper', 'comp.org.acm', 'news.admin.policy', 'sci.crypt', 'comp.admin.policy', 'alt.dcom.telecom', 'comp.or', 'comp.sys.mac.hardware', 'alt.privacy', 'comp.databases.oracle'}
+
+
+================================================================================
+
+CLUSTER 9
+
+{'comp.os.ms-windows.setup', 'comp.windows.x.apps', 'comp.sys.novell', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.advocacy', 'comp.os.msdos.apps', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.crypt', 'comp.os.msdos.misc', 'comp.os.msdos.programmer', 'comp.os.ms-windows.misc', 'comp.windows.x', 'alt.fan.bill-gates', 'misc.forsale.computers.other', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'comp.protocols.tcp-ip.ibmpc', 'misc.forsale.computers.pc-clone'}
+
+
+================================================================================
+
+CLUSTER 10
+
+{'su.market', 'alt.cd-rom', 'comp.sys.ibm.pc.hardware', 'sci.optics', 'comp.org.eff.talk', 'comp.sys.3b1', 'misc.forsale.computers', 'rec.skiing', 'ne.forsale', 'sci.med', 'misc.consumers', 'sci.crypt', 'sri.market', 'talk.politics.theory', 'ny.forsale', 'ca.forsale', 'comp.windows.x', 'chi.forsale', 'alt.magick', 'comp.graphics', 'talk.religion.misc', 'misc.invest', 'talk.politics.misc', 'misc.test', 'rec.mag', 'rec.radio.amateur.packet', 'alt.atheism', 'ba.market.misc', 'talk.politics.guns', 'ba.forsale', 'comp.multimedia', 'dec.pa.market', 'alt.flame', 'misc.health.alternative', 'alt.stagecraft', 'rec.sport.baseball', 'rec.autos', 'ba.market.computers', 'misc.legal', 'comp.windows.x.motif', 'misc.forsale', 'talk.religion.newage', 'alt.pagan', 'sci.electronics', 'comp.sys.sun.admin', 'soc.culture.arabic', 'talk.politics.mideast', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'ba.market', 'alt.discordia', 'comp.sys.sun.misc', 'alt.mythology', 'soc.culture.british', 'comp.sys.mac.hardware', 'alt.slack', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 11
+
+{'sci.geo.geology', 'sci.geo.meteorology', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'alt.internet.services', 'sci.space.shuttle', 'sci.astro', 'sci.med', 'sci.crypt', 'sci.space', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'comp.ai', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.autos.tech', 'alt.flame', 'rec.sport.baseball', 'rec.motorcycles.racing', 'rec.autos', 'misc.legal', 'alt.privacy.clipper', 'misc.forsale', 'alt.pagan', 'sci.electronics', 'dc.forsale', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'alt.unix.wizards', 'comp.sys.mac.hardware', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 12
+
+{'comp.os.ms-windows.setup', 'comp.os.ms-windows.misc', 'comp.windows.x', 'comp.dcom.lans', 'alt.rush-limbaugh', 'comp.graphics', 'comp.sys.ibm.pc.hardware', 'alt.folklore.computers', 'comp.sys.mac.hardware', 'misc.forsale', 'sci.electronics', 'comp.sys.mac.wanted', 'talk.politics.guns', 'talk.politics.drugs'}
+
+
+================================================================================
+
+CLUSTER 13
+
+{'soc.culture.canada', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'sci.environment', 'misc.consumers', 'sci.med', 'soc.religion.christian', 'alt.sex', 'rec.food.cooking', 'comp.windows.x', 'comp.os.ms-windows.misc', 'soc.men', 'alt.conspiracy', 'talk.religion.misc', 'talk.politics.misc', 'comp.sys.mac.hardware', 'comp.unix.solaris', 'rec.motorcycles', 'alt.activism', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 14
+
+{'soc.culture.canada', 'alt.activism', 'comp.music', 'alt.toolkits.xview', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'misc.consumers', 'sci.med', 'comp.windows.x', 'sci.space', 'comp.sys.sun.hardware', 'comp.sys.ibm.pc.misc', 'alt.magick', 'comp.graphics', 'soc.misc', 'talk.religion.misc', 'alt.conspiracy', 'alt.president.clinton', 'misc.invest', 'talk.politics.misc', 'rec.motorcycles', 'comp.windows.open-look', 'alt.atheism', 'talk.politics.space', 'talk.politics.guns', 'rec.autos.tech', 'rec.music.makers.synth', 'rec.sport.hockey', 'rec.sport.baseball', 'cwru.general', 'rec.autos', 'soc.history', 'misc.legal', 'misc.forsale', 'talk.religion.newage', 'alt.pagan', 'sci.electronics', 'comp.sys.mac.wanted', 'soc.culture.african.american', 'comp.os.msdos.misc', 'rec.music.marketplace', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.dcom.modems', 'comp.os.ms-windows.misc', 'alt.rush-limbaugh', 'comp.sys.amiga.hardware', 'misc.forsale.computers.mac', 'alt.politics.clinton', 'comp.protocols.tcp-ip.ibmpc', 'alt.politics.libertarian', 'cwru.ins.general', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'misc.headlines', 'alt.fan.rush-limbaugh'}
+
+
+================================================================================
+
+CLUSTER 15
+
+{'rec.arts.sf.science', 'alt.sci.planetary', 'rec.sport.baseball', 'sci.space', 'sci.misc', 'comp.sys.amiga.hardware', 'sci.space.shuttle', 'sci.astro', 'sci.electronics', 'comp.sys.m68k', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 16
+
+{'rec.sport.baseball', 'rec.sport.hockey', 'comp.dsp', 'rec.collecting.cards', 'rec.autos', 'us.sport.baseball', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.electronics', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.windows.x', 'rec.sport.baseball.fantasy', 'comp.graphics', 'soc.culture.japan', 'comp.sys.mac.hardware', 'rec.motorcycles'}
+
+
+================================================================================
+
+CLUSTER 17
+
+{'tx.motorcycles', 'rec.autos.driving', 'comp.unix.xenix.sco', 'ba.motorcycles', 'rec.autos.sport', 'sci.crypt', 'alt.autos.antique', 'misc.consumers', 'comp.sys.mac.misc', 'sci.med', 'comp.windows.x', 'comp.sys.sun.hardware', 'comp.graphics', 'biz.sco.opendesktop', 'ky.motorcycles', 'biz.sco.general', 'rec.motorcycles', 'ba.market.misc', 'news.answers', 'ba.forsale', 'rec.autos.tech', 'comp.unix.pc-clone.32bit', 'rec.autos.vw', 'rec.sport.baseball', 'comp.sys.amiga.graphics', 'rec.sport.basketball.pro', 'rec.autos', 'ba.market.computers', 'comp.graphics.animation', 'comp.windows.x.motif', 'misc.forsale', 'alt.graphics.pixutils', 'aus.motorcycles', 'rec.autos.antique', 'rec.motorcycles.harley', 'rec.video', 'comp.sys.amiga.misc'}
+
+
+================================================================================
+
+CLUSTER 18
+
+{'comp.os.ms-windows.setup', 'rec.sport.baseball', 'alt.atheism', 'rec.autos', 'comp.os.386bsd.questions', 'comp.sys.ibm.pc.hardware', 'alt.security.pgp', 'alt.privacy.clipper', 'misc.forsale', 'gnu.gcc.help', 'alt.autos.antique', 'sci.electronics', 'sci.med', 'sci.crypt', 'comp.os.linux', 'austin.forsale', 'comp.unix.aix', 'comp.os.ms-windows.misc', 'comp.windows.x', 'rec.autos.antique', 'comp.graphics', 'sci.philosophy.meta', 'comp.sys.mac.hardware', 'comp.arch', 'comp.periphs', 'talk.politics.guns', 'comp.windows.x.i386unix', 'rec.autos.tech'}
+
+
+================================================================================
+
+CLUSTER 19
+
+{'soc.culture.turkish', 'soc.culture.iranian', 'soc/culture.iranian', 'soc.college', 'soc.culture.bulgaria', 'soc.culture.bosna-herzgvna', 'alt.politics.correct', 'alt.conspiracy', 'alt.news-media', 'talk.politics.misc', 'soc.culture.croatia', 'soc.culture.greece', 'talk.politics.soviet', 'soc.culture.greek', 'alt.activism.d', 'alt.revisionism', 'misc.headlines', 'alt.folklore.urban', 'soc.culture.soviet', 'soc.culture.baltics', 'soc.rights.human', 'soc.culture.cis', 'talk.politics.cis', 'soc.history', 'soc.culture.europe', 'alt.censorship', 'soc.culture.usa', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'soc.culture.yugoslavia', 'soc.culture.pakistan', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 20
+
+{'soc.culture.canada', 'soc.culture.iranian', 'alt.politics.radical-left', 'comp.sys.ibm.pc.hardware', 'sci.optics', 'uwisc.cae.general', 'misc.consumers.house', 'rec.humor', 'ba.motorcycles', 'sci.astro', 'sci.med', 'sci.crypt', 'rec.audio', 'wi.forsale', 'bit.listserv.tn3270-l', 'rec.games.programmer', 'alt.binaries.pictures.d', 'sci.space', 'comp.windows.x', 'alt.politics.usa.constitution', 'alt.magick', 'comp.graphics', 'or.forsale', 'uwisc.forsale', 'alt.conspiracy', 'talk.religion.misc', 'comp.programming', 'talk.politics.misc', 'alt.parents-teens', 'rec.motorcycles', 'alt.atheism', 'ont.forsale', 'talk.politics.guns', 'rec.arts.sf.science', 'alt.sci.planetary', 'ott.forsale', 'alt.stagecraft', 'misc.fitness', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.motorcycles.racing', 'rec.audio.pro', 'pdx.forsale', 'rec.autos', 'alt.privacy.clipper', 'misc.forsale', 'comp.sys.mac', 'alt.pagan', 'sci.electronics', 'comp.lsi', 'soc.culture.usa', 'comp.unix.aix', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'rec.food.cooking', 'pnw.forsale', 'comp.os.ms-windows.misc', 'comp.robotics', 'comp.sys.mac.hardware', 'rec.sport.soccer', 'alt.activism', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 21
+
+{'comp.ivideodisc', 'alt.security', 'talk.politics.libertarian', 'comp.security.misc', 'comp.org.ieee', 'sci.med', 'uk.jobs', 'tx.politics', 'comp.windows.x', 'sci.image.processing', 'sci.space', 'comp.graphics', 'sci.skeptic', 'alt.conspiracy', 'sci.energy', 'talk.politics.misc', 'alt.alien.visitors', 'talk.politics.guns', 'rec.games.video.arcade', 'purdue.forsale', 'comp.windows.x.intrinsics', 'rec.autos', 'misc.legal', 'misc.forsale', 'comp.org.acm', 'rec.music.marketplace', 'alt.sex', 'soc.culture.jewish', 'alt.rush-limbaugh', 'soc.men', 'misc.wanted', 'alt.slack', 'alt.sci.physics.new-theories', 'misc.forsale.computers.pc-clone', 'sci.math', 'comp.os.ms-windows.apps', 'misc.jobs.misc', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.forsale.computers', 'sci.crypt', 'sci.anthropology', 'comp.sys.mac.misc', 'rec.audio', 'sci.misc', 'alt.fan.bill-gates', 'talk.religion.misc', 'purdue.general', 'alt.president.clinton', 'talk.politics.space', 'alt.atheism', 'rec.autos.tech', 'rec.audio.car', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.os.ms-windows.advocacy', 'sci.research', 'comp.windows.x.motif', 'sci.electronics', 'soc.culture.usa', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.robotics', 'misc.forsale.computers.pc', 'sci.philosophy.meta', 'misc.education', 'comp.sys.mac.hardware', 'rec.video', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 22
+
+{'rec.sport.hockey', 'comp.windows.x', 'rec.sport.baseball', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.electronics', 'sci.med'}
+
+
+================================================================================
+
+CLUSTER 23
+
+{'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'comp.windows.x.intrinsics', 'comp.sys.ibm.pc.hardware', 'alt.security.pgp', 'comp.org.eff.talk', 'misc.forsale.computers', 'alt.privacy.clipper', 'misc.forsale', 'talk.abortion', 'cmu.cs.general', 'sci.electronics', 'sci.med', 'sci.crypt', 'cmu.misc.market', 'rec.audio', 'comp.windows.x', 'sci.space', 'rec.sport.baseball.fantasy', 'talk.origins', 'comp.graphics', 'talk.religion.misc', 'comp.windows.open-look', 'comp.sys.mac.hardware', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'comp.windows.x.i386unix'}
+
+
+================================================================================
+
+CLUSTER 24
+
+{'soc.rights.human', 'rec.autos', 'misc.legal', 'rec.backcountry', 'talk.abortion', 'sci.crypt', 'alt.society.civil-liberty', 'soc.culture.usa', 'rec.guns', 'sci.space', 'alt.politics.usa.misc', 'alt.rush-limbaugh', 'alt.politics.usa.constitution', 'talk.religion.misc', 'alt.conspiracy', 'alt.society.sovereign', 'alt.politics.libertarian', 'talk.politics.misc', 'misc.headlines', 'alt.atheism', 'alt.law-enforcement', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 25
+
+{'misc.rural', 'talk.environment', 'comp.sys.ibm.pc.hardware', 'misc.forsale.computers', 'sci.astro', 'misc.consumers', 'sci.med', 'k12.chat.teacher', 'sci.anthropology', 'rec.music.funky', 'sci.space', 'sdnet.forsale', 'comp.graphics', 'alt.conspiracy', 'talk.religion.misc', 'sci.energy', 'sci.skeptic', 'misc.invest', 'talk.politics.misc', 'alt.alien.visitors', 'talk.politics.space', 'rec.motorcycles', 'talk.politics.guns', 'comp.periphs.printers', 'ucsd.buy+sell', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'soc.history', 'sci.environment', 'rec.backcountry', 'misc.forsale', 'sci.electronics', 'talk.politics.mideast', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'alt.rave', 'rec.games.video', 'misc.forsale.computers.pc-clone', 'alt.sci.physics.new-theories', 'comp.sys.mac.hardware', 'misc.headlines', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 26
+
+{'soc.culture.canada', 'alt.security', 'soc.culture.iranian', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ba.motorcycles', 'mh.forsale', 'sci.crypt', 'sci.med', 'alt.society.civil-liberty', 'osu.for-sale', 'comp.windows.x', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.president.clinton', 'talk.politics.misc', 'ca.politics', 'ba.politics', 'rec.motorcycles', 'alt.discrimination', 'misc.headlines', 'talk.politics.guns', 'rec.autos.tech', 'misc.leg', 'rec.autos.vw', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.sys.amiga.marketplace', 'rec.autos', 'alt.security.pgp', 'soc.motss', 'misc.forsale', 'soc.culture.african.american', 'sci.electronics', 'soc.culture.usa', 'alt.sex', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'alt.rush-limbaugh', 'misc.forsale.computers.other', 'soc.men', 'alt.politics.clinton', 'misc.forsale.computers.pc', 'rec.motorcycles.harley', 'misc.wanted', 'comp.sys.mac.hardware', 'can.politics', 'misc.forsale.computers.pc-clone', 'alt.privacy', 'alt.fan.rush-limbaugh', 'comp.sys.hardware.ibmpc'}
+
+
+================================================================================
+
+CLUSTER 27
+
+{'talk.religion.misc', 'alt.atheism', 'talk.abortion'}
+
+
+================================================================================
+
+CLUSTER 28
+
+{'soc.culture.turkish', 'misc.forsale.computers.ot', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'alt.politics.homosexuality', 'alt.binaries.pi', 'misc.forsale.computers', 'misc.consumers.house', 'ba.motorcycles', 'misc.consumers', 'sci.med', 'sci.crypt', 'sci.materials', 'tx.politics', 'rec.photo', 'sci.space', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'rec.radio.amateur.packet', 'alt.law-enforcement', 'talk.politics.guns', 'alt.folklore.urban', 'alt.activism.d', 'alt.binaries.pictures.utilities', 'comp.sys.amiga.marketplace', 'rec.sport.baseball', 'rec.pyrotechnics', 'misc.forsale.wanted', 'rec.autos', 'misc.legal', 'misc.forsale', 'talk.abortion', 'news.admin.policy', 'alt.pagan', 'sci.electronics', 'nyx.forsale', 'alt.sex', 'talk.politics.mideast', 'soc.culture.jewish', 'co.ads', 'comp.os.ms-windows.misc', 'rec.sport.baseball.fantasy', 'misc.forsale.computers.mac', 'misc.forsale.computers.pc', 'alt.slack', 'comp.sys.mac.hardware', 'misc.wanted', 'co.general', 'alt.fan.rush-limbaugh', 'fido.cforsale'}
+
+
+================================================================================
+
+CLUSTER 29
+
+{'rec.sport.hockey', 'rec.sport.baseball', 'alt.security', 'misc.forsale', 'sci.crypt'}
+
+
+================================================================================
+
+CLUSTER 30
+
+{'alt.binaries.pictures.utilities', 'sci.edu', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.astro', 'sci.electronics', 'sci.crypt', 'sci.med', 'comp.os.msdos.programmer', 'uiuc.sys.ibm-pc', 'alt.binaries.pictures.d', 'sci.space', 'comp.os.ms-windows.misc', 'comp.graphics', 'sci.energy', 'alt.binaries.pictures.erotica.d', 'comp.sys.mac.hardware', 'comp.sys.mac.programmer'}
+
+
+================================================================================
+
+CLUSTER 31
+
+{'', 'rec.video.production', 'comp.windows.x.apps', 'comp.sys.ibm.pc.hardware', 'sci.astro', 'sci.med', 'sci.crypt', 'comp.sys.mac.misc', 'sci.space', 'comp.windows.x', 'soc.bi', 'comp.sys.ibm.pc.misc', 'alt.magick', 'comp.graphics', 'talk.religion.misc', 'uw.pc.ibm', 'alt.conspiracy', 'talk.politics.misc', 'comp.text.interleaf', 'comp.text', 'comp.text.frame', 'rec.motorcycles', 'alt.atheism', 'talk.politics.space', 'talk.politics.guns', 'comp.theory', 'rec.sport.baseball', 'uw.graphics', 'comp.os.ms-windows.setup', 'rec.sport.hockey', 'comp.misc', 'soc.college.gradinfo', 'comp.os.msdos.apps', 'rec.autos', 'misc.legal', 'comp.windows.x.intrinsics', 'soc.motss', 'uw.forsale', 'misc.forsale', 'alt.pagan', 'sci.electronics', 'comp.sys.sun.admin', 'comp.lang.postscript', 'comp.os.msdos.misc', 'soc.culture.usa', 'pnw.forsale', 'comp.os.ms-windows.misc', 'seattle.forsale', 'uwash.forsale', 'biz.comp.hardware', 'comp.sys.mac.hardware', 'rec.video', 'comp.graphics.animation', 'alt.activism', 'alt.drugs', 'soc.college.grad'}
+
+
+================================================================================
+
+CLUSTER 32
+
+{'rec.sport.baseball', 'rec.sport.hockey', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.forsale', 'talk.abortion', 'news.admin.policy', 'ne.forsale', 'sci.crypt', 'comp.admin.policy', 'rec.audio', 'talk.politics.mideast', 'ny.forsale', 'comp.os.ms-windows.misc', 'alt.politics.clinton', 'comp.graphics', 'talk.religion.misc', 'alt.president.clinton', 'comp.sys.mac.hardware', 'comp.sys.amiga.graphics', 'comp.graphics.animation', 'alt.atheism', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 33
+
+{'', 'comp.answers', 'rec.games.board', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'comp.sys.mac.databases', 'comp.org.eff.talk', 'ba.wanted', 'ba.motorcycles', 'misc.consumers', 'sci.med', 'sci.crypt', 'ny.forsale', 'sci.space', 'comp.windows.x', 'soc.bi', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'talk.politics.misc', 'rec.games.video.marketplace', 'comp.text', 'ucb.market.vehicles', 'rec.motorcycles', 'alt.parents-teens', 'news.answers', 'ba.market.misc', 'talk.politics.guns', 'comp.periphs', 'rec.autos.tech', 'rec.sport.baseball', 'rec.sport.hockey', 'cwru.general', 'rec.motorcycles.racing', 'misc.writing', 'rec.autos', 'misc.legal', 'ba.market.computers', 'sci.environment', 'soc.motss', 'comp.lang.tcl', 'alt.privacy.clipper', 'misc.forsale', 'alt.graphics.pixutils', 'sci.electronics', 'sci.answers', 'comp.sys.sun.admin', 'comp.os.os2.misc', 'rec.food.cooking', 'talk.politics.mideast', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'misc.entrepreneurs', 'misc.computer.forsale', 'misc.forsale.computers.mac', 'sci.med.occupational', 'ba.market.vehicles', 'comp.os.misc', 'cwru.ins.general', 'comp.sys.mac.hardware', 'ucb.market.misc', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 34
+
+{'comp.sys.ibm.pc.hardware', 'gnu.misc.discuss', 'comp.graphics.visualization', 'misc.consumers', 'sci.med', 'sci.crypt', 'sci.space', 'comp.windows.x', 'chi.forsale', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'talk.politics.space', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.autos.tech', 'misc.health.alternative', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'misc.legal', 'sci.environment', 'alt.security.pgp', 'alt.privacy.clipper', 'misc.forsale', 'sci.electronics', 'comp.os.windows.misc', 'soc.culture.usa', 'alt.sex', 'sci.med.nutrition', 'rec.food.cooking', 'soc.culture.jewish', 'comp.os.ms-windows.misc', 'alt.rush-limbaugh', 'soc.men', 'sci.med.occupational', 'alt.society.sovereign', 'comp.sys.mac.hardware', 'alt.privacy', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 35
+
+{'misc.consumers.house', 'sci.space.shuttle', 'sci.astro', 'misc.consumers', 'sci.med', 'sci.crypt', 'sci.anthropology', 'rec.audio', 'sci.materials', 'sci.space', 'sci.image.processing', 'alt.politics.usa.constitution', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'sci.energy', 'talk.politics.misc', 'alt.alien.visitors', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.autos.tech', 'alt.sci.planetary', 'rec.audio.car', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'sci.environment', 'misc.forsale', 'talk.abortion', 'sci.electronics', 'rec.food.cooking', 'soc.women', 'comp.os.ms-windows.misc', 'talk.origins', 'rec.motorcycles.harley', 'alt.sci.physics.new-theories', 'comp.sys.mac.hardware'}
+
+
+================================================================================
+
+CLUSTER 36
+
+{'cornell.marketplace', 'rec.arts.comics.marketplace', 'misc.rural', 'sci.physics', 'rec.sport.baseball', 'rec.sport.hockey', 'talk.environment', 'rec.autos', 'sci.environment', 'rec.backcountry', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.astro', 'k12.chat.teacher', 'misc.consumers', 'sci.med', 'rec.music.marketplace', 'ny.forsale', 'rec.photo', 'sci.space', 'comp.os.ms-windows.misc', 'comp.windows.x', 'alt.music.alternative', 'comp.graphics', 'comp.sys.sun.misc', 'misc.invest', 'talk.politics.misc', 'comp.sys.mac.hardware', 'rec.motorcycles', 'talk.politics.space', 'comp.sys.mac.programmer', 'misc.headlines'}
+
+
+================================================================================
+
+CLUSTER 37
+
+{'sci.geo.geology', 'alt.aci.planetary', 'misc.rural', 'rec.sport.baseball', 'talk.environment', 'sci.geo.meteorology', 'sci.environment', 'rec.backcountry', 'sci.astro', 'k12.chat.teacher', 'misc.consumers', 'sci.answers', 'alt.astrology', 'alt.history.what-if', 'sci.space', 'misc.invest', 'talk.politics.space', 'news.answers', 'misc.headlines'}
+
+
+================================================================================
+
+CLUSTER 38
+
+{'rec.video.production', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.programmer.misc', 'comp.sys.ibm.pc.hardware', 'misc.forsale.computers', 'comp.graphics.visualization', 'misc.consumers', 'sci.med', 'comp.windows.x.app', 'alt.3d', 'rec.audio', 'rec.photo', 'comp.sys.sgi.apps', 'alt.graphics', 'comp.windows.x', 'sci.image.processing', 'comp.graphics', 'rec.motorcycles.dirt', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'news.announce.newgroups', 'ba.market.misc', 'ba.forsale', 'rec.autos.tech', 'rec.autos.vw', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'comp.windows.x.intrinsics', 'ba.market.computers', 'sci.environment', 'comp.windows.x.motif', 'misc.forsale', 'sci.electronics', 'news.groups', 'dc.forsale', 'comp.os.msdos.misc', 'comp.os.os2.misc', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'comp.sys.sgi.graphics', 'rec.motorcycles.harley', 'comp.sys.mac.hardware', 'rec.video', 'comp.graphics.animation'}
+
+
+================================================================================
+
+CLUSTER 39
+
+{'comp.sys.mac.portables', 'comp.answers', 'comp.protocols.appletalk', 'comp.music', 'comp.sys.ibm.pc.hardware', 'comp.sys.mac.databases', 'comp.sys.next.hardware', 'comp.sources.wanted', 'comp.sys.mac.apps', 'comp.sys.next.software', 'comp.sys.mac.misc', 'comp.sys.mac.app', 'rec.music.synth', 'comp.sys.sun.hardware', 'comp.sys.ibm.pc.misc', 'comp.unix.aux', 'austin.general', 'comp.sys.mac.games', 'news.answers', 'comp.sys.mac.programmer', 'rec.music.makers.synth', 'tx.forsale', 'comp.sys.mac.comm', 'ucsd.buy+sell', 'cmu.comp.sys.mac', 'rec.music.makers', 'misc.forsale.wanted', 'misc.forsale', 'alt.sources.wanted', 'comp.sys.mac', 'comp.lang.postscript', 'comp.sys.mac.wanted', 'austin.forsale', 'comp.sys.mac.system', 'comp.dcom.modems', 'comp.os.ms-windows.misc', 'misc.forsale.computers.mac', 'ca.wanted', 'comp.sys.mac.hardware', 'misc.wanted', 'sdnet.wanted'}
+
+
+================================================================================
+
+CLUSTER 40
+
+{'alt.activism', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'umr.student.forsale', 'misc.forsale.computers', 'comp.graphics.visualization', 'misc.consumers', 'sci.crypt', 'sci.med', 'alt.society.civil-liberty', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'talk.religion.misc', 'rec.autos.tec', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'sci.environment', 'alt.privacy.clipper', 'misc.forsale', 'sci.electronics', 'soc.culture.usa', 'rec.food.cooking', 'soc.women', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.sys.mac.hardware', 'misc.headlines', 'alt.civil-liberties'}
+
+
+================================================================================
+
+CLUSTER 41
+
+{'', 'comp.sys.misc', 'alt.cd-rom', 'comp.sys.laptops', 'comp.protocols.misc', 'comp.sys.ibm.pc.hardware', 'comp.sys.ibm.pc.soundcard', 'comp.sys.atari.st', 'comp.binaries.ibm.pc.wanted', 'comp.periphs.scsi', 'comp.sys.next.hardware', 'comp.sys.3b1', 'comp.sys.zenith', 'ba.wanted', 'misc.consumers', 'comp.os.linux', 'comp.os.msdos.programmer', 'comp.sys.workstations', 'comp.arch.storage', 'uw.general', 'comp.windows.x', 'comp.sys.sun.hardware', 'comp.sys.ibm.pc.misc', 'comp.sys.intel', 'comp.graphics', 'uw.pc.ibm', 'ont.general', 'comp.arch', 'ba.market.misc', 'comp.sys.m68k', 'comp.periphs', 'comp.multimedia', 'rec.music.makers.synth', 'comp.unix.pc-clone.32bit', 'comp.os.ms-windows.setup', 'comp.misc', 'alt.msdos.programmer', 'comp.sys.novell', 'comp.sys.sgi.hardware', 'ba.market.computers', 'comp.os.386bsd.questions', 'comp.dcom.lans.ethernet', 'uw.pc.general', 'misc.forsale', 'sci.electronics', 'comp.os.msdos.misc', 'rec.music.marketplace', 'comp.dcom.modems', 'comp.sys.amiga.hardware', 'comp.protocols.tcp-ip.ibmpc', 'ca.wanted', 'misc.forsale.computers.other', 'biz.comp.hardware', 'comp.sys.ibm.pc.games', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'misc.wanted', 'can.general', 'comp.sys.ibm.pc'}
+
+
+================================================================================
+
+CLUSTER 42
+
+{'rec.sport.baseball', 'comp.windows.x.apps', 'comp.sys.ibm.pc.hardware', 'comp.text.tex', 'misc.forsale', 'comp.lang.postscript', 'soc.culture.usa', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.windows.x', 'comp.os.ms-windows.misc', 'soc.misc', 'talk.politics.misc', 'comp.text.interleaf', 'comp.sys.mac.hardware', 'comp.text', 'comp.text.frame', 'misc.headlines'}
+
+
+================================================================================
+
+CLUSTER 43
+
+{'alt.law-enforcement', 'tx.general', 'alt.activism', 'justice.usa', 'alt.civil-liberties', 'rec.autos', 'misc.legal', 'alt.fan.rush-limbaugh', 'soc.culture.usa', 'soc.culture.jewish', 'tx.politics', 'alt.rush-limbaugh', 'alt.politics.clinton', 'sci.skeptic', 'alt.conspiracy', 'talk.religion.misc', 'alt.politics.libertarian', 'talk.politics.misc', 'soc.culture.british', 'can.politics', 'misc.headlines', 'alt.atheism', 'alt.activism.d', 'alt.society.civil-liberties', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 44
+
+{'alt.sex', 'misc.leg', 'soc.men', 'alt.politics.clinton', 'soc.history', 'misc.legal', 'sci.electronics', 'talk.politics.misc', 'ca.politics', 'ba.politics', 'misc.headlines', 'misc.consumers'}
+
+
+================================================================================
+
+CLUSTER 45
+
+{'talk.politics.mideast', 'rec.sport.baseball', 'rec.sport.hockey', 'maine.hockey-l', 'edm.general', 'misc.forsale', 'rec.answers', 'rec.autos.sport', 'rec.skate', 'news.answers'}
+
+
+================================================================================
+
+CLUSTER 46
+
+{'soc.culture.turkish', 'soc.culture.iranian', 'soc.culture.bulgaria', 'soc.cultur', 'soc.culture.hongkong', 'soc.culture.bosna-herzgvna', 'soc.culture.german', 'soc.culture.africa', 'talk.politics', 'soc.culture.malaysia', 'comp.windows.x', 'alt.conspiracy', 'soc.culture.croatia', 'talk.politics.misc', 'soc.culture.nordic', 'soc.culture.latin-america', 'soc.culture.greek', 'talk.politics.soviet', 'comp.text', 'alt.atheism', 'soc.culture.korean', 'alt.illuminat', 'alt.folklore.urban', 'soc.culture.soviet', 'soc.rights.human', 'soc.culture.m', 'soc.history', 'soc.culture.vietnamese', 'soc.culture.europe', 'alt.religion.kibology', 'sci.lang.japan', 'soc.culture.afganistan', 'sci.electronics', 'alt.censorship', 'soc.culture.usa', 'alt.stupidity', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'soc.culture.taiwan', 'soc.culture.african', 'soc.culture.asean', 'alt.chinese.text', 'soc.culture.singapore', 'soc.culture.japan', 'soc.culture.indian', 'soc.culture.yugoslavia', 'soc.culture.pakistan', 'alt.fan.serdar-argic', 'soc.culture.china'}
+
+
+================================================================================
+
+CLUSTER 47
+
+{'rec.radio.amateur.misc', 'comp.sys.laptops', 'comp.sys.ibm.pc.hardware', 'comp.sys.next.hardware', 'misc.forsale.computers', 'ba.motorcycles', 'misc.consumers', 'sci.med', 'sci.astro', 'comp.sys.next.software', 'alt.society.civil-liberty', 'att.forsale', 'comp.windows.x', 'sci.space', 'comp.graphics', 'sci.skeptic', 'alt.conspiracy', 'talk.religion.misc', 'alt.president.clinton', 'misc.invest', 'talk.politics.misc', 'alt.rodney-king', 'rec.motorcycles', 'alt.discrimination', 'comp.forsale', 'comp.periphs', 'talk.politics.guns', 'rec.radio.amateur.packet', 'comp.multimedia', 'comp.sys.mac.programmer', 'rec.autos', 'misc.legal', 'sci.econ', 'sci.environment', 'soc.motss', 'misc.forsale', 'talk.abortion', 'sci.electronics', 'comp.sys.mac.wanted', 'soc.culture.arabic', 'soc.culture.jewish', 'talk.politics.mideast', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'misc.forsale.computers.mac', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'comp.graphics.animation', 'soc.culture.pakistan', 'alt.fan.rush-limbaugh', 'comp.sys.ibm.pc'}
+
+
+================================================================================
+
+CLUSTER 48
+
+{'talk.politics.misc', 'alt.atheism', 'soc.religion.christian', 'misc.legal', 'talk.religion.misc'}
+
+
+================================================================================
+
+CLUSTER 49
+
+{'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'comp.graphics.visualization', 'sci.astro', 'sci.med', 'sci.crypt', 'alt.3d', 'comp.os.linux', 'comp.os.msdos.programmer', 'sci.space', 'comp.windows.x', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'alt.sci.planetary', 'rec.motorcycles.racing', 'rec.autos', 'alt.religion.kibology', 'comp.windows.x.motif', 'alt.spam', 'alt.privacy.clipper', 'sci.electronics', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.sys.mac.hardware', 'comp.sys.intel'}
+
+
+================================================================================
+
+CLUSTER 50
+
+{'soc.culture.canada', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ne.forsale', 'sci.crypt', 'sci.med', 'comp.lang.c++', 'sci.space', 'comp.windows.x', 'sci.image.processing', 'rec.travel.air', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'comp.object', 'talk.politics.misc', 'rec.motorcycles', 'alt.fan.david-sternlight', 'talk.politics.guns', 'comp.multimedia', 'athena.forsale', 'rec.autos.vw', 'rec.sport.baseball', 'rec.autos', 'alt.security.pgp', 'comp.windows.x.motif', 'soc.motss', 'alt.privacy.clipper', 'misc.forsale', 'sci.electronics', 'rec.food.cooking', 'soc.culture.jewish', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'comp.sys.mac.hardware', 'can.politics', 'rec.travel', 'soc.bi'}
+
+
+================================================================================
+
+CLUSTER 51
+
+{'comp.answers', 'comp.sys.sun.apps', 'comp.unix.misc', 'rec.autos', 'comp.windows.x.intrinsics', 'comp.sys.ibm.pc.hardware', 'comp.windows.x.motif', 'comp.lang.postscript', 'bit.listserv.pscript', 'comp.windows.x', 'comp.os.ms-windows.misc', 'comp.sys.sun', 'comp.graphics', 'comp.windows.open-look', 'comp.sys.sun.misc', 'comp.unix.solaris', 'rec.motorcycles', 'news.answers'}
+
+
+================================================================================
+
+CLUSTER 52
+
+{'rec.sport.hockey', 'alt.binaries.pictures.supermodels', 'comp.sys.sun.apps', 'rec.autos', 'comp.windows.x.intrinsics', 'alt.security.pgp', 'comp.windows.x.motif', 'alt.privacy.clipper', 'alt.graphics.pixutils', 'talk.abortion', 'misc.forsale', 'comp.lang.postscript', 'sci.electronics', 'sci.crypt', 'comp.sys.sun.admin', 'sci.med', 'comp.graphics.gnuplot', 'bit.listserv.pscript', 'alt.binaries.pictures.d', 'comp.windows.x', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.graphics', 'talk.religion.misc', 'alt.binaries.pictures.erotica.d', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'comp.windows.open-look', 'alt.atheism'}
+
+
+================================================================================
+
+CLUSTER 53
+
+{'rec.sport.hockey', 'comp.windows.x', 'talk.religion.misc', 'comp.sys.ibm.pc.hardware', 'comp.windows.x.motif', 'talk.politics.misc', 'talk.abortion', 'alt.atheism'}
+
+
+================================================================================
+
+CLUSTER 54
+
+{'rec.food.cooking', 'soc.culture.jewish', 'misc.health.alternative', 'misc.fitness', 'talk.religion.misc', 'talk.politics.medicine', 'sci.med', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 55
+
+{'aus.computers.ibm-pc', 'comp.sys.amgia.graphics', 'comp.misc', 'comp.sys.laptops', 'rec.sport.baseball', 'rec.sport.hockey', 'misc.fitness', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'sci.environment', 'sci.astro', 'sci.electronics', 'sci.med', 'misc.consumers', 'comp.os.msdos.misc', 'aus.mac', 'alt.history.what-if', 'comp.sys.mac.system', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'sci.space', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'rec.motorcycles', 'comp.periphs'}
+
+
+================================================================================
+
+CLUSTER 56
+
+{'misc.rural', 'alt.activism', 'comp.windows.x.apps', 'comp.infosystems.wais', 'comp.os.ms-windows.programmer.misc', 'uiuc.classifieds.computer', 'alt.fan.rush-limbaugh', 'sci.space.shuttle', 'sci.astro', 'misc.consumers', 'sci.med', 'k12.chat.teacher', 'alt.autos.antique', 'labs.talk', 'comp.lang.c++', 'sci.materials', 'sci.space', 'sci.image.processing', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'alt.conspiracy', 'talk.politics.misc', 'comp.infosystems', 'rec.motorcycles', 'alt.discrimination', 'alt.society.civil-liberties', 'talk.politics.guns', 'alt.flame', 'rec.autos', 'misc.legal', 'sci.environment', 'rec.backcountry', 'misc.forsale', 'talk.abortion', 'talk.philosophy.misc', 'alt.sex', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.infosystems.gopher', 'alt.rush-limbaugh', 'rec.autos.antique', 'misc.forsale.computers.other', 'soc.men', 'soc.culture.british', 'alt.journalism', 'soc.culture.canada', 'soc.culture.turkish', 'alt.privacy', 'talk.environment', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'alt.psychology.personality', 'comp.org.eff.talk', 'misc.forsale.computers', 'ne.forsale', 'sci.crypt', 'rec.audio', 'uiuc.classifieds', 'ny.forsale', 'comp.os.msdos.programmer', 'alt.magick', 'talk.religion.misc', 'rec.autos.tec', 'misc.invest', 'soc.culture.greek', 'talk.politics.space', 'alt.atheism', 'rec.autos.tech', 'comp.lang.c', 'rec.audio.car', 'rec.autos.vw', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.sys.mac.comm', 'alt.security.pgp', 'sci.lang', 'soc.motss', 'alt.pagan', 'sci.electronics', 'soc.culture.usa', 'soc.culture.arabic', 'rec.food.cooking', 'soc.women', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.sys.mac.hardware', 'comp.os.ms-windows.programmer.tools', 'alt.hypertext', 'misc.headlines', 'rec.arts.drwho'}
+
+
+================================================================================
+
+CLUSTER 57
+
+{'alt.flame', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'soc.culture.turkish', 'soc.misc', 'alt.conspiracy', 'talk.politics.misc', 'misc.headlines', 'alt.activism', 'alt.censorship'}
+
+
+================================================================================
+
+CLUSTER 58
+
+{'comp.sys.ibm.pc.hardware', 'sci.electronics', 'comp.os.msdos.programmer', 'alt.msdos.programmer'}
+
+
+================================================================================
+
+CLUSTER 59
+
+{'alt.sci.planetary', 'ott.forsale', 'rec.audio.car', 'rec.sport.hockey', 'rec.sport.baseball', 'comp.music', 'ont.forsale', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'misc.forsale', 'sci.astro', 'sci.electronics', 'sci.med', 'talk.politics.medicine', 'rec.music.marketplace', 'sci.crypt', 'ba.motorcycles', 'rec.audio', 'talk.politics.mideast', 'sci.space', 'comp.os.ms-windows.misc', 'comp.windows.x', 'talk.religion.misc', 'comp.sys.mac.hardware', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.music.makers.synth'}
+
+
+================================================================================
+
+CLUSTER 60
+
+{'alt.sci.planetary', 'rec.audio.car', 'sci.physics', 'rec.sport.baseball', 'alt.activism', 'rec.autos', 'misc.legal', 'comp.org.eff.talk', 'misc.forsale', 'sci.astro', 'sci.electronics', 'sci.crypt', 'sci.med', 'soc.culture.usa', 'rec.audio', 'sci.space', 'comp.os.ms-windows.misc', 'alt.rush-limbaugh', 'alt.politics.usa.constitution', 'alt.society.sovereign', 'talk.politics.misc', 'comp.sys.mac.hardware', 'talk.politics.space', 'alt.atheism', 'alt.fan.rush-limbaugh', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 61
+
+{'soc.culture.turkish', 'rec.sport.hockey', 'rec.autos', 'misc.forsale', 'news.admin.policy', 'sci.med', 'comp.os.msdos.misc', 'comp.sys.mac.misc', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'sci.space', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.graphics', 'talk.religion.misc', 'talk.politics.misc', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'alt.atheism', 'alt.activism.d', 'comp.sys.mac.programmer', 'talk.politics.guns', 'alt.folklore.urban', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 62
+
+{'rec.radio.amateur.misc', 'tek.forsale', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'sci.astro', 'sci.med', 'comp.windows.x', 'sci.space', 'or.forsale', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'misc.invest', 'talk.politics.misc', 'ca.politics', 'misc.invest.real-estate', 'rec.radio.amateur.packet', 'rec.motorcycles', 'alt.atheism', 'alt.flame', 'rec.sport.baseball', 'pdx.forsale', 'rec.autos', 'sci.econ', 'comp.os.ms-windows.programmer.win32', 'soc.motss', 'misc.forsale', 'talk.abortion', 'sci.electronics', 'alt.sex', 'pnw.forsale', 'comp.os.ms-windows.misc', 'talk.origins', 'soc.men', 'comp.sys.mac.hardware'}
+
+
+================================================================================
+
+CLUSTER 63
+
+{'rec.sport.hockey', 'misc.forsale.wanted', 'comp.sys.ibm.pc.hardware', 'us.wanted.misc', 'sci.crypt', 'talk.politics.drugs', 'comp.lang.c++', 'soc.culture.usa', 'talk.politics.mideast', 'alt.politics.usa.misc', 'alt.rush-limbaugh', 'talk.origins', 'comp.graphics', 'alt.conspiracy', 'talk.religion.misc', 'talk.politics.misc', 'misc.forsale.computers.pc-clone', 'comp.sys.mac.hardware', 'alt.atheism', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 64
+
+{'sci.geo.geology', 'alt.aci.planetary', 'sci.physics', 'misc.rural', 'talk.politics.libertarian', 'eunet.newprod', 'talk.environment', 'sci.optics', 'sci.space.shuttle', 'sci.astro', 'misc.consumers', 'k12.chat.teacher', 'sci.materials', 'sci.space', 'sci.misc', 'rec.arts.sf.marketplace', 'misc.invest', 'talk.politics.misc', 'rec.arts.sf.written', 'talk.politics.space', 'news.answers', 'rec.aviation.misc', 'alt.sci.planetary', 'rec.arts.sf.science', 'misc.legal', 'sci.environment', 'rec.backcountry', 'sci.research', 'talk.politics/space', 'rec.models.rockets', 'eunet.misc', 'sci.answers', 'alt.astrology', 'rec.arts.books', 'misc.education', 'sci.bio', 'misc.headlines', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 65
+
+{'soc.religion.christian'}
+
+
+================================================================================
+
+CLUSTER 66
+
+{'comp.sys.ibm.pc.hardware', 'comp.sys.mac.hardware', 'misc.forsale', 'comp.os.ms-windows.misc', 'rec.motorcycles'}
+
+
+================================================================================
+
+CLUSTER 67
+
+{'comp.unix.aix', 'news.announce.newgroups', 'rec.sport.hockey', 'sci.space', 'comp.windows.x', 'rec.sport.baseball', 'comp.graphics', 'comp.sys.amiga.multimedia', 'comp.sys.ibm.pc.hardware', 'comp.periphs.scsi', 'comp.sys.mac.hardware', 'sci.electronics', 'sci.crypt', 'news.groups', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 68
+
+{'comp.os.os2.misc', 'bit.listserv.os2-l', 'comp.sys.amiga.marketplace', 'comp.os.ms-windows.misc', 'comp.arch.storage', 'comp.sys.ibm.pc.hardware', 'comp.periphs.scsi', 'misc.forsale.computers', 'misc.forsale', 'misc.forsale.computers.workstation', 'comp.sys.mac.hardware', 'comp.periphs'}
+
+
+================================================================================
+
+CLUSTER 69
+
+{'alt.aci.planetary', 'comp.sys.ibm.pc.hardware', 'uwisc.cae.general', 'sci.astro', 'misc.consumers', 'sci.crypt', 'wi.forsale', 'sci.space', 'comp.windows.x', 'comp.graphics', 'sci.skeptic', 'uwisc.forsale', 'talk.religion.misc', 'talk.politics.misc', 'alt.atheism', 'comp.periphs.printers', 'comp.sys.amiga.marketplace', 'rec.sport.hockey', 'misc.legal', 'misc.forsale', 'talk.abortion', 'sci.electronics', 'alt.astrology', 'alt.sex', 'comp.unix.aix', 'talk.politics.mideast', 'comp.dcom.modems', 'comp.os.ms-windows.misc', 'talk.origins', 'soc.men', 'comp.robotics', 'comp.sys.sgi.graphics', 'comp.sys.mac.hardware'}
+
+
+================================================================================
+
+CLUSTER 70
+
+{'alt.sales.fundada', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.sys.sgi.misc', 'rec.autos', 'comp.windows.x.intrinsics', 'alt.security.pgp', 'comp.sys.ibm.pc.hardware', 'talk.abortion', 'alt.pagan', 'sci.crypt', 'comp.sys.mac.misc', 'comp.windows.x', 'talk.origins', 'comp.graphics', 'talk.religion.misc', 'alt.precious-metals.aluminum', 'talk.politics.misc', 'comp.sys.mac.hardware', 'alt.slack', 'alt.atheism', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 71
+
+{'cle.forsale', 'rec.music.misc', 'comp.sys.3b1', 'us.forsale.d', 'comp.periphs.scsi', 'misc.forsale.comp', 'maine.forsale', 'comp.unix.sysv386', 'pa.forsale', 'or.forsale', 'ru.camden.misc.general', 'uwisc.forsale', 'comp.forsale', 'cmh.forsale', 'ba.forsale', 'kw.forsale', 'phl.forsale', 'misc.forsale.computers.d', 'misc.forsale.wanted', 'misc.writing', 'rec.autos', 'ba.market.computers', 'computers.pc-clone', 'us.wanted.misc', 'misc.forsale', 'fj.forsale', 'comp.sys.mac.wanted', 'computers.workstation', 'comp.unix.aix', 'austin.forsale', 'ul.forsale', 'uwash.forsale', 'comp.terminals', 'freenet.com-ctr.forsale', 'git.ads', 'rec.games.video.sega', 'comp.music', 'tamu.forsale', 'comp.unix.misc', 'comp.sys.ibm.pc.hardware', 'comp.sys.next.marketplace', 'comp.unix.pc-clone.16bit', 'ne.forsale', 'princeton.forsale', 'fl.forsale', 'ny.forsale', 'chi.forsale', 'comp.unix.sys5.misc', 'rpi.forsale', 'rec.games.video.marketplace', 'rec.music.makers.synth', 'comp.unix.sysv286', 'rec.bicycles.marketplace', 'tx.forsale', 'mi.forsale', 'comp.sys.amiga.marketplace', 'sqnt-public.forsale', 'misc.forsale.computers.macne.forsale', 'us.forsale', 'pnw.forsale', 'misc.fosale.computers.pc-clone', 'comp.sys.sun.wanted', 'us.forsale.misc', 'seattle.forsale', 'misc.entrepreneurs', 'misc.forsale.computers.mac', 'orst.forsale', 'ca.wanted', 'misc.books.technical', 'us.forsale.computers', 'comp.sys.mac.hardware', 'rec.games.video', 'houston.forsale', 'comp.sys.ibm.pc', 'dfw.forsale', 'nj.market.housing', 'ru.misc.general', 'umr.student.forsale', 'misc.fosale.computers', 'cor.forsale', 'aus.forsale', 'triangle.forsale', 'att.forsale', 'rec.motorcycles', 'ont.forsale', 'comp.sys.ibm.ps2.hardware', 'clem.marketplace', 'pdx.forsale', 'ga.forsale', 'uw.forsale', 'comp.apps.spreadshets', 'rec.music.marketplace', 'rec.video.releases', 'alt.books.technical', 'misc.forsale.computers.other', 'comp.sys.palmtops', 'comp.sys.apple2', 'misc.forsale.computers.pc-clone', 'misc.wanted', 'comp.sys.att', 'alt.sega.genesis', 'wpi.forsale', 'pubnet.wanted', 'misc.forsale.computers', 'rec.audio', 'wi.forsale', 'rec.photo', 'rec.gardens', 'misc.forsale.computer', 'sdnet.forsale', 'ba.market.misc', 'ott.forsale', 'alt.forsale', 'athena.forsale', 'comp.unix.pc-clone.32bit', 'rec.audio.car', 'ne.wanted', 'misc.forsale.pc-clone', 'rec.music.makers', 'comp.sys.handhelds', 'misc.forsale.computers.workstation', 'dc.forsale', 'nj.forsale', 'comp.os.ms-windows.misc', 'na.forsale', 'rec.video', 'alt.suburbs', 'comp.unix.sys5.r4'}
+
+
+================================================================================
+
+CLUSTER 72
+
+{'comp.sys.ibm.pc.hardware', 'rec.motorcycles', 'comp.os.os2.misc', 'comp.windows.x'}
+
+
+================================================================================
+
+CLUSTER 73
+
+{'soc.culture.usa', 'soc.culture.german', 'alt.binaries.pictures.utilities', 'comp.os.ms-windows.misc', 'comp.windows.x', 'comp.graphics', 'comp.sys.ibm.pc.hardware', 'soc.culture.europe', 'soc.culture.nordic', 'comp.sys.mac.hardware', 'alt.graphics.pixutils', 'rec.motorcycles', 'comp.windows.open-look', 'sci.electronics'}
+
+
+================================================================================
+
+CLUSTER 74
+
+{'', 'alt.fan.howard-stern', 'misc.consumers.house', 'misc.consumers', 'sci.med', 'comp.unix.sysv386', 'comp.lang.c++', 'triangle.forsale', 'sci.materials', 'tx.politics', 'ca.forsale', 'comp.windows.x', 'sci.space', 'comp.graphics', 'alt.conspiracy', 'rec.motorcycles.dirt', 'talk.politics.misc', 'alt.parents-teens', 'rec.motorcycles', 'news.announce.newgroups', 'talk.politics.guns', 'rec.motorcycles.racing', 'misc.forsale.wanted', 'rec.autos', 'misc.forsale', 'comp.unix.aix', 'sci.med.nutrition', 'talk.politics.mideast', 'ba.market', 'nyc.general', 'ba.market.vehicles', 'bionet.molbio.ageing', 'tx.motorcycles', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ba.motorcycles', 'ne.forsale', 'sci.crypt', 'maine.hockey-l', 'alt.cyberpunk', 'comp.mail.mh', 'comp.dcom.lans', 'rec.travel.air', 'talk.religion.misc', 'ca.politics', 'comp.unix.solaris', 'or.politics', 'alt.atheism', 'ba.market.misc', 'rec.autos.tech', 'sci.nanotech', 'rec.sport.hockey', 'rec.sport.baseball', 'sci.econ', 'rec.ham-radio.swap', 'sci.electronics', 'news.groups', 'alt.psychoactives', 'sci.cryonics', 'alt.fan.greaseman', 'comp.os.ms-windows.misc', 'sci.philosophy.meta', 'rec.motorcycles.harley', 'sci.bio', 'rec.travel', 'rec.video', 'comp.sys.mac.hardware'}
+
+
+================================================================================
+
+CLUSTER 75
+
+{'soc.culture.turkish', 'alt.security', 'soc.culture.iranian', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'sci.med', 'sci.crypt', 'comp.os.msdos.programmer', 'alt.supermodels', 'alt.politics.usa.constitution', 'sci.math.symbolic', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'ca.politics', 'soc.culture.greece', 'talk.politics.soviet', 'soc.culture.greek', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.games.video.arcade', 'rec.sport.hockey', 'rec.sport.baseball', 'alt.msdos.programmer', 'rec.autos', 'misc.legal', 'misc.forsale', 'comp.org.acm', 'sci.electronics', 'comp.sys.mac.wanted', 'soc.culture.jewish', 'talk.politics.mideast', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'talk.origins', 'alt.politics.clinton', 'comp.sys.mac.hardware', 'misc.wanted', 'soc.culture.yugoslavia', 'alt.fan.rush-limbaugh'}
+
+
+================================================================================
+
+CLUSTER 76
+
+{'rec.games.video.classic', 'alt.security', 'misc.consumers.house', 'alt.games.video.classic', 'sci.astro', 'misc.consumers', 'sci.med', 'uk.jobs', 'comp.lang.c++', 'comp.windows.x', 'sci.space', 'sci.image.processing', 'alt.super.nes', 'comp.sys.sun.hardware', 'comp.graphics', 'sci.skeptic', 'talk.politics.misc', 'ba.politics', 'comp.lang.modula2', 'rec.motorcycles', 'comp.periphs', 'talk.politics.guns', 'uk.misc', 'comp.sys.mentor', 'comp.sys.novell', 'rec.autos', 'comp.windows.x.intrinsics', 'misc.legal', 'sci.environment', 'alt.privacy.clipper', 'misc.forsale', 'talk.abortion', 'comp.lang.postscript', 'soc.religion.christian', 'alt.sex', 'talk.politics.mideast', 'alt.rush-limbaugh', 'misc.forsale.computers.other', 'comp.sys.amiga.hardware', 'soc.men', 'alt.binaries.pictures.erotica.d', 'misc.wanted', 'soc.culture.pakistan', 'alt.fan.serdar-argic', 'sci.math', 'comp.protocols.appletalk', 'soc.culture.turkish', 'alt.sega.genesis', 'alt.cd-rom', 'alt.binaries.pictures.supermodels', 'comp.music', 'comp.sys.laptops', 'comp.os.ms-windows.apps', 'misc.jobs.misc', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ba.motorcycles', 'sci.crypt', 'comp.sys.mac.misc', 'rec.audio', 'alt.binaries.pictures.d', 'alt.politics.usa.constitution', 'talk.religion.misc', 'ca.politics', 'rec.games.video.marketplace', 'alt.atheism', 'alt.politics.sex', 'alt.emusic', 'comp.sys.m68k', 'alt.folklore.urban', 'alt.authorware', 'comp.multimedia', 'comp.unix.pc-clone.32bit', 'alt.super.snes', 'rec.sport.hockey', 'comp.misc', 'rec.sport.baseball', 'rec.games.vectrex', 'comp.os.msdos.apps', 'alt.security.pgp', 'comp.windows.x.motif', 'alt.graphics.pixutils', 'sci.electronics', 'comp.lang.pascal', 'soc.culture.usa', 'soc.culture.arabic', 'comp.sys.mac.system', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'alt.politics.usa.misc', 'talk.origins', 'comp.sys.hp', 'rec.motorcycles.harley', 'comp.sys.mac.hardware', 'comp.windows.ms', 'rec.games.video', 'misc.headlines', 'comp.unix.sys5.r4'}
+
+
+================================================================================
+
+CLUSTER 77
+
+{'alt.magick', 'alt.conspiracy', 'talk.religion.misc', 'alt.sex.stories.alt.sex', 'talk.politics.misc', 'alt.slack', 'talk.abortion', 'alt.pagan', 'alt.atheism', 'talk.bizarre'}
+
+
+================================================================================
+
+CLUSTER 78
+
+{'comp.sys.next.advocacy', 'comp.protocols.appletalk', 'comp.archives.msdos.d', 'comp.os.386bsd.misc', 'comp.unix.msdos', 'comp.windows.ms.programmer', 'comp.os.ms-windows.apps', 'comp.windows.misc', 'comp.os.ms-windows.programmer.misc', 'comp.os.os2.advocacy', 'comp.sys.ibm.pc.hardware', 'comp.unix.misc', 'comp.os.ms-windows.announce', 'comp.org.sug', 'comp.ms-windows.apps', 'comp.unix.pc-clone.16bit', 'comp.lang.c++', 'comp.os.msdos.programmer', 'comp.windows.x', 'alt.fan.bill-gates', 'sys.mac.misc', 'comp.sys.ibm.pc.misc', 'comp.unix.dos-under-unix', 'comp.os.ms-windows.programme', 'comp.graphics', 'comp.os.os2.networking', 'comp.fonts', 'comp.sys.next.programmer', 'news.announce.newgroups', 'alt.windows.text', 'comp.windows.x.i386unix', 'comp.multimedia', 'bit.listserv.win3-l', 'comp.sys.ibm.ps2.hardware', 'comp.periphs.printers', 'comp.os.ms-windows.programmer.toolscomp.os.ms-windows.apps', 'comp.os.ms-windows.setup', 'comp.unix.wizards', 'comp.unix.pc-clone.32bit', 'comp.lang.c', 'comp.os.msdos.apps', 'comp.os.ms-windows.advocacy', 'comp.os.386bsd.questions', 'comp.os.ms-windows.programmer.win32', 'comp.databases', 'news.groups', 'comp.os.ms-win', 'comp.os.msdos.misc', 'comp.os.os2.misc', 'comp.os.msdos.pcgeos', 'comp.os.os2.programmer', 'gnu.ghostscript.bug', 'comp.os.ms-windows.misc', 'comp.os.misc', 'comp.sys.ibm.pc.games', 'comp.sys.ibm.pc.programmer', 'comp.os.ms-windows.programmer.tools', 'comp.windows.ms'}
+
+
+================================================================================
+
+CLUSTER 79
+
+{'su.market', 'soc.culture.iranian', 'alt.save.the.earth', 'comp.sys.3b1', 'comp.sys.next.hardware', 'sci.astro', 'misc.consumers', 'sci.med', 'alt.society.civil-liberty', 'comp.sys.next.software', 'talk.politics.drugs', 'boulder.general', 'ca.forsale', 'comp.windows.x', 'sci.image.processing', 'sci.space', 'comp.graphics', 'talk.politics.misc', 'soc.culture.korean', 'alt.rodney-king', 'rec.motorcycles', 'comp.sys.mac.programmer', 'talk.politics.guns', 'ba.forsale', 'comp.periphs.printers', 'misc.forsale.computers.d', 'rec.autos', 'ba.market.computers', 'misc.legal', 'sci.environment', 'rec.backcountry', 'misc.forsale', 'talk.abortion', 'comp.os.msdos.misc', 'talk.politics.mideast', 'alt.rush-limbaugh', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone', 'comp.sys.laptops', 'talk.environment', 'comp.os.ms-windows.apps', 'alt.out-of-body', 'comp.sys.ibm.pc.hardware', 'ba.market.housing', 'ba.motorcycles', 'sci.crypt', 'maine.hockey-l', 'alt.politics.usa.constitution', 'talk.religion.misc', 'talk.politics.space', 'alt.atheism', 'ba.market.misc', 'alt.law-enforcement', 'alt.forsale', 'rec.autos.vw', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.os.msdos.apps', 'comp.os.ms-windows.advocacy', 'sci.electronics', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'talk.origins', 'alt.society.sovereign', 'soc.culture.japan', 'comp.sys.mac.hardware', 'rec.games.video'}
+
+
+================================================================================
+
+CLUSTER 80
+
+{'rec.autos.vw', 'rec.autos', 'misc.legal', 'comp.sys.ibm.pc.hardware', 'rec.autos.driving', 'misc.forsale', 'rec.autos.sport', 'misc.consumers', 'sci.electronics', 'alt.autos.antique', 'talk.politics.mideast', 'rec.driving.ca', 'misc.consumer', 'nj.general', 'talk.religion.misc', 'sci.skeptic', 'soc.culture.japan', 'soc.culture.korean', 'misc.wanted', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'news.answers', 'rec.driving', 'rec.autos.tech'}
+
+
+================================================================================
+
+CLUSTER 81
+
+{'rec.arts.comics.marketplace', 'rec.arts.comics.xbooks', 'alt.cd-rom', 'comp.sys.ibm.pc.hardware', 'misc.forsale.computers', 'ne.forsale', 'sci.crypt', 'fl.forsale', 'comp.os.linux', 'rec.radio.swap', 'pa.forsale', 'ny.forsale', 'ca.forsale', 'comp.windows.x', 'mi.wanted', 'ba.market.misc', 'alt.forsale', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.games.frp.marketplace', 'rec.music.cd', 'comp.windows.x.motif', 'misc.forsale', 'rec.music.marketplace', 'nj.forsale', 'misc.forsale.computers.mac', 'misc.forsale.computers.other', 'bu.forsale', 'misc.books.technical', 'misc.forsale.computers.pc-clone', 'misc.wanted', 'rec.video', 'rec.collecting'}
+
+
+================================================================================
+
+CLUSTER 82
+
+{'alt.flame', 'alt.privacy', 'alt.security', 'uk.events', 'comp.os.ms-windows.advocacy', 'comp.security.misc', 'comp.org.ieee', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'alt.security.pgp', 'alt.privacy.clipper', 'comp.org.acm', 'sci.electronics', 'sci.crypt', 'sci.med', 'uk.org.community', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'alt.fan.bill-gates', 'comp.windows.x', 'demon.local', 'comp.graphics', 'demon.security', 'comp.sys.mac.hardware', 'rec.motorcycles', 'bit.listserv.xtropy-l'}
+
+
+================================================================================
+
+CLUSTER 83
+
+{'rec.sport.hockey', 'comp.os.ms-windows.misc', 'sci.space', 'comp.windows.x', 'comp.sys.ibm.pc.hardware', 'comp.sys.mac.hardware', 'misc.forsale', 'rec.radio.amateur.packet', 'sci.electronics', 'sci.crypt', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 84
+
+{'', 'soc.culture.iranian', 'alt.messianic', 'alt.fan.rush-limbaugh', 'alt.internet.services', 'alt.censorship.soc.history', 'misc.consumers', 'sci.med', 'alt.society.civil-liberty', 'talk.politics.drugs', 'sci.space', 'alt.sex.stories', 'sci.skeptic', 'alt.conspiracy', 'comp.graphics', 'rpi.rumor', 'demon.security', 'talk.politics.misc', 'alt.parents-teens', 'alt.discrimination', 'rec.motorcycles', 'alt.revisionism', 'news.announce.newgroups', 'talk.politics.guns', 'soc.culture.soviet', 'soc.religion.islam', 'rec.autos', 'misc.legal', 'alt.privacy.clipper', 'talk.abortion', 'soc.culture.african.american', 'sci.answers', 'soc.religion.christian', 'talk.philosophy.misc', 'alt.sex', 'sci.med.nutrition', 'talk.politics.mideast', 'soc.culture.jewish', 'soc.men', 'soc.culture.asean', 'alt.unix.wizards', 'alt.politics.libertarian', 'rec.scouting', 'alt.slack', 'bit.listserv.xtropy-l', 'soc.culture.pakistan', 'alt.journalism', 'soc.culture.turkish', 'alt.privacy', 'alt.sex.stories.alt.sex', 'alt.psychology.personality', 'alt.current_events.bosnia', 'sci.crypt', 'soc.singles', 'alt.politics.usa.constitution', 'alt.magick', 'soc.culture.bangladesh', 'talk.religion.misc', 'rpi.talk', 'ca.politics', 'talk.politics.soviet', 'soc.culture.greek', 'talk.politics.space', 'alt.atheism', 'alt.activism.d', 'comp.ai', 'alt.law-enforcement', 'news.answers', 'rec.autos.tech', 'soc.rights.human', 'rec.sport.hockey', 'rec.sport.baseball', 'misc.kids', 'talk.politics.cis', 'alt.history.whatif', 'soc.history', 'alt.security.pgp', 'soc.motss', 'talk.politics.china', 'alt.pagan', 'talk.religion.newage', 'talk.politics.medicine', 'news.groups', 'bit.listserv.lawsch-l', 'uk.org.community', 'alt.answers', 'soc.culture.arabic', 'alt.politics.usa.misc', 'talk.origins', 'alt.society.sovereign', 'alt.mythology', 'rec.motorcycles.harley', 'soc.culture.indian', 'misc.headlines', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 85
+
+{'comp.answers', 'comp.dsp', 'alt.binaries.pictures.supermodels', 'alt.zines', 'comp.graphics.visualization', 'rec.arts.misc', 'alt.internet.services', 'sci.astro', 'alt.binaries.pictures', 'rec.photo', 'alt.binaries.pictures.d', 'comp.windows.x', 'sci.image.processing', 'sci.space', 'alt.binaries.pictures.misc', 'comp.graphics', 'alt.virtual-worlds', 'alt.fax', 'rec.arts.animation', 'rec.mag', 'news.answers', 'comp.multimedia', 'alt.binaries.pictures.utilities', 'de.alt.binaries.pictures', 'alt.graphics.pixutils', 'comp.databases', 'alt.answers', 'comp.dcom.fax', 'comp.os.ms-windows.misc', 'alt.artcom', 'alt.binaries.pictures.erotica.d', 'comp.windows.ms', 'comp.sys.amiga.graphics', 'comp.graphics.animation'}
+
+
+================================================================================
+
+CLUSTER 86
+
+{'soc.culture.turkish', 'comp.sys.sun.apps', 'comp.sys.ibm.pc.hardware', 'comp.sys.atari.st', 'sci.astro', 'sci.med', 'comp.os.msdos.programmer', 'sci.space', 'comp.windows.x', 'sci.misc', 'rec.gardens', 'alt.magick', 'comp.graphics', 'talk.religion.misc', 'talk.politics.soviet', 'soc.culture.greek', 'comp.sys.mac.games', 'rec.motorcycles', 'comp.windows.open-look', 'comp.sys.mac.programmer', 'comp.multimedia', 'rec.arts.sf.science', 'alt.sci.planetary', 'rec.sport.hockey', 'alt.msdos.programmer', 'rec.autos', 'comp.windows.x.intrinsics', 'comp.windows.x.motif', 'alt.pagan', 'sci.electronics', 'talk.politics.mideast', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'comp.os.aix', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 87
+
+{'alt.security', 'comp.music', 'sunyab.forsale', 'comp.os.ms-windows.apps', 'comp.security.misc', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'comp.org.eff.talk', 'sci.crypt', 'sci.med', 'ny.forsale', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'comp.unix.solaris', 'rec.motorcycles', 'alt.atheism', 'comp.windows.open-look', 'ont.forsale', 'talk.politics.guns', 'comp.unix.wizards', 'comp.os.ms-windows.setup', 'rec.sport.hockey', 'rec.sport.baseball', 'misc.forsale.computers.d', 'rec.music.makers', 'rec.autos', 'misc.legal', 'alt.security.pgp', 'alt.privacy.clipper', 'misc.forsale', 'comp.org.acm', 'sci.electronics', 'soc.culture.jewish', 'rec.food.cooking', 'edm.general', 'comp.os.ms-windows.misc', 'misc.forsale.computers.other', 'comp.sys.mac.hardware', 'alt.activism', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 88
+
+{'alt.security', 'alt.cd-rom', 'soc.culture.iranian', 'comp.security.misc', 'comp.org.ieee', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'comp.text.tex', 'comp.periphs.scsi', 'comp.graphics.visualization', 'comp.sources.wanted', 'alt.politics.homosexuality', 'sci.astro', 'sci.crypt', 'sci.med', 'sci.anthropology', 'sci.space', 'comp.windows.x', 'sci.image.processing', 'comp.sys.sun.hardware', 'sci.misc', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'sci.energy', 'talk.politics.misc', 'ca.politics', 'alt.alien.visitors', 'comp.unix.solaris', 'comp.windows.open-look', 'alt.atheism', 'rec.sport.hockey', 'rec.autos', 'comp.windows.x.intrinsics', 'alt.security.pgp', 'comp.windows.x.motif', 'alt.privacy.clipper', 'comp.org.acm', 'sci.electronics', 'comp.unix.aix', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.sys.sgi.graphics', 'comp.sys.mac.hardware', 'alt.sci.physics.new-theories', 'alt.privacy', 'alt.activism', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 89
+
+{'talk.religion.misc', 'alt.atheism', 'sci.physics', 'talk.abortion'}
+
+
+================================================================================
+
+CLUSTER 90
+
+{'comp.sys.mac.comm', 'Modems', 'comp.sys.laptops', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'comp.sys.mac', 'sci.electronics', 'comp.sys.mac.wanted', 'comp.sys.mac.apps', 'comp.sys.mac.misc', 'austin.forsale', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'PowerBook', 'misc.forsale.computers.mac', 'comp.graphics', 'comp.sys.mac.hardware', 'comp.sys.mac.software', 'comp.sys.mac.games', 'alt.atheism', 'comp.sys.mac.programmer', 'Hardware'}
+
+
+================================================================================
+
+CLUSTER 91
+
+{'rec.audio', 'rec.audio.car', 'alt.stagecraft', 'rec.radio.amateur.misc', 'nyc.general', 'rec.autos', 'comp.robotics', 'sci.optics', 'misc.consumers.house', 'comp.sys.atari.st.tech', 'comp.sys.mac.hardware', 'misc.forsale', 'rec.radio.amateur.packet', 'sci.electronics', 'comp.lsi'}
+
+
+================================================================================
+
+CLUSTER 92
+
+{'alt.pagan', 'talk.religion.misc'}
+
+
+================================================================================
+
+CLUSTER 93
+
+{'rec.radio.amateur.misc', 'alt.binaries.pictures.supermodels', 'rec.ham-radio', 'comp.sys.ibm.pc.hardware', 'comp.graphics.visualization', 'sci.astro', 'sci.med', 'sci.crypt', 'rec.radio.cb', 'alt.binaries.pictures.d', 'sci.image.processing', 'sci.space', 'comp.windows.x', 'sci.misc', 'alt.politics.usa.constitution', 'comp.graphics', 'talk.religion.misc', 'sci.aeronautic', 'talk.politics.misc', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'alt.binaries.pictures.utilities', 'comp.os.ms-windows.setup', 'rec.sport.hockey', 'rec.nude', 'sci.aeronautics', 'rec.autos', 'sci.econ', 'alt.graphics.pixutils', 'sci.electronics', 'comp.sys.mac.wanted', 'rec.radio.shortwave', 'comp.sys.sun.admin', 'comp.unix.aix', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'talk.origins', 'alt.binaries.pictures.erotica.d', 'comp.sys.ibm.pc.games', 'comp.sys.mac.hardware', 'comp.windows.ms', 'comp.graphics.animation', 'soc.bi'}
+
+
+================================================================================
+
+CLUSTER 94
+
+{'talk.politics.mideast', 'talk.origins', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'alt.slack', 'talk.religion.newage', 'alt.atheism', 'soc.religion.christian'}
+
+
+================================================================================
+
+CLUSTER 95
+
+{'rec.arts.comics.marketplace', 'justice.usa', 'alt.security', 'comp.security.misc', 'comp.org.eff.talk', 'ne.forsale', 'sci.crypt', 'sci.med', 'sci.anthropology', 'rec.audio', 'ny.forsale', 'tx.politics', 'sci.image.processing', 'sci.space', 'rec.arts.sf.marketplace', 'alt.politics.usa.constitution', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'sci.energy', 'talk.politics.misc', 'alt.alien.visitors', 'rec.mag', 'alt.atheism', 'alt.activism.d', 'alt.law-enforcement', 'talk.politics.guns', 'ba.forsale', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'soc.motss', 'alt.privacy.clipper', 'misc.forsale', 'rec.music.marketplace', 'soc.culture.usa', 'soc.culture.jewish', 'alt.politics.usa.misc', 'alt.rush-limbaugh', 'alt.politics.libertarian', 'rec.scouting', 'alt.sci.physics.new-theories', 'alt.privacy', 'alt.activism', 'misc.legal.computing'}
+
+
+================================================================================
+
+CLUSTER 96
+
+{'alt.rock-n-roll.metal', 'rec.music.misc', 'comp.sys.ibm.pc.hardware', 'alt.politics.bush', 'alt.society.civil-liberty', 'alt.politics.economics', 'ny.forsale', 'comp.windows.x', 'comp.dcom.lans', 'alt.politics.usa.constitution', 'comp.graphics', 'alt.conspiracy', 'talk.religion.misc', 'alt.president.clinton', 'phl.misc', 'talk.politics.misc', 'alt.politics.perot', 'rec.motorcycles', 'alt.atheism', 'alt.activism.d', 'alt.law-enforcement', 'talk.politics.guns', 'rec.sport.baseball', 'rec.music.cd', 'rec.autos', 'misc.legal', 'soc.history', 'pa.general', 'comp.windows.x.motif', 'misc.forsale', 'sci.electronics', 'talk.politics.medicine', 'alt.sex', 'alt.politics.usa.misc', 'soc.men', 'alt.politics.clinton', 'alt.politics.libertarian', 'comp.sys.mac.hardware', 'rec.games.video', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 97
+
+{'alt.activism', 'alt.security', 'comp.windows.x.apps', 'comp.music', 'comp.security.misc', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.consumers.house', 'alt.politics.homosexuality', 'sci.space.shuttle', 'sci.astro', 'misc.consumers', 'sci.crypt', 'sci.med', 'ba.motorcycles', 'rec.autos.sport', 'rec.radio.swap', 'rec.audio', 'comp.sys.mac.misc', 'sci.materials', 'osu.for-sale', 'comp.windows.x', 'sci.space', 'sci.misc', 'sci.image.processing', 'comp.graphics', 'comp.unix.aux', 'talk.religion.misc', 'alt.president.clinton', 'alt.conspiracy', 'phl.misc', 'talk.politics.misc', 'talk.politics.space', 'rec.motorcycles', 'alt.atheism', 'comp.sys.mac.programmer', 'talk.politics.guns', 'news.answers', 'alt.law-enforcement', 'rec.music.makers.synth', 'rec.audio.car', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'sci.environment', 'pa.general', 'comp.windows.x.motif', 'misc.forsale', 'sci.electronics', 'sci.answers', 'rec.music.marketplace', 'rec.food.cooking', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'talk.origins', 'comp.sys.mac.hardware', 'misc.wanted', 'rec.video', 'alt.privacy', 'alt.fan.rush-limbaugh', 'sci.math'}
+
+
+================================================================================
+
+CLUSTER 98
+
+{'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'comp.graphics.visualization', 'alt.internet.services', 'sci.astro', 'sci.crypt', 'sci.med', 'comp.sys.mac.misc', 'rec.audio', 'sci.space', 'comp.windows.x', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'comp.bbs.waffle', 'alt.parents-teens', 'rec.motorcycles', 'cs.imager', 'talk.politics.guns', 'rec.autos.tech', 'comp.multimedia', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'misc.forsale', 'alt.graphics.pixutils', 'sci.electronics', 'comp.os.msdos.misc', 'edm.general', 'comp.os.ms-windows.misc', 'alt.politics.libertarian', 'comp.sys.mac.hardware', 'sci.bio', 'comp.human-factors', 'comp.mail.misc'}
+
+
+================================================================================
+
+CLUSTER 99
+
+{'justice.usa', 'rec.radio.amateur.misc', 'comp.windows.x.apps', 'alt.politics.radical-left', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'sci.crypt', 'sci.med', 'rec.radio.swap', 'tx.politics', 'sci.space', 'comp.windows.x', 'PowerBook', 'comp.graphics', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'rec.motorcycles.dirt', 'talk.politics.misc', 'comp.unix.solaris', 'alt.discrimination', 'rec.motorcycles', 'alt.atheism', 'alt.law-enforcement', 'talk.politics.guns', 'Hardware', 'comp.windows.open-look', 'tx.general', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'misc.legal', 'comp.windows.x.motif', 'soc.motss', 'misc.forsale', 'talk.abortion', 'sci.electronics', 'rec.aviation', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.os.ms-windows.misc', 'comp.sys.hp', 'comp.sys.mac.hardware', 'misc.wanted', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 100
+
+{'misc.rural', 'alt.security', 'comp.windows.x.apps', 'comp.security.misc', 'comp.org.ieee', 'sci.astro', 'k12.chat.teacher', 'misc.consumers', 'sci.med', 'rec.autos.sport', 'talk.politics.drugs', 'boulder.general', 'sci.materials', 'comp.windows.x', 'sci.space', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'alt.conspiracy', 'sci.psychology', 'talk.politics.misc', 'rec.motorcycles', 'comp.windows.open-look', 'talk.politics.guns', 'misc.headlines', 'rec.autos', 'comp.windows.x.intrinsics', 'misc.legal', 'sci.environment', 'rec.backcountry', 'misc.forsale', 'comp.org.acm', 'alt.sex', 'soc.culture.jewish', 'talk.politics.mideast', 'alt.rush-limbaugh', 'soc.culture.pakistan', 'talk.environment', 'cu.cs.grads', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ba.motorcycles', 'sci.crypt', 'alt.politics.usa.constitution', 'soc.culture.bangladesh', 'talk.religion.misc', 'misc.invest', 'talk.politics.space', 'rec.autos.tech', 'rec.sport.baseball', 'rec.sport.hockey', 'alt.security.pgp', 'comp.windows.x.motif', 'sci.electronics', 'news.groups', 'alt.psychoactives', 'soc.culture.arabic', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'news.admin.misc', 'comp.sys.mac.hardware', 'soc.culture.indian', 'alt.privacy', 'co.general', 'alt.activism', 'alt.drugs'}
+
+
+================================================================================
+
+CLUSTER 101
+
+{'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.electronics', 'sci.med', 'comp.sys.mac.wanted', 'comp.os.ms-windows.misc', 'sci.image.processing', 'comp.windows.x', 'talk.origins', 'comp.graphics', 'talk.religion.misc', 'comp.sys.mac.hardware', 'alt.atheism', 'talk.politics.guns', 'rec.autos.tech'}
+
+
+================================================================================
+
+CLUSTER 102
+
+{'comp.archives.msdos.d', 'alt.cd-rom', 'comp.windows.x.apps', 'comp.os.ms-windows.apps', 'comp.unix.misc', 'comp.os.os2.advocacy', 'comp.windows.misc', 'comp.sys.ibm.pc.hardware', 'comp.sys.dec', 'comp.binaries.ibm.pc.wanted', 'comp.periphs.scsi', 'comp.sys.mac.misc', 'comp.os.linux', 'comp.windows.x', 'comp.unix.dos-under-unix', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'news.announce.newgroups', 'comp.periphs', 'comp.sys.ibm.pc.net', 'comp.os.ms-windows.setup', 'comp.misc', 'comp.sys.sgi.misc', 'man.linux', 'alt.uu.comp.os.linux.questions', 'news.groups', 'comp.os.msdos.misc', 'comp.os.os2.misc', 'comp.os.ms-windows.misc', 'alt.os.linux', 'comp.os.misc', 'comp.sys.sun.misc', 'comp.sys.ibm.pc.games', 'comp.apps.spreadsheets'}
+
+
+================================================================================
+
+CLUSTER 103
+
+{'rec.sport.baseball', 'comp.os.ms-windows.misc', 'comp.windows.x', 'rec.sport.hockey', 'rec.sport.baseball.fantasy', 'comp.graphics', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'sci.electronics', 'soc.motss', 'talk.politics.misc', 'comp.sys.mac.hardware', 'misc.forsale', 'alt.atheism', 'soc.bi', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 104
+
+{'rec.models.rc', 'tor.general', 'comp.windows.ms.programmer', 'ieee.general', 'sci.engr', 'comp.os.ms-windows.programmer.misc', 'sci.cognitive', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'alt.internet.services', 'sci.engr.control', 'alt.folklore.computers', 'sci.med', 'comp.ai.fuzzy', 'comp.ai.genetic', 'comp.ai.edu', 'comp.windows.x', 'comp.graphics', 'talk.politics.misc', 'ont.sf-lovers', 'comp.windows.open-look', 'comp.ai', 'can.ai', 'alt.flame', 'sci.engr.mech', 'rec.sport.hockey', 'sci.electronics', 'alt.stupidity', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'comp.ai.neural-nets', 'comp.os.ms-windows.misc', 'comp.robotics', 'alt.unix.wizards', 'ont.events', 'comp.sys.mac.hardware', 'can.general'}
+
+
+================================================================================
+
+CLUSTER 105
+
+{'alt.hotrod', 'rec.autos.driving', 'alt.autos.rod-n-custom', 'rec.autos.sport', 'alt.autos.antique', 'ne.forsale', 'misc.consumers', 'triangle.forsale', 'sci.materials', 'osu.for-sale', 'ca.forsale', 'or.forsale', 'alt.snowmobiles', 'alt.parents-teens', 'alt.autos.rodncustom', 'rec.motorcycles', 'news.announce.newgroups', 'news.answers', 'rec.autos.tech', 'rec.autos.vw', 'pdx.forsale', 'misc.kids', 'rec.arts.comics.misc', 'rec.autos', 'ak.general', 'rec.arts.tv.soaps', 'misc.forsale', 'alt.autos', 'sci.electronics', 'news.groups', 'pnw.forsale', 'seattle.forsale', 'rec.autos.antique', 'orst.forsale'}
+
+
+================================================================================
+
+CLUSTER 106
+
+{'rec.bicycles.marketplace', 'comp.os.ms-windows.setup', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.electronics', 'soc.culture.jewish', 'alt.politics.clinton', 'sci.skeptic', 'talk.religion.misc', 'comp.graphics', 'talk.politics.misc', 'rec.motorcycles', 'msu.forsale', 'alt.fan.rush-limbaugh', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 107
+
+{'comp.windows.x.apps', 'alt.toolkits.xview', 'comp.sys.sun.apps', 'comp.windows.misc', 'comp.windows.motif', 'connect.audit', 'comp.sys.dec', 'comp.lang.c++', 'comp.sys.sgi.apps', 'comp.windows.x', 'comp.graphics', 'comp.object', 'gnu.gdb.bug', 'comp.windows.open-look', 'mlists.motif-talk', 'comp.windows.x.i386unix', 'comp.lang.c', 'comp.lang.perl', 'comp.windows.x.intrinsics', 'comp.windows.x.motif', 'comp.windows.motif.x', 'comp.windows.x.openlook', 'comp.unix.osf.misc', 'comp.unix.aix', 'comp.os.ms-windows.misc', 'new.products', 'comp.sys.hp', 'comp.os.ms-windows.programmer.tools', 'sci.math.stat', 'sci.math.num-analysis', 'comp.windows.ms', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 108
+
+{'rec.sport.baseball', 'rec.sport.hockey', 'soc.history', 'sci.environment', 'misc.forsale', 'sci.electronics', 'sci.med', 'misc.consumers', 'talk.politics.mideast', 'soc.culture.jewish', 'rec.food.cooking', 'sci.space', 'soc.misc', 'comp.graphics', 'talk.religion.misc', 'alt.politics.clinton', 'talk.politics.misc', 'comp.sys.mac.hardware', 'misc.headlines', 'alt.atheism', 'talk.politics.guns', 'comp.multimedia'}
+
+
+================================================================================
+
+CLUSTER 109
+
+{'soc.culture.jewish', 'alt.atheism', 'talk.origins', 'soc.religion.christian', 'talk.politics.guns', 'talk.religion.misc'}
+
+
+================================================================================
+
+CLUSTER 110
+
+{'rec.video.production', 'justice.usa', 'alt.security', 'sci.physics', 'comp.org.ieee', 'alt.fan.rush-limbaugh', 'alt.internet.services', 'alt.bbs', 'sci.astro', 'misc.consumers', 'sci.med', 'comp.sys.mac.apps', 'comp.lang.c++', 'tx.politics', 'comp.windows.x', 'sci.space', 'comp.graphics', 'alt.conspiracy', 'sci.psychology', 'talk.politics.misc', 'comp.fonts', 'ba.politics', 'alt.parents-teens', 'rec.motorcycles', 'alt.discrimination', 'comp.sys.mac.programmer', 'talk.politics.guns', 'comp.periphs', 'rec.autos', 'misc.legal', 'ba.market.computers', 'sci.environment', 'soc.culture.celtic', 'alt.privacy.clipper', 'misc.forsale', 'talk.abortion', 'soc.culture.african.american', 'comp.os.msdos.misc', 'sci.med.nutrition', 'alt.sex', 'soc.culture.jewish', 'talk.politics.mideast', 'alt.rush-limbaugh', 'misc.forsale.computers.other', 'soc.men', 'alt.politics.clinton', 'alt.unix.wizards', 'ba.market.vehicles', 'alt.binaries.pictures.erotica.d', 'rec.radio.amateur.misc', 'comp.sys.laptops', 'tx.motorcycles', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'ba.motorcycles', 'sci.crypt', 'rec.audio', 'soc.singles', 'alt.binaries.pictures.d', 'alt.magick', 'soc.misc', 'talk.religion.misc', 'alt.president.clinton', 'ca.politics', 'or.politics', 'rec.radio.amateur.packet', 'alt.atheism', 'comp.ai', 'alt.law-enforcement', 'alt.drugs', 'comp.multimedia', 'tx.general', 'alt.binaries.pictures.utilities', 'comp.os.ms-windows.setup', 'rec.sport.baseball', 'rec.sport.hockey', 'comp.misc', 'misc.kids', 'soc.history', 'alt.security.pgp', 'alt.fan.dan-quayle', 'comp.windows.x.motif', 'soc.motss', 'alt.security.clipper', 'alt.pagan', 'sci.electronics', 'soc.culture.usa', 'soc.culture.arabic', 'rec.food.cooking', 'comp.os.ms-windows.misc', 'comp.sys.mac.hardware', 'misc.headlines', 'alt.activism', 'soc.bi'}
+
+
+================================================================================
+
+CLUSTER 111
+
+{'alt.feminism', 'talk.religion.misc', 'talk.politics.misc', 'talk.abortion'}
+
+
+================================================================================
+
+CLUSTER 112
+
+{'alt.journalism', 'soc.culture.canada', 'soc.culture.iranian', 'comp.sys.laptops', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'misc.forsale.computers', 'alt.bbs', 'misc.consumers', 'sci.med', 'sci.crypt', 'talk.politics.drugs', 'rec.audio', 'comp.windows.x', 'sci.space', 'comp.graphics', 'sci.skeptic', 'alt.conspiracy', 'talk.religion.misc', 'alt.president.clinton', 'sci.energy', 'talk.politics.misc', 'rec.motorcycles', 'comp.periphs', 'talk.politics.guns', 'alt.society.civil-liberties', 'rec.autos.tech', 'comp.periphs.printers', 'sci.edu', 'rec.sport.hockey', 'rec.sport.baseball', 'comp.misc', 'comp.os.msdos.apps', 'rec.autos', 'sci.research', 'sci.med.telemedicine', 'sci.environment', 'comp.windows.x.motif', 'misc.forsale', 'sci.electronics', 'comp.os.msdos.misc', 'soc.culture.usa', 'talk.politics.mideast', 'rec.food.cooking', 'soc.culture.jewish', 'comp.os.ms-windows.misc', 'alt.rush-limbaugh', 'alt.politics.clinton', 'soc.culture.british', 'comp.sys.mac.hardware', 'rec.games.video', 'alt.activism', 'alt.drugs'}
+
+
+================================================================================
+
+CLUSTER 113
+
+{'sci.geo.geology', 'comp.sys.ibm.ps2.hardware', 'rec.sport.hockey', 'alt.security', 'rec.sport.baseball', 'sci.geo.meteorology', 'comp.security.misc', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'comp.org.eff.talk', 'sci.astro', 'sci.electronics', 'sci.crypt', 'sci.med', 'talk.politics.mideast', 'soc.culture.jewish', 'sci.space', 'comp.os.ms-windows.misc', 'comp.windows.x', 'talk.origins', 'alt.athiesm', 'sci.skeptic', 'talk.religion.misc', 'talk.politics.misc', 'ca.politics', 'comp.sys.mac.hardware', 'ba.politics', 'alt.atheism'}
+
+
+================================================================================
+
+CLUSTER 114
+
+{'comp.graphics.avs', 'comp.windows.x.pex', 'comp.graphics.explorer', 'comp.graphics.digest', 'alt.internet.services', 'comp.specification', 'rec.arts.misc', 'harvard.general', 'sci.med', 'alt.3d', 'comp.lang.c++', 'comp.windows.x', 'sci.image.processing', 'ut.general', 'comp.graphics', 'alt.pixutils', 'news.announce.newgroups', 'comp.periphs', 'comp.sys.mac.programmer', 'cs.imager', 'harvard.org.hcs', 'comp.periphs.printers', 'comp.theory', 'comp.sys.sgi.misc', 'comp.x', 'comp.sys.amiga', 'comp.org.acm', 'comp.lang.postscript', 'comp.unix.aix', 'alt.artcom', 'comp.org.usrgroup', 'alt.unix.wizards', 'ont.events', 'alt.binaries.pictures.erotica.d', 'comp.sys.amiga.graphics', 'comp.compression', 'comp.realtime', 'comp.answers', 'comp.edu', 'alt.cd-rom', 'alt.binaries.pictures.supermodels', 'comp.os.ms-windows.apps', 'alt.bbs.ads', 'comp.binaries.ibm.pc.wanted', 'comp.graphics.visualization', 'comp.sys.ibmpc.misc', 'alt.cad', 'bit.listserv.omrscan', 'comp.sys.mac.misc', 'ut.dcs.graphics', 'comp.os.linux', 'comp.graphics.opengl', 'alt.graphics', 'alt.binaries.pictures.d', 'comp.arch.storage', 'alt.cad.autocad', 'comp.unix.programmer', 'comp.ai', 'comp.arch', 'news.answers', 'alt.binaries.multimedia', 'comp.multimedia', 'sci.engr.mech', 'alt.binaries.pictures.utilities', 'comp.lang.c', 'comp.misc', 'alt.graphics.pixutils', 'comp.databases', 'comp.software-eng', 'news.groups', 'comp.animation', 'comp.os.msdos.pcgeos', 'rec.food.cooking', 'comp.robotics', 'comp.sys.sgi.graphics', 'comp.graphics.animation', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 115
+
+{'talk.philosophy.misc', 'alt.athiesm', 'talk.abortion', 'alt.atheism', 'talk.origins', 'talk.religion.misc'}
+
+
+================================================================================
+
+CLUSTER 116
+
+{'soc.culture.jewish', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'rec.music.marketplace', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 117
+
+{'alt.activism', 'rec.radio.amateur.misc', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.forsale.computers', 'sci.astro', 'sci.crypt', 'sci.med', 'alt.society.civil-liberty', 'alt.graphics', 'comp.windows.x', 'chi.forsale', 'sci.space', 'sci.image.processing', 'comp.graphics', 'soc.misc', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'ca.politics', 'alt.rock-n-roll.classic', 'alt.discrimination', 'rec.motorcycles', 'comp.windows.open-look', 'alt.atheism', 'talk.politics.guns', 'comp.sys.mac.programmer', 'rec.sport.baseball', 'uchi.forsale', 'misc.legal', 'soc.history', 'alt.privacy.clipper', 'alt.graphics.pixutils', 'talk.abortion', 'misc.forsale', 'rec.music.marketplace', 'soc.culture.usa', 'alt.sex', 'soc.culture.arabic', 'soc.culture.jewish', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'alt.politics.clinton', 'comp.sys.ibm.pc.games', 'rec.scouting', 'comp.sys.mac.hardware', 'rec.games.misc', 'misc.headlines', 'alt.fan.rush-limbaugh'}
+
+
+================================================================================
+
+CLUSTER 118
+
+{'sci.chem.organomet', 'rec.pets', 'sci.engr.biomed', 'bionet.general', 'rec.pets.dogs', 'rec.arts.movies', 'misc.consumers', 'sci.crypt', 'sci.med', 'sci.anthropology', 'sci.image.processing', 'sci.misc', 'alt.magick', 'comp.graphics', 'sci.skeptic', 'sci.psychology', 'sci.energy', 'alt.alien.visitors', 'rec.arts.sf.movies', 'misc.health.alternative', 'sci.edu', 'bionet.neuroscience', 'sci.environment', 'sci.research', 'sci.med.telemedicine', 'alt.psychoactives', 'sci.electronics', 'sci.cryonics', 'alt.sex', 'rec.food.cooking', 'sci.med.nutrition', 'sci.chem', 'sci.engr.chem', 'sci.philosophy.meta', 'alt.sci.physics.new-theories', 'sci.bio', 'alt.drugs'}
+
+
+================================================================================
+
+CLUSTER 119
+
+{'justice.usa', 'alt.activism', 'alt.tv.prisoner', 'misc.consumers', 'alt.society.civil-liberty', 'talk.politics.drugs', 'talk.politics.theory', 'soc.veterans', 'tx.politics', 'alt.good.news', 'ne.politics', 'sci.skeptic', 'alt.conspiracy', 'phl.misc', 'talk.politics.misc', 'alt.discrimination', 'alt.revisionism', 'talk.politics.guns', 'misc.headlines', 'alt.flame', 'rec.autos', 'misc.legal', 'pa.general', 'alt.privacy.clipper', 'la.general', 'talk.abortion', 'soc.culture.african.american', 'talk.rape', 'alt.preciou', 'alt.censorship', 'rec.arts.books', 'misc.misc', 'alt.sex', 'soc.culture.jewish', 'talk.politics.mideast', 'alt.rush.fan-limbaugh', 'alt.rush-limbaugh', 'soc.men', 'alt.politics.clinton', 'alt.politics.libertarian', 'alt.discordia', 'soc.culture.british', 'alt.slack', 'alt.fan.serdar-argic', 'alt.journalism', 'soc.culture.canada', 'alt.sales.fundada', 'alt.society.revolution', 'comp.org.eff.talk', 'alt.politics.bush', 'sci.crypt', 'alt.politics.economics', 'alt.politics.usa.constitution', 'alt.magick', 'alt.politics.italy', 'soc.misc', 'talk.religion.misc', 'tx.politics.talk.politics.guns', 'alt.president.clinton', 'alt.news-media', 'misc.invest', 'ca.politics', 'alt.politics.perot', 'talk.politics.soviet', 'talk.politics.space', 'alt.atheism', 'alt.politics.sex', 'alt.law-enforcement', 'alt.folklore.urban', 'talk.politics.animals', 'tx.general', 'talk.politics.cis', 'alt.civil-liberties', 'alt.politics.media', 'sci.econ', 'soc.history', 'alt.religion.kibology', 'az.general', 'soc.motss', 'alt.spam', 'talk.politics.china', 'talk.religion.newage', 'alt.pagan', 'talk.politics.medicine', 'soc.culture.usa', 'alt.stupidity', 'soc.culture.arabic', 'alt.politics.elections', 'ca.general', 'alt.politics.usa.misc', 'alt.society.sovereign', 'alt.mythology', 'soc.culture.japan', 'soc.culture.yugoslavia', 'alt.fan.rush-limbaugh', 'alt.drugs'}
+
+
+================================================================================
+
+CLUSTER 120
+
+{'alt.security', 'comp.security.misc', 'comp.org.ieee', 'misc.consumers.house', 'misc.consumers', 'sci.med', 'alt.society.civil-liberty', 'pa.forsale', 'triangle.forsale', 'rec.guns', 'comp.windows.x', 'sci.space', 'comp.graphics', 'sci.skeptic', 'alt.conspiracy', 'alt.war.vietnam', 'talk.politics.misc', 'rec.motorcycles', 'talk.politics.guns', 'rec.windsurfing', 'misc.fitness', 'phl.forsale', 'rec.motorcycles.racing', 'rec.autos', 'misc.legal', 'alt.privacy.clipper', 'misc.forsale', 'talk.abortion', 'comp.org.acm', 'la.general', 'soc.culture.jewish', 'talk.politics.mideast', 'rec.boats', 'alt.politics.libertarian', 'comp.sys.ibm.pc.games', 'rec.scouting', 'rec.collecting', 'alt.cd-rom', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'misc.forsale.computers', 'ba.motorcycles', 'sci.crypt', 'princeton.forsale', 'rec.antiques', 'ny.forsale', 'chi.forsale', 'alt.politics.usa.constitution', 'talk.religion.misc', 'ca.politics', 'rec.games.video.marketplace', 'alt.atheism', 'alt.law-enforcement', 'comp.windows.x.i386unix', 'rec.bicycles.marketplace', 'comp.os.ms-windows.setup', 'rec.sport.baseball', 'rec.sport.hockey', 'misc.kids', 'alt.security.pgp', 'nj.market.autos', 'soc.motss', 'comp.sys.cbm', 'sci.electronics', 'nj.forsale', 'ca.general', 'comp.os.ms-windows.misc', 'talk.origins', 'chi.wanted', 'rec.motorcycles.harley', 'comp.sys.mac.hardware', 'rec.games.video', 'rec.video', 'alt.privacy'}
+
+
+================================================================================
+
+CLUSTER 121
+
+{'sci.engr.biomed', 'alt.sega.genesis', 'comp.sys.ibm.pc.hardware', 'rec.sport.basketball.college', 'sci.astro', 'sci.med', 'sci.crypt', 'sci.space', 'alt.magick', 'sci.skeptic', 'talk.religion.misc', 'alt.conspiracy', 'talk.politics.misc', 'sci.bio.technology', 'rec.motorcycles', 'alt.atheism', 'alt.law-enforcement', 'talk.politics.guns', 'alt.sci.planetary', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'az.general', 'misc.forsale', 'talk.abortion', 'alt.pagan', 'sci.electronics', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'talk.origins', 'sci.bio', 'rec.games.video', 'comp.sys.mac.hardware', 'misc.headlines'}
+
+
+================================================================================
+
+CLUSTER 122
+
+{'sci.engr.biomed', 'comp.os.ms-windows.apps', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'alt.internet.services', 'sci.astro', 'sci.crypt', 'sci.med', 'aus.forsale', 'comp.lang.c++', 'rec.games.programmer', 'comp.windows.x', 'sci.space', 'sci.image.processing', 'comp.sys.intel', 'comp.graphics', 'talk.religion.misc', 'sci.bio.technology', 'comp.ai', 'alt.atheism', 'rec.sport.baseball', 'rec.autos', 'alt.religion.kibology', 'alt.spam', 'misc.forsale', 'alt.pagan', 'sci.electronics', 'comp.lang.pascal', 'comp.os.ms-windows.misc', 'comp.protocols.tcp-ip.ibmpc', 'alt.unix.wizards', 'alt.discordia', 'comp.os.misc', 'comp.sys.mac.hardware', 'sci.bio', 'alt.slack', 'comp.graphics.animation'}
+
+
+================================================================================
+
+CLUSTER 123
+
+{'comp.unix.ultrix', 'misc.jobs.misc', 'comp.sys.ibm.pc.hardware', 'comp.binaries.ibm.pc.archives', 'comp.binaries.ibm.pc.wanted', 'sci.crypt', 'sci.med', 'uk.jobs', 'comp.windows.x', 'sci.image.processing', 'sci.space', 'alt.politics.usa.constitution', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'talk.religion.misc', 'talk.politics.misc', 'rec.radio.amateur.packet', 'rec.motorcycles', 'alt.atheism', 'comp.periphs', 'talk.politics.guns', 'comp.multimedia', 'uk.misc', 'rec.sport.hockey', 'misc.legal', 'comp.windows.x.motif', 'talk.religion.newage', 'alt.pagan', 'sci.electronics', 'comp.os.msdos.misc', 'alt.sex', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'soc.men', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'misc.headlines', 'talk.bizarre'}
+
+
+================================================================================
+
+CLUSTER 124
+
+{'comp.answers', 'comp.unix.pc-clone.32bit', 'comp.unix.bsd', 'comp.unix.ultrix', 'alt.toolkits.xview', 'comp.sys.sun.apps', 'comp.windows.x.intrinsics', 'comp.windows.x.motif', 'comp.sys.sun.admin', 'comp.sys.sun.wanted', 'comp.windows.x', 'comp.graphics', 'comp.sys.sun.misc', 'comp.graphics.animation', 'comp.windows.open-look', 'news.answers', 'comp.windows.x.i386unix'}
+
+
+================================================================================
+
+CLUSTER 125
+
+{'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'soc.culture.turkish', 'rec.sport.baseball', 'alt.conspiracy', 'talk.religion.misc', 'talk.politics.misc', 'soc.culture.greek', 'talk.religion.newage', 'rec.motorcycles', 'sci.electronics', 'soc.culture.pakistan'}
+
+
+================================================================================
+
+CLUSTER 126
+
+{'sci.geo.geology', 'comp.os.ms-windows.app', 'comp.os.ms-windows.setup', 'rec.sport.baseball', 'sci.geo.meteorology', 'comp.os.ms-windows.apps', 'rec.autos', 'comp.os.ms-windows.advocacy', 'sci.research', 'comp.sys.ibm.pc.hardware', 'az.general', 'misc.consumers.house', 'misc.forsale', 'sci.astro', 'sci.electronics', 'alt.psychoactives', 'sci.med', 'ba.motorcycles', 'soc.culture.usa', 'soc.culture.jewish', 'comp.os.ms-windows.misc', 'sci.space', 'alt.rush-limbaugh', 'sci.psychology', 'talk.religion.misc', 'talk.politics.misc', 'comp.sys.mac.hardware', 'misc.wanted', 'rec.motorcycles', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 127
+
+{'sci.physics', 'alt.binaries.pictures.supermodels', 'sci.geo.meteorology', 'comp.sys.ibm.pc.hardware', 'alt.politics.bush', 'misc.consumers.house', 'misc.forsale.computers', 'sci.space.shuttle', 'sci.astro', 'sci.crypt', 'sci.med', 'comp.sys.mac.misc', 'alt.binaries.pictures.d', 'sci.space', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'sci.energy', 'talk.politics.misc', 'ca.politics', 'alt.politics.perot', 'talk.politics.guns', 'alt.sci.planetary', 'rec.arts.sf.science', 'comp.unix.pc-clone.32bit', 'sci.edu', 'rec.sport.baseball', 'rec.autos', 'comp.windows.x.motif', 'misc.forsale', 'alt.graphics.pixutils', 'sci.electronics', 'rec.food.cooking', 'alt.politics.usa.misc', 'rec.sport.baseball.fantasy', 'alt.politics.clinton', 'alt.politics.libertarian', 'alt.binaries.pictures.erotica.d', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'comp.realtime'}
+
+
+================================================================================
+
+CLUSTER 128
+
+{'athena.forsale', 'comp.sys.ibm.ps2.hardware', 'ba.market.computers', 'comp.sys.ibm.pc.hardware', 'computers.pc-clone', 'comp.sys.next.marketplace', 'comp.sys.next.hardware', 'misc.forsale.computers', 'misc.forsale', 'misc.forsale.computers.workstation', 'alt.folklore.computers', 'sci.electronics', 'comp.sys.mac.wanted', 'comp.sys.mac.misc', 'comp.sys.next.misc', 'comp.sys.sun.wanted', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.misc', 'misc.forsale.computers.other', 'misc.forsale.computers.mac', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'rec.motorcycles'}
+
+
+================================================================================
+
+CLUSTER 129
+
+{'comp.sys.amiga.marketplace', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'alt.pagan', 'sci.electronics', 'sci.crypt', 'comp.os.msdos.misc', 'rec.radio.swap', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'sci.space', 'sci.skeptic', 'talk.religion.misc', 'alt.politics.libertarian', 'alt.discordia', 'alt.mythology', 'misc.invest', 'talk.politics.misc', 'comp.sys.mac.hardware', 'alt.slack', 'rec.motorcycles', 'alt.fan.rush-limbaugh', 'misc.headlines'}
+
+
+================================================================================
+
+CLUSTER 130
+
+{'comp.os.ms-windows.setup', 'alt.msdos.programmer', 'rec.sport.baseball', 'alt.security', 'comp.os.ms-windows.advocacy', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'misc.forsale', 'sci.electronics', 'sci.crypt', 'sci.med', 'comp.sys.sun.admin', 'comp.sys.mac.misc', 'comp.os.msdos.programmer', 'comp.sys.mac.system', 'talk.politics.mideast', 'comp.windows.x', 'comp.os.ms-windows.misc', 'alt.fan.bill-gates', 'comp.unix.aux', 'comp.graphics', 'talk.politics.misc', 'comp.sys.mac.hardware', 'comp.unix.solaris', 'comp.infosystems.gis'}
+
+
+================================================================================
+
+CLUSTER 131
+
+{'comp.windows.x.apps', 'comp.windows.x', 'rec.sport.hockey', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'sci.electronics', 'comp.windows.x.motif', 'comp.sys.mac.hardware', 'misc.consumers', 'sci.crypt'}
+
+
+================================================================================
+
+CLUSTER 132
+
+{'rec.sport.hockey', 'alt.security', 'rec.radio.amateur.misc', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'rec.radio.amateur.packet', 'comp.sys.mac.hardware', 'rec.motorcycles', 'sci.electronics', 'sci.crypt'}
+
+
+================================================================================
+
+CLUSTER 133
+
+{'alt.sci.planetary', 'comp.sys.sgi', 'rec.sport.baseball', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'soc.culture.celtic', 'misc.forsale', 'sci.astro', 'sci.electronics', 'sci.crypt', 'sci.med', 'boulder.general', 'alt.society.civil-liberties', 'comp.windows.x', 'comp.os.ms-windows.misc', 'sci.space', 'comp.graphics', 'comp.sys.hp', 'comp.windows.open-look', 'talk.religion.misc', 'talk.politics.misc', 'comp.sys.mac.hardware', 'cu.general', 'rec.motorcycles', 'co.general', 'alt.law-enforcement', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 134
+
+{'rec.sport.baseball', 'comp.unix.programmers', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'alt.privacy.clipper', 'alt.security.clipper', 'sci.electronics', 'sci.med', 'sci.crypt', 'talk.politics.mideast', 'comp.windows.x', 'comp.os.ms-windows.misc', 'sci.space', 'comp.graphics', 'alt.politics.clinton', 'biz.sco.opendesktop', 'alt.president.clinton', 'comp.sys.mac.hardware', 'biz.sco.general', 'comp.sys.amiga.graphics', 'comp.graphics.animation', 'rec.motorcycles'}
+
+
+================================================================================
+
+CLUSTER 135
+
+{'alt.security', 'comp.org.eff.talk', 'misc.forsale.computers', 'sci.astro', 'sci.med', 'sci.crypt', 'comp.sys.mac.misc', 'uva.want-ads', 'comp.windows.x', 'sci.space', 'comp.graphics', 'talk.religion.misc', 'alt.conspiracy', 'rec.autos.tec', 'phl.misc', 'talk.politics.misc', 'ca.politics', 'ba.politics', 'rec.motorcycles', 'alt.atheism', 'talk.politics.guns', 'rec.arts.sf.science', 'alt.flame', 'relcom.demos.commerce', 'alt.sci.planetary', 'misc.leg', 'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'misc.legal', 'comp.sys.handhelds', 'pa.general', 'relcom.commerce.transport', 'bel.commerce', 'misc.forsale', 'talk.abortion', 'alt.pagan', 'sci.electronics', 'dc.forsale', 'rec.music.marketplace', 'alt.sex', 'soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish', 'ukr.commerce', 'comp.os.ms-windows.misc', 'alt.politics.usa.misc', 'misc.forsale.computers.mac', 'soc.men', 'comp.sys.hp', 'comp.sys.palmtops', 'alt.mythology', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'misc.wanted', 'alt.slack', 'alt.activism', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 136
+
+{'rec.sport.hockey', 'sci.space', 'comp.os.ms-windows.misc', 'rec.motorcycles.racing', 'sci.astro', 'comp.graphics', 'comp.sys.ibm.pc.hardware', 'rec.motorcycles', 'ba.motorcycles', 'sci.electronics'}
+
+
+================================================================================
+
+CLUSTER 137
+
+{'comp.os.ms-windows.setup', 'rec.sport.hockey', 'rec.sport.baseball', 'phl.forsale', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'pa.general', 'misc.forsale', 'sci.electronics', 'sci.crypt', 'sci.med', 'rec.radio.swap', 'pa.forsale', 'comp.windows.x', 'comp.os.ms-windows.misc', 'comp.sys.ibm.pc.misc', 'alt.conspiracy', 'phl.misc', 'talk.politics.misc', 'comp.sys.mac.hardware', 'rec.motorcycles', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 138
+
+{'comp.os.ms-windows.misc', 'sci.space', 'comp.windows.x', 'sci.crypt', 'rec.autos', 'misc.legal', 'talk.religion.misc', 'comp.sys.ibm.pc.hardware', 'soc.motss', 'talk.politics.misc', 'misc.forsale', 'talk.abortion', 'alt.discrimination', 'alt.atheism', 'sci.med', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 139
+
+{'alt.law-enforcement', 'alt.security', 'comp.security.misc', 'alt.security.pgp', 'comp.org.ieee', 'comp.org.eff.talk', 'alt.privacy.clipper', 'comp.org.acm', 'sci.answers', 'sci.crypt', 'alt.answers', 'news.answers', 'talk.politics.misc', 'comp.protocols.kerberos', 'comp.privacy', 'alt.privacy', 'alt.fan.david-sternlight', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 140
+
+{'soc.culture.canada', 'soc.culture.turkish', 'sci.physics', 'comp.sys.ibm.pc.hardware', 'rec.startrek.fandom', 'ba.motorcycles', 'ne.forsale', 'sci.med', 'sci.crypt', 'comp.sys.mac.misc', 'alt.3d', 'ny.forsale', 'alt.graphics', 'comp.windows.x', 'rec.arts.sf.marketplace', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'talk.politics.misc', 'soc.culture.greek', 'talk.politics.soviet', 'rec.motorcycles', 'alt.activism.d', 'alt.law-enforcement', 'talk.politics.guns', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'comp.sys.amiga', 'alt.graphics.pixutils', 'misc.forsale', 'sci.electronics', 'talk.politics.medicine', 'comp.lsi', 'rec.music.marketplace', 'misc.misc', 'soc.culture.usa', 'talk.politics.mideast', 'soc.culture.jewish', 'sci.chem', 'nj.forsale', 'comp.dcom.modems', 'comp.os.ms-windows.misc', 'us.forsale.misc', 'alt.politics.clinton', 'nyc.general', 'can.general', 'sci.bio', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'can.politics', 'comp.lsi.testing'}
+
+
+================================================================================
+
+CLUSTER 141
+
+{'comp.windows.x.apps', 'comp.sys.ibm.pc.hardware', 'sun.forsale', 'misc.forsale.computers', 'sci.astro', 'ne.forsale', 'sci.med', 'misc.consumers', 'sci.space', 'comp.windows.x', 'sun.forsale.cars', 'alt.magick', 'talk.religion.misc', 'talk.politics.misc', 'comp.unix.solaris', 'rec.motorcycles', 'alt.atheism', 'ba.market.misc', 'talk.politics.guns', 'rec.sport.hockey', 'rec.sport.baseball', 'rec.autos', 'misc.legal', 'comp.windows.x.motif', 'alt.consciousness', 'misc.forsale', 'talk.abortion', 'alt.pagan', 'sci.electronics', 'comp.sys.sun.admin', 'alt.psychoactives', 'soc.culture.usa', 'talk.politics.mideast', 'soc.culture.jewish', 'ba.market', 'comp.os.ms-windows.misc', 'rec.sport.baseball.fantasy', 'talk.origins', 'alt.politics.clinton', 'ba.market.vehicles', 'comp.sys.sun.misc', 'comp.sys.mac.hardware', 'alt.fan.rush-limbaugh'}
+
+
+================================================================================
+
+CLUSTER 142
+
+{'alt.aci.planetary', 'justice.usa', 'alt.security', 'comp.unix.misc', 'comp.security.misc', 'comp.os.os2.advocacy', 'tx.motorcycles', 'comp.sys.ibm.pc.hardware', 'comp.org.ieee', 'comp.org.eff.talk', 'misc.forsale.computers', 'comp.graphics.visualization', 'sci.space.shuttle', 'sci.astro', 'alt.autos.antique', 'sci.med', 'sci.crypt', 'sci.anthropology', 'rec.audio', 'tx.politics', 'sci.space', 'sci.image.processing', 'comp.windows.x', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'sci.skeptic', 'sci.energy', 'talk.politics.misc', 'alt.alien.visitors', 'rec.motorcycles', 'alt.law-enforcement', 'talk.politics.guns', 'rec.autos.tech', 'alt.sci.planetary', 'tx.general', 'rec.sport.baseball', 'misc.forsale.computers.d', 'rec.autos', 'misc.legal', 'misc.forsale', 'comp.org.acm', 'sci.electronics', 'alt.astrology', 'comp.os.ms-windows.misc', 'rec.autos.antique', 'sci.philosophy.meta', 'comp.sys.mac.hardware', 'alt.sci.physics.new-theories', 'alt.activism'}
+
+
+================================================================================
+
+CLUSTER 143
+
+{'rec.radio.amateur.misc', 'comp.sys.ibm.pc.hardware', 'misc.consumers.house', 'misc.forsale.computers', 'alt.politics.bush', 'sci.astro', 'ne.forsale', 'sci.crypt', 'sci.med', 'comp.sys.mac.misc', 'rec.radio.swap', 'rec.radio.info', 'ny.forsale', 'comp.windows.x', 'mit.bboard', 'sci.space', 'comp.sys.ibm.pc.misc', 'comp.graphics', 'comp.unix.aux', 'talk.religion.misc', 'talk.politics.misc', 'misc.forsale.computers.pc-clonecomrec.music.marketplace', 'comp.windows.open-look', 'rec.motorcycles', 'alt.atheism', 'alt.law-enforcement', 'talk.politics.guns', 'athena.forsale', 'comp.sys.mac.comm', 'rec.sport.baseball', 'rec.sport.hockey', 'ne.general', 'misc.writing', 'rec.autos', 'misc.legal', 'alt.security.pgp', 'comp.windows.x.motif', 'alt.privacy.clipper', 'misc.forsale', 'sci.electronics', 'soc.culture.african.american', 'rec.music.marketplace', 'alt.sex', 'soc.culture.arabic', 'soc.culture.jewish', 'talk.politics.mideast', 'comp.sys.mac.system', 'comp.os.ms-windows.misc', 'misc.entrepreneurs', 'athena.misc', 'misc.forsale.computers.other', 'alt.politics.clinton', 'alt.politics.libertarian', 'comp.sys.mac.hardware', 'misc.forsale.computers.pc-clone', 'misc.headlines', 'alt.fan.rush-limbaugh'}
+
+
+================================================================================
+
+CLUSTER 144
+
+{'rec.sport.baseball', 'rec.sport.hockey', 'rec.autos', 'alt.politics.media', 'comp.security.misc', 'comp.sys.ibm.pc.hardware', 'misc.forsale', 'sci.electronics', 'sci.crypt', 'alt.censorship', 'rec.audio', 'talk.politics.mideast', 'sci.space', 'comp.os.ms-windows.misc', 'comp.graphics', 'alt.conspiracy', 'talk.politics.misc', 'comp.sys.mac.hardware', 'misc.headlines', 'rec.autos.tech'}
+
+
+================================================================================
+
+CLUSTER 145
+
+{'', 'rec.video.production', 'sci.physics', 'talk.politics.libertarian', 'soc.culture.iranian', 'comp.sys.super', 'sci.comp-aided', 'comp.os.msdos.a.misc', 'alt.internet.services', 'alt.folklore.computers', 'sci.med', 'alt.autos.antique', 'talk.politics.theory', 'comp.windows.x', 'sci.space', 'alt.snowmobiles', 'phl.misc', 'ny.general', 'comp.windows.open-look', 'misc.health.alternative', 'sci.edu', 'comp.unix.wizards', 'rec.nude', 'comp.lang.perl', 'ak.general', 'rec.autos', 'pa.general', 'misc.forsale', 'la.general', 'sci.answers', 'soc.religion.christian', 'alt.censorship', 'misc.misc', 'talk.politics.mideast', 'soc.culture.jewish', 'sci.chem', 'comp.mail.mime', 'eunet.politics', 'alt.politics.clinton', 'alt.unix.wizards', 'comp.sys.intel', 'comp.compression', 'sci.engr.civil', 'rec.puzzles', 'comp.answers', 'soc.culture.canada', 'soc.culture.turkish', 'comp.edu', 'rec.radio.amateur.misc', 'sci.engr.biomed', 'talk.environment', 'comp.sys.ibm.pc.hardware', 'comp.org.eff.talk', 'alt.psychology.personality', 'alt.cad', 'comp.unix.osf.osf1', 'ba.motorcycles', 'sci.crypt', 'fl.forsale', 'alt.politics.economics', 'comp.arch.storage', 'sci.misc', 'alt.sources', 'talk.religion.misc', 'ca.politics', 'talk.politics.soviet', 'soc.culture.greek', 'talk.politics.space', 'alt.atheism', 'alt.activism.d', 'news.answers', 'ur.general', 'comp.unix.solaris', 'comp.multimedia', 'sci.engr.mech', 'comp.lang.c', 'rec.sport.baseball', 'rec.sport.hockey', 'misc.kids', 'sci.econ', 'comp.admin.policy', 'soc.culture.arabic', 'rec.food.cooking', 'comp.ai.neural-nets', 'alt.politics.usa.misc', 'talk.origins', 'comp.robotics', 'misc.books.technical', 'comp.sys.mac.hardware', 'comp.graphics.animation', 'alt.privacy', 'alt.activism', 'soc.bi', 'alt.fan.rush-limbaugh', 'comp.sys.amiga.programmer', 'comp.unix.ultrix', 'alt.security', 'sci.astro', 'misc.consumers', 'chi.general', 'comp.ai.genetic', 'talk.politics.drugs', 'soc.veterans', 'tx.politics', 'ut.general', 'comp.graphics', 'alt.conspiracy', 'talk.politics.misc', 'ba.politics', 'rec.motorcycles', 'talk.politics.guns', 'soc.culture.soviet', 'news.admin.policy', 'rec.radio.shortwave', 'rec.music.marketplace', 'rec.arts.books', 'sci.med.nutrition', 'alt.military.cadet', 'sci.med.occupational', 'rec.video.satellite', 'alt.politics.libertarian', 'wny.general', 'comp.unix.questions', 'rec.collecting', 'talk.politics.med', 'soc.college.grad', 'sci.math', 'rec.arts.comics.marketplace', 'rec.ham-radio', 'alt.toolkits.xview', 'comp.os.ms-windows.apps', 'rec.radio.cb', 'comp.sources.d', 'comp.object', 'sci.aeronautic', 'comp.programming', 'alt.president.clinton', 'alt.cad.autocad', 'rec.arts.sf.written', 'comp.ai', 'sci.aeronautics', 'soc.history', 'sci.research', 'soc.culture.europe', 'comp.databases', 'talk.religion.newage', 'sci.electronics', 'talk.politics.medicine', 'comp.sys.sun.admin', 'comp.lsi', 'biz.misc', 'soc.culture.usa', 'alt.answers', 'soc.women', 'ca.general', 'comp.os.ms-windows.misc', 'comp.sys.amiga.applications', 'misc.education', 'can.general', 'sci.bio', 'rec.video', 'rec.motorcycles.harley', 'misc.headlines', 'comp.human-factors'}
+
+
+================================================================================
+
+CLUSTER 146
+
+{'su.market', 'rec.games.video.classic', 'alt.drumcorps', 'rec.music.misc', 'bbn.bboard', 'comp.sys.3b1', 'misc.consumers.house', 'maine.forsale', 'psu.market.forsale', 'labs.talk', 'chi.general', 'rec.radio.swap', 'pa.forsale', 'rec.arts.marching.drumcorps', 'triangle.forsale', 'ba.music', 'osu.for-sale', 'ca.forsale', 'comp.windows.x', 'mit.bboard', 'rec.music.synth', 'rec.arts.sf.marketplace', 'vt.forsale', 'comp.graphics', 'tx.wanted', 'misc.invest.real-estate', 'rec.mag', 'rec.motorcycles', 'ont.forsale', 'cmh.forsale', 'rec.games.video.arcade', 'ba.forsale', 'kw.forsale', 'phl.forsale', 'misc.forsale.wanted', 'misc.writing', 'rec.autos', 'ba.market.computers', 'rec.arts.comics.misc', 'uw.forsale', 'misc.forsale', 'comp.lang.postscript', 'rec.music.marketplace', 'austin.forsale', 'sci.chem', 'ba.market', 'rec.video.releases', 'fibercom.general', '5col.forsale', 'misc.forsale.computers.other', 'ba.market.vehicles', 'comp.sys.ibm.pc.games', 'misc.wanted', 'uic.general', 'misc.forsale.computers.pc-clone', 'nwu.general', 'rec.arts.comics.marketplace', 'alt.rock-n-roll.metal', 'ingr.forsale', 'rec.radio.amateur.misc', 'comp.sys.laptops', 'comp.music', 'rec.travel.marketplace', 'wpi.forsale', 'misc.forsale.computers', 'uiuc.general', 'ba.market.housing', 'rec.skiing', 'ne.forsale', 'hsv.forsale', 'fl.forsale', 'rec.audio', 'ny.forsale', 'rec.photo', 'chi.forsale', 'rec.travel.air', 'rec.arts.manga', 'rpi.forsale', 'rec.games.video.marketplace', 'bit.listserv.games-l', 'rec.scuba', 'ba.market.misc', 'rec.music.makers.synth', 'ott.forsale', 'rec.bicycles.marketplace', 'tx.forsale', 'rec.audio.car', 'ne.wanted', 'rec.music.makers', 'rec.audio.pro', 'rec.music.cd', 'alt.rock-n-roll.metal.heavy', 'misc.forsale.computers.workstation', 'dc.forsale', 'pnw.forsale', 'nj.forsale', 'sci.engr.chem', 'us.forsale.misc', 'comp.os.ms-windows.misc', 'seattle.forsale', 'misc.entrepreneurs', 'misc.computer.forsale', 'misc.forsale.computer.other', 'na.forsale', 'chi.wanted', 'misc.books.technical', 'csugrad.forsale', 'misc.forsale.computers.pc', 'rec.arts.comics', 'comp.sys.mac.hardware', 'rec.travel', 'rec.video', 'rec.games.video'}
+
+
+================================================================================
+
+CLUSTER 147
+
+{'comp.answers', 'alt.security', 'comp.security.misc', 'comp.org.ieee', 'alt.security.pgp', 'comp.org.eff.talk', 'alt.privacy.clipper', 'comp.org.acm', 'alt.security.clipper', 'sci.crypt', 'sci.answers', 'comp.sys.mac.apps', 'alt.answers', 'alt.security.ripem', 'comp.windows.x', 'alt.privacy', 'news.answers', 'comp.mail.misc'}
+
+
+================================================================================
+
+CLUSTER 148
+
+{'comp.unix.wizards', 'rec.audio.car', 'rec.sport.baseball', 'rec.sport.hockey', 'soc.culture.turkish', 'talk.politics.soviet', 'ga.forsale', 'rec.autos', 'comp.sys.ibm.pc.hardware', 'rec.video', 'misc.forsale.computers', 'misc.forsale', 'sci.electronics', 'sci.med', 'rec.music.marketplace', 'talk.politics.mideast', 'comp.os.ms-windows.misc', 'comp.windows.x', 'sci.space', 'comp.graphics', 'comp.unix.solaris', 'git.ads', 'talk.politics.guns'}
+
+
+================================================================================
+
+CLUSTER 149
+
+{'comp.lang.c', 'comp.edu', 'comp.os.386bsd.misc', 'comp.lang.misc', 'comp.os.ms-windows.advocacy', 'comp.sys.ibm.pc.hardware', 'comp.graphics.visualization', 'misc.forsale', 'sci.electronics', 'comp.edu.composition', 'comp.lang.c++', 'comp.os.ms-windows.misc', 'comp.graphics', 'comp.sys.mac.hardware', 'comp.os.386bsd.development', 'comp.graphics.animation', 'comp.human-factors', 'comp.multimedia'}
