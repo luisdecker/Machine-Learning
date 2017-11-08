@@ -11,6 +11,7 @@ from sklearn.cluster import KMeans
 from docOps import Document
 from sklearn.neighbors import NearestNeighbors
 import operator
+from multiprocessing import Pool
 
 
 # In[ ]:
@@ -56,10 +57,23 @@ class KMeans_Batch:
         #Verificamos os 10 vizinhos mais próximos de cada centroide
         centroids_knn = {}
         centroids = kmeans.cluster_centers_
+       
         print("Iniciando KNN [{}]".format(k))
+        
+        args = []
+        for cluster in range(k):#Paralelizavel!
+            arg = []
+            arg.append(10)
+            arg.append(centroids[cluster])
+            args.append(arg)
+        with Pool(4) as p:
+            result = p.starmap(self.knn,args)      
         for cluster in range(k):
-            centroids_knn[cluster] = self.knn(10,centroids[cluster])
+            centroids_knn[cluster] = result[cluster]
+        
+        
         print("Terminado KNN [{}]".format(k))
+        
         #Salvamos o resultado num arquivo
         #Iremos salvar o Newsgroups dos 10nn de cada 
         results = open(file="ResultsKnn"+str(k)+".txt",mode='w')
