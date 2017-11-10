@@ -1,0 +1,6528 @@
+
+
+================================================================================
+
+CLUSTER 0
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['talk.religion.misc', 'talk.religion.newage']
+['comp.os.ms-windows.misc']
+['comp.windows.x']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+
+______ALL______
+
+comp.os.ms-windows.misc = 269
+comp.windows.x = 54
+comp.sys.ibm.pc.hardware = 15
+comp.sys.ibm.pc.misc = 13
+comp.windows.x.apps = 12
+comp.graphics = 10
+comp.os.ms-windows.setup = 4
+comp.os.ms-windows.apps = 4
+sci.crypt = 3
+comp.os.msdos.misc = 3
+comp.windows.open-look = 3
+bit.listserv.tn3270-l = 2
+comp.fonts = 2
+comp.os.msdos.programmer = 2
+comp.os.ms-windows.programmer.misc = 2
+comp.os.msdos.apps = 2
+sci.med = 1
+sci.med.occupational = 1
+comp.human-factors = 1
+comp.answers = 1
+sci.answers = 1
+news.answers = 1
+comp.dcom.modems = 1
+comp.music = 1
+rec.music.makers = 1
+comp.unix.aix = 1
+comp.sys.novell = 1
+comp.windows.x.intrinsics = 1
+comp.sources.wanted = 1
+comp.sys.sun.wanted = 1
+comp.sys.mac.hardware = 1
+comp.binaries.ibm.pc.wanted = 1
+comp.sys.sun.admin = 1
+comp.unix.solaris = 1
+comp.os.ms-windows.advocacy = 1
+soc.culture.celtic = 1
+uiuc.sys.ibm-pc = 1
+sci.electronics = 1
+comp.windows.interviews = 1
+comp.windows.misc = 1
+comp.multimedia = 1
+comp.os.linux = 1
+comp.protocols.tcp-ip.ibmpc = 1
+comp.sys.hp = 1
+comp.sys.sun.misc = 1
+
+
+================================================================================
+
+CLUSTER 1
+Medoid:
+['soc.religion.christian']
+10nn:
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+
+______ALL______
+
+soc.religion.christian = 332
+talk.religion.misc = 4
+alt.atheism = 2
+talk.politics.misc = 1
+misc.legal = 1
+
+
+================================================================================
+
+CLUSTER 2
+Medoid:
+['rec.motorcycles']
+10nn:
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['sci.med']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+
+______ALL______
+
+rec.motorcycles = 47
+alt.atheism = 12
+rec.autos = 9
+rec.sport.hockey = 8
+comp.sys.mac.hardware = 7
+sci.electronics = 5
+sci.space = 5
+rec.audio.car = 3
+rec.audio = 3
+sci.astro = 3
+alt.sci.planetary = 3
+talk.politics.mideast = 3
+comp.sys.ibm.pc.hardware = 3
+rec.sport.baseball = 3
+misc.forsale = 2
+comp.os.ms-windows.misc = 2
+talk.religion.misc = 2
+sci.med = 2
+comp.windows.x = 2
+rec.music.makers.synth = 1
+rec.music.marketplace = 1
+comp.music = 1
+talk.religion.newage = 1
+alt.pagan = 1
+misc.consumers.house = 1
+talk.politics.medicine = 1
+ont.forsale = 1
+ott.forsale = 1
+talk.politics.guns = 1
+sci.crypt = 1
+ba.motorcycles = 1
+
+
+================================================================================
+
+CLUSTER 3
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['comp.sys.mac.hardware']
+['comp.sys.mac', 'comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware', 'comp.sys.mac.portables']
+['cmu.comp.sys.mac', 'comp.sys.mac.system', 'comp.sys.mac.hardware']
+['comp.sys.mac.hardware', 'comp.sys.mac.misc']
+['comp.sys.mac.hardware', 'comp.sys.mac.misc', 'comp.sys.mac.apps', 'comp.sys.mac.system']
+['comp.protocols.appletalk', 'comp.sys.mac.misc', 'comp.sys.mac.hardware']
+['comp.sys.mac.hardware', 'comp.sys.mac.comm']
+
+______ALL______
+
+comp.sys.mac.hardware = 282
+comp.sys.ibm.pc.hardware = 99
+comp.sys.mac.system = 30
+comp.sys.ibm.pc.misc = 28
+comp.sys.mac.wanted = 24
+comp.sys.mac.misc = 24
+comp.sys.amiga.hardware = 16
+comp.sys.sun.hardware = 14
+comp.sys.mac.programmer = 12
+comp.graphics = 10
+misc.forsale.computers.mac = 9
+comp.sys.misc = 8
+misc.forsale = 7
+sci.electronics = 7
+comp.sys.mac = 7
+comp.unix.aux = 6
+austin.forsale = 6
+comp.sys.mac.apps = 5
+comp.sys.mac.comm = 5
+comp.os.linux = 5
+comp.sys.next.hardware = 5
+misc.consumers = 5
+comp.dcom.modems = 5
+comp.sys.mac.games = 5
+comp.os.msdos.misc = 5
+comp.sys.ibm.pc.games = 4
+comp.sys.mac.portables = 4
+comp.sys.m68k = 4
+comp.periphs.scsi = 4
+misc.wanted = 4
+comp.sys.ibm.pc = 3
+comp.misc = 3
+comp.sys.next.software = 3
+comp.os.ms-windows.misc = 3
+comp.protocols.appletalk = 2
+comp.arch.storage = 2
+comp.periphs = 2
+comp.multimedia = 2
+comp.sys.sgi.hardware = 2
+comp.sys.workstations = 2
+comp.os.386bsd.questions = 2
+comp.sys.novell = 2
+comp.sys.laptops = 2
+comp.sys.ibm.pc.soundcard = 2
+alt.sources.wanted = 2
+comp.sources.wanted = 2
+cmu.comp.sys.mac = 2
+comp.os.msdos.programmer = 2
+comp.arch = 2
+comp.answers = 1
+news.answers = 1
+comp.binaries.ibm.pc.wanted = 1
+comp.protocols.tcp-ip.ibmpc = 1
+comp.forsale = 1
+att.forsale = 1
+comp.lang.postscript = 1
+PowerBook = 1
+Hardware = 1
+Modems = 1
+comp.sys.mac.app = 1
+comp.sys.mac.databases = 1
+comp.sys.ibm.ps2.hardware = 1
+comp.unix.pc-clone.32bit = 1
+comp.os.os2.misc = 1
+alt.cd-rom = 1
+biz.comp.hardware = 1
+ = 1
+comp.dcom.lans = 1
+sci.math.symbolic = 1
+comp.sys.mac.software = 1
+comp.comression = 1
+comp.sys.zenith = 1
+sci.crypt = 1
+comp.sys.amiga.programmer = 1
+comp.sys.amiga.applications = 1
+news.announce.newgroups = 1
+news.groups = 1
+comp.sys.amiga.multimedia = 1
+alt.msdos.programmer = 1
+uw.pc.general = 1
+uw.pc.ibm = 1
+ont.general = 1
+can.general = 1
+uw.general = 1
+comp.sys.intel = 1
+tx.forsale = 1
+austin.general = 1
+
+
+================================================================================
+
+CLUSTER 4
+Medoid:
+['soc.religion.christian']
+10nn:
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+
+______ALL______
+
+soc.religion.christian = 551
+talk.politics.misc = 16
+alt.sex = 4
+alt.conspiracy = 3
+misc.legal = 3
+comp.sys.mac.hardware = 3
+rec.motorcycles = 3
+talk.religion.misc = 2
+soc.men = 2
+rec.sport.baseball = 2
+talk.politics.guns = 2
+comp.os.ms-windows.misc = 2
+misc.consumers = 2
+sci.med = 2
+rec.food.cooking = 2
+sci.environment = 2
+comp.windows.x = 1
+comp.unix.solaris = 1
+alt.activism = 1
+soc.culture.canada = 1
+rec.autos = 1
+
+
+================================================================================
+
+CLUSTER 5
+Medoid:
+['comp.windows.x']
+10nn:
+['comp.windows.x']
+['comp.windows.x']
+['comp.windows.x']
+['sci.electronics']
+['comp.os.ms-windows.misc']
+['comp.graphics']
+['comp.windows.x']
+['comp.lang.postscript', 'comp.windows.x']
+['sci.med']
+['comp.windows.x']
+
+______ALL______
+
+alt.atheism = 36
+comp.windows.x = 34
+comp.graphics = 22
+comp.os.ms-windows.misc = 14
+comp.sys.ibm.pc.hardware = 13
+comp.sys.mac.hardware = 7
+talk.religion.misc = 6
+talk.politics.misc = 6
+sci.electronics = 6
+comp.windows.open-look = 3
+sci.skeptic = 2
+sci.space = 2
+rec.autos = 2
+alt.graphics.pixutils = 2
+soc.culture.usa = 2
+soc.culture.europe = 2
+soc.culture.nordic = 2
+soc.culture.german = 2
+comp.lang.postscript = 2
+alt.conspiracy = 2
+talk.abortion = 1
+alt.binaries.pictures.supermodels = 1
+alt.binaries.pictures.erotica.d = 1
+alt.binaries.pictures.d = 1
+alt.cd-rom = 1
+comp.sys.sun.hardware = 1
+comp.periphs.scsi = 1
+bit.listserv.pscript = 1
+talk.origins = 1
+comp.graphics.animation = 1
+alt.activism = 1
+comp.sys.sun.admin = 1
+comp.windows.x.intrinsics = 1
+comp.windows.x.motif = 1
+rec.sport.hockey = 1
+alt.binaries.pictures.utilities = 1
+talk.politics.mideast = 1
+soc.culture.iranian = 1
+misc.forsale = 1
+sci.med = 1
+sci.crypt = 1
+alt.security.pgp = 1
+alt.privacy.clipper = 1
+comp.sys.sun.apps = 1
+comp.protocols.misc = 1
+rec.motorcycles = 1
+comp.graphics.gnuplot = 1
+
+
+================================================================================
+
+CLUSTER 6
+Medoid:
+['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+10nn:
+['wpi.forsale', 'ne.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone']
+['orst.forsale', 'misc.forsale', 'misc.forsale.computers.pc-clone', 'misc.forsale.computers.other', 'misc.forsale.computers', 'cor.forsale', 'or.forsale', 'pnw.forsale', 'pdx.forsale']
+['misc.forsale', 'misc.forsale.wanted', 'misc.forsale.computers.pc-clone', 'misc.forsale.computers.other', 'misc.forsale.wanted', 'misc.wanted']
+['comp.forsale', 'misc.forsale', 'misc.forsale.computer', 'misc.forsale.computers', 'misc.forsale.computers.other', 'misc.forsale.wanted']
+['misc.forsale.computers.pc-clone', 'misc.forsale']
+['misc.forsale.computer', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone', 'misc.forsale.computers', 'misc.forsale', 'comp.sys.ibm.ps2.hardware', 'comp.unix.aix']
+['misc.forsale', 'nj.forsale', 'ny.forsale', 'phl.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone', 'misc.forsale.computers.mac']
+['misc.forsale.computers', 'misc.forsale', 'nj.forsale', 'ny.forsale', 'misc.forsale.computers.workstation', 'misc.forsale.computers.other', 'ne.forsale', 'comp.sys.sun.wanted', 'comp.terminals']
+['ba.market.computers', 'misc.forsale.computers.pc-clone', 'us.forsale.misc', 'sdnet.forsale', 'us.forsale.computers', 'us.forsale.misc', 'misc.forsale', 'misc.forsale.computers.other']
+['misc.forsale.computers', 'misc.forsale', 'nj.forsale', 'ny.forsale', 'misc.forsale.computers.other', 'misc.forsale.computers.pc-clone', 'ne.forsale', 'comp.apps.spreadshets']
+
+______ALL______
+
+misc.forsale = 185
+misc.forsale.computers.other = 82
+misc.forsale.computers.pc-clone = 67
+misc.forsale.computers = 48
+ne.forsale = 33
+misc.forsale.computers.mac = 24
+nj.forsale = 20
+misc.wanted = 20
+ba.market.computers = 19
+ny.forsale = 17
+us.forsale.misc = 16
+misc.forsale.computers.workstation = 14
+us.forsale.computers = 14
+comp.sys.mac.wanted = 13
+pa.forsale = 12
+dc.forsale = 12
+sdnet.forsale = 10
+comp.sys.ibm.pc.hardware = 9
+phl.forsale = 9
+pnw.forsale = 8
+misc.forsale.computer = 7
+ba.market.misc = 7
+misc.forsale.wanted = 7
+rec.photo = 6
+seattle.forsale = 6
+misc.forsale.computers.d = 5
+comp.sys.sun.wanted = 5
+uw.forsale = 5
+or.forsale = 5
+austin.forsale = 5
+dfw.forsale = 4
+rec.music.marketplace = 4
+wpi.forsale = 4
+comp.sys.amiga.marketplace = 4
+fj.forsale = 4
+orst.forsale = 4
+rec.games.video = 4
+ga.forsale = 4
+comp.forsale = 3
+rec.motorcycles = 3
+rec.autos = 3
+comp.sys.mac.hardware = 3
+us.wanted.misc = 3
+ba.forsale = 3
+comp.sys.3b1 = 3
+us.forsale.d = 3
+uwash.forsale = 3
+kw.forsale = 3
+chi.forsale = 3
+cmh.forsale = 3
+houston.forsale = 3
+wi.forsale = 2
+rec.video.releases = 2
+clem.marketplace = 2
+alt.forsale = 2
+rec.video = 2
+rpi.forsale = 2
+rec.audio = 2
+ca.wanted = 2
+tx.forsale = 2
+comp.sys.ibm.ps2.hardware = 2
+psu.market.forsale = 2
+misc.books.technical = 2
+alt.books.technical = 2
+git.ads = 2
+comp.unix.sys5.misc = 2
+misc.forsale.computers.macne.forsale = 2
+pdx.forsale = 2
+rec.audio.car = 2
+aus.forsale = 2
+fl.forsale = 2
+ul.forsale = 2
+alt.sega.genesis = 2
+ont.forsale = 2
+cle.forsale = 2
+uwisc.forsale = 1
+umr.student.forsale = 1
+comp.apps.spreadshets = 1
+ne.wanted = 1
+maine.forsale = 1
+comp.sys.palmtops = 1
+comp.sys.handhelds = 1
+tamu.forsale = 1
+comp.terminals = 1
+comp.unix.aix = 1
+triangle.forsale = 1
+pubnet.wanted = 1
+comp.sys.ibm.pc = 1
+csugrad.forsale = 1
+vt.forsale = 1
+rec.radio.swap = 1
+us.forsale = 1
+ott.forsale = 1
+mi.forsale = 1
+athena.forsale = 1
+comp.periphs.scsi = 1
+comp.unix.sysv386 = 1
+comp.unix.pc-clone.32bit = 1
+comp.unix.sys5.r4 = 1
+computers.workstation = 1
+alt.autos = 1
+alt.autos.antique = 1
+alt.autos.rodncustom = 1
+alt.hotrod = 1
+osu.for-sale = 1
+ca.forsale = 1
+rec.autos.antique = 1
+cor.forsale = 1
+rec.gardens = 1
+sqnt-public.forsale = 1
+att.forsale = 1
+na.forsale = 1
+princeton.forsale = 1
+nj.market.housing = 1
+ru.camden.misc.general = 1
+ru.misc.general = 1
+alt.suburbs = 1
+comp.sys.laptops = 1
+comp.sys.att = 1
+comp.unix.misc = 1
+comp.unix.pc-clone.16bit = 1
+comp.unix.sysv286 = 1
+rec.games.video.sega = 1
+rec.games.video.marketplace = 1
+rec.music.misc = 1
+computers.pc-clone = 1
+rec.music.makers.synth = 1
+rec.music.makers = 1
+comp.music = 1
+misc.forsale.pc-clone = 1
+comp.sys.apple2 = 1
+misc.forsale.comp = 1
+comp.sys.next.marketplace = 1
+comp.os.ms-windows.misc = 1
+rec.bicycles.marketplace = 1
+misc.forsale.computer.other = 1
+freenet.com-ctr.forsale = 1
+misc.writing = 1
+misc.entrepreneurs = 1
+misc.fosale.computers = 1
+misc.fosale.computers.pc-clone = 1
+chi.wanted = 1
+chi.general = 1
+
+
+================================================================================
+
+CLUSTER 7
+Medoid:
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+10nn:
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.croatia', 'soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.m']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.arabic', 'soc.culture.croatia', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.cultur']
+['soc.culture.croatia', 'soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.m']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast', 'soc.culture.african', 'soc.culture.malaysia']
+['soc.culture.arabic', 'soc.culture.bosna-herzgvna', 'soc.culture.indian', 'soc.culture.iranian', 'soc.culture.jewish', 'soc.culture.pakistan', 'soc.culture.turkish', 'soc.culture.yugoslavia', 'soc.culture.afganistan', 'talk.politics.mideast']
+
+______ALL______
+
+talk.politics.mideast = 94
+soc.culture.turkish = 85
+soc.culture.arabic = 82
+soc.culture.pakistan = 77
+soc.culture.iranian = 74
+soc.culture.bosna-herzgvna = 71
+soc.culture.jewish = 70
+soc.culture.yugoslavia = 70
+soc.culture.indian = 56
+soc.culture.african = 43
+soc.culture.afganistan = 37
+soc.culture.malaysia = 34
+soc.culture.europe = 24
+soc.culture.greek = 19
+soc.culture.usa = 14
+soc.culture.nordic = 14
+soc.culture.german = 14
+sci.electronics = 14
+soc.culture.soviet = 14
+soc.culture.croatia = 10
+soc.history = 8
+talk.politics.soviet = 7
+talk.politics.misc = 6
+soc.culture.latin-america = 5
+soc.culture.asean = 5
+soc.cultur = 4
+soc.culture.bulgaria = 3
+alt.atheism = 3
+soc.culture.m = 3
+alt.conspiracy = 2
+alt.stupidity = 2
+alt.fan.serdar-argic = 2
+alt.folklore.urban = 2
+alt.religion.kibology = 2
+alt.illuminat = 2
+soc.rights.human = 1
+alt.censorship = 1
+alt.chinese.text = 1
+comp.text = 1
+comp.windows.x = 1
+sci.lang.japan = 1
+soc.culture.china = 1
+soc.culture.hongkong = 1
+soc.culture.korean = 1
+soc.culture.japan = 1
+soc.culture.singapore = 1
+soc.culture.taiwan = 1
+soc.culture.vietnamese = 1
+soc.culture.africa = 1
+talk.politics = 1
+
+
+================================================================================
+
+CLUSTER 8
+Medoid:
+['sci.electronics']
+10nn:
+['sci.electronics']
+['comp.sys.mac.hardware']
+['comp.windows.x']
+['sci.electronics']
+['cwru.general', 'cwru.ins.general', 'comp.sys.mac.hardware', 'misc.forsale.computers.mac']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+comp.sys.mac.hardware = 14
+sci.electronics = 5
+talk.politics.guns = 5
+misc.forsale = 4
+comp.windows.x = 3
+comp.os.ms-windows.misc = 3
+rec.autos = 2
+talk.politics.misc = 2
+misc.legal = 2
+cwru.general = 2
+cwru.ins.general = 2
+misc.forsale.computers.mac = 2
+sci.space = 2
+comp.windows.open-look = 1
+alt.toolkits.xview = 1
+comp.sys.ibm.pc.hardware = 1
+comp.os.ms-windows.advocacy = 1
+rec.motorcycles = 1
+comp.music = 1
+rec.music.makers.synth = 1
+rec.music.marketplace = 1
+comp.os.ms-windows.apps = 1
+talk.politics.space = 1
+
+
+================================================================================
+
+CLUSTER 9
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['talk.politics.mideast', 'alt.flame', 'alt.stupidity']
+['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+['talk.religion.misc', 'talk.religion.newage']
+['talk.politics.mideast']
+['talk.politics.misc', 'alt.politics.usa.misc', 'alt.politics.libertarian', 'alt.politics.clinton', 'alt.politics.bush', 'alt.politics.perot', 'alt.fan.rush-limbaugh']
+['talk.politics.misc', 'alt.politics.clinton', 'alt.politics.bush', 'alt.fan.rush-limbaugh', 'alt.politics.libertarian']
+['talk.politics.guns']
+
+______ALL______
+
+talk.politics.misc = 194
+talk.politics.guns = 117
+alt.fan.rush-limbaugh = 64
+alt.politics.clinton = 62
+alt.rush-limbaugh = 45
+misc.legal = 40
+alt.politics.libertarian = 37
+talk.politics.mideast = 32
+alt.politics.usa.misc = 31
+alt.conspiracy = 30
+alt.politics.bush = 29
+alt.activism = 28
+soc.culture.usa = 26
+talk.politics.drugs = 20
+alt.politics.perot = 19
+alt.politics.usa.constitution = 17
+ca.politics = 16
+alt.law-enforcement = 13
+talk.politics.soviet = 12
+talk.politics.space = 12
+tx.politics = 11
+misc.headlines = 10
+alt.censorship = 9
+alt.society.sovereign = 9
+talk.politics.china = 8
+talk.politics.cis = 8
+sci.crypt = 8
+talk.religion.misc = 8
+tx.general = 8
+justice.usa = 8
+alt.president.clinton = 8
+alt.discrimination = 6
+alt.drugs = 6
+comp.org.eff.talk = 5
+sci.econ = 5
+alt.politics.economics = 5
+talk.abortion = 5
+alt.sex = 4
+talk.politics.medicine = 4
+talk.politics.theory = 4
+talk.rape = 4
+az.general = 4
+alt.politics.media = 3
+soc.motss = 3
+soc.culture.jewish = 3
+alt.politics.italy = 2
+alt.revisionism = 2
+alt.society.revolution = 2
+soc.culture.japan = 2
+soc.men = 2
+alt.rush.fan-limbaugh = 2
+alt.news-media = 2
+alt.society.civil-liberty = 2
+alt.privacy.clipper = 1
+alt.fan.greaseman = 1
+alt.fan.howard-stern = 1
+tx.politics.talk.politics.guns = 1
+ne.politics = 1
+soc.culture.canada = 1
+can.politics = 1
+alt.fan.serdar-argic = 1
+talk.politics.animals = 1
+alt.flame = 1
+alt.stupidity = 1
+alt.politics.sex = 1
+alt.society.civil-liberties = 1
+alt.civil-liberties = 1
+alt.politics.elections = 1
+misc.invest = 1
+pa.general = 1
+phl.misc = 1
+alt.good.news = 1
+soc.veterans = 1
+misc.consumers = 1
+la.general = 1
+ca.general = 1
+
+
+================================================================================
+
+CLUSTER 10
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.autos', 'rec.autos.vw']
+['rec.autos']
+['rec.autos', 'rec.autos.tech']
+['rec.autos', 'rec.autos.tech', 'rec.autos.sport', 'rec.autos.driving', 'rec.autos.vw', 'alt.autos.antique', 'news.answers']
+['rec.autos', 'rec.autos.tech', 'alt.autos.antique', 'rec.autos.antique']
+['rec.autos']
+['talk.religion.misc', 'talk.religion.newage']
+['rec.autos']
+['rec.motorcycles']
+
+______ALL______
+
+rec.autos = 278
+rec.autos.tech = 73
+alt.autos.antique = 23
+rec.autos.driving = 19
+rec.autos.antique = 19
+rec.autos.vw = 16
+rec.autos.sport = 11
+misc.consumers = 10
+misc.forsale = 7
+sci.electronics = 6
+news.answers = 6
+rec.motorcycles = 5
+misc.legal = 5
+sci.materials = 3
+talk.politics.misc = 3
+triangle.forsale = 2
+soc.culture.korean = 2
+soc.culture.japan = 2
+ak.general = 2
+alt.snowmobiles = 2
+misc.wanted = 2
+talk.religion.misc = 2
+sci.skeptic = 2
+alt.autos.rod-n-custom = 1
+misc.consumer = 1
+alt.parents-teens = 1
+nj.general = 1
+rec.driving = 1
+rec.driving.ca = 1
+rec.audio.car = 1
+rec.audio = 1
+news.announce.newgroups = 1
+news.groups = 1
+soc.culture.usa = 1
+alt.law-enforcement = 1
+alt.journalism = 1
+misc.headlines = 1
+misc.misc = 1
+misc.kids = 1
+rec.arts.comics.misc = 1
+rec.arts.tv.soaps = 1
+boulder.general = 1
+co.general = 1
+cu.general = 1
+alt.politics.libertarian = 1
+
+
+================================================================================
+
+CLUSTER 11
+Medoid:
+['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+10nn:
+['comp.graphics', 'comp.graphics.animation', 'comp.graphics.avs', 'comp.graphics.explorer']
+['ont.events', 'comp.graphics', 'comp.graphics.avs', 'comp.graphics.visualization', 'ont.events']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['comp.graphics', 'comp.graphics.animation', 'comp.multimedia']
+['alt.bbs.ads', 'comp.graphics', 'comp.graphics.animation', 'comp.sys.amiga.graphics', 'alt.graphics.pixutils', 'comp.sys.ibmpc.misc', 'comp.sys.mac.misc']
+['alt.graphics.pixutils', 'comp.graphics']
+['comp.graphics', 'comp.graphics.visualization', 'comp.graphics.animation', 'alt.pixutils', 'comp.org.acm']
+['comp.graphics', 'comp.sys.amiga.graphics', 'comp.graphics.animation']
+['alt.graphics', 'alt.internet.services', 'comp.graphics']
+['comp.realtime', 'comp.graphics']
+
+______ALL______
+
+comp.graphics = 221
+comp.graphics.animation = 52
+comp.sys.amiga.graphics = 21
+alt.graphics.pixutils = 19
+alt.binaries.pictures.d = 18
+comp.multimedia = 17
+comp.graphics.visualization = 16
+alt.binaries.pictures.utilities = 16
+alt.binaries.pictures.erotica.d = 16
+alt.graphics = 13
+alt.internet.services = 8
+comp.sys.mac.programmer = 8
+comp.windows.x = 7
+comp.ai = 7
+alt.3d = 7
+alt.unix.wizards = 6
+comp.unix.programmer = 5
+comp.sys.amiga = 4
+sci.med = 3
+comp.sys.sgi.misc = 3
+comp.compression = 3
+comp.human-factors = 3
+sci.bio = 2
+bionet.general = 2
+bionet.neuroscience = 2
+sci.engr.biomed = 2
+comp.realtime = 2
+comp.databases = 2
+comp.sys.mac.misc = 2
+comp.graphics.avs = 2
+comp.graphics.explorer = 2
+comp.os.ms-windows.apps = 2
+alt.pixutils = 2
+comp.org.acm = 2
+comp.lang.c = 2
+comp.lang.c++ = 2
+comp.answers = 2
+news.answers = 2
+cs.imager = 2
+ont.events = 2
+comp.periphs = 1
+comp.graphics.digest = 1
+comp.binaries.ibm.pc.wanted = 1
+bit.listserv.omrscan = 1
+comp.x = 1
+comp.os.ms-windows.misc = 1
+comp.arch = 1
+comp.misc = 1
+comp.robotics = 1
+comp.software-eng = 1
+comp.specification = 1
+comp.theory = 1
+alt.bbs.ads = 1
+comp.sys.ibmpc.misc = 1
+alt.binaries.pictures.supermodels = 1
+news.announce.newgroups = 1
+news.groups = 1
+comp.os.msdos.pcgeos = 1
+comp.sys.sgi.graphics = 1
+alt.cad = 1
+sci.engr.mech = 1
+comp.sys.amiga.misc = 1
+rec.video = 1
+harvard.general = 1
+harvard.org.hcs = 1
+alt.cd-rom = 1
+ut.general = 1
+ut.dcs.graphics = 1
+comp.animation = 1
+comp.object = 1
+alt.artcom = 1
+rec.arts.misc = 1
+comp.arch.storage = 1
+comp.os.linux = 1
+alt.binaries.multimedia = 1
+comp.unix.aix = 1
+comp.org.usrgroup = 1
+rec.food.cooking = 1
+comp.graphics.opengl = 1
+comp.windows.x.pex = 1
+comp.edu = 1
+
+
+================================================================================
+
+CLUSTER 12
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['comp.graphics']
+['rec.autos']
+['misc.forsale']
+['talk.politics.misc']
+['rec.motorcycles']
+['rec.autos']
+['rec.autos']
+['comp.graphics', 'comp.graphics.animation']
+['comp.graphics']
+
+______ALL______
+
+rec.motorcycles = 22
+comp.graphics = 17
+rec.autos = 17
+misc.forsale = 16
+rec.sport.baseball = 11
+talk.politics.misc = 8
+comp.windows.x = 8
+sci.electronics = 8
+rec.sport.hockey = 8
+comp.sys.ibm.pc.hardware = 7
+sci.med = 7
+comp.os.ms-windows.misc = 7
+talk.religion.misc = 7
+sci.skeptic = 6
+sci.space = 6
+comp.sys.mac.hardware = 5
+comp.graphics.animation = 4
+rec.photo = 3
+rec.video = 3
+comp.sys.amiga.marketplace = 3
+sci.crypt = 3
+news.announce.newgroups = 2
+news.groups = 2
+comp.os.msdos.misc = 2
+rec.autos.vw = 2
+rec.autos.tech = 2
+misc.legal = 2
+rec.video.production = 2
+alt.atheism = 2
+rec.radio.swap = 2
+comp.windows.x.app = 2
+comp.windows.x.motif = 2
+comp.windows.x.intrinsics = 2
+alt.3d = 2
+comp.graphics.visualization = 2
+misc.consumers = 1
+rec.food.cooking = 1
+sci.environment = 1
+comp.os.os2.misc = 1
+comp.os.ms-windows.apps = 1
+dc.forsale = 1
+comp.os.ms-windows.programmer.misc = 1
+misc.invest = 1
+rec.audio = 1
+ba.market.computers = 1
+ba.market.misc = 1
+ba.forsale = 1
+rec.motorcycles.harley = 1
+rec.motorcycles.dirt = 1
+comp.sys.sgi.graphics = 1
+comp.sys.sgi.apps = 1
+sci.image.processing = 1
+alt.mythology = 1
+alt.pagan = 1
+alt.slack = 1
+alt.discordia = 1
+misc.forsale.computers = 1
+alt.graphics = 1
+
+
+================================================================================
+
+CLUSTER 13
+Medoid:
+['rec.autos']
+10nn:
+['rec.autos']
+['rec.autos']
+['rec.sport.hockey']
+['sci.electronics']
+['rec.autos']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['misc.forsale']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+
+______ALL______
+
+talk.religion.misc = 28
+talk.politics.misc = 27
+rec.autos = 26
+misc.forsale = 26
+sci.skeptic = 13
+rec.sport.baseball = 10
+rec.sport.hockey = 10
+comp.graphics = 9
+talk.politics.guns = 8
+talk.origins = 7
+alt.conspiracy = 7
+sci.med = 7
+alt.atheism = 6
+sci.electronics = 6
+comp.sys.mac.hardware = 6
+comp.os.ms-windows.misc = 5
+purdue.forsale = 4
+soc.culture.jewish = 4
+sci.crypt = 3
+alt.activism = 3
+misc.legal = 3
+misc.wanted = 3
+comp.windows.x = 2
+alt.rush-limbaugh = 2
+comp.sys.ibm.pc.hardware = 2
+alt.sex = 2
+comp.os.ms-windows.apps = 2
+sci.space = 2
+rec.autos.tech = 2
+comp.robotics = 2
+comp.windows.x.motif = 1
+comp.windows.x.intrinsics = 1
+rec.games.video.arcade = 1
+rec.video = 1
+comp.ivideodisc = 1
+soc.men = 1
+rec.audio.car = 1
+alt.slack = 1
+sci.energy = 1
+sci.image.processing = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+alt.alien.visitors = 1
+alt.security = 1
+comp.org.eff.talk = 1
+comp.security.misc = 1
+comp.org.acm = 1
+comp.org.ieee = 1
+sci.philosophy.meta = 1
+rec.music.marketplace = 1
+rec.audio = 1
+comp.sys.mac.misc = 1
+uk.jobs = 1
+misc.jobs.misc = 1
+misc.forsale.computers = 1
+misc.forsale.computers.pc = 1
+talk.politics.space = 1
+sci.research = 1
+talk.politics.libertarian = 1
+misc.education = 1
+alt.fan.bill-gates = 1
+comp.os.ms-windows.advocacy = 1
+sci.misc = 1
+sci.math = 1
+misc.forsale.computers.pc-clone = 1
+purdue.general = 1
+soc.culture.usa = 1
+tx.politics = 1
+alt.president.clinton = 1
+
+
+================================================================================
+
+CLUSTER 14
+Medoid:
+['soc.religion.christian']
+10nn:
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+
+______ALL______
+
+soc.religion.christian = 65
+talk.religion.misc = 5
+talk.politics.misc = 2
+sci.skeptic = 2
+alt.atheism = 2
+
+
+================================================================================
+
+CLUSTER 15
+Medoid:
+['sci.space']
+10nn:
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['rec.arts.sf.science', 'sci.space']
+['sci.astro', 'sci.space']
+
+______ALL______
+
+sci.space = 65
+sci.astro = 15
+sci.electronics = 12
+sci.space.shuttle = 5
+rec.arts.sf.science = 4
+talk.politics.mideast = 3
+alt.sci.planetary = 3
+talk.politics.misc = 2
+soc.culture.jewish = 2
+comp.os.ms-windows.misc = 1
+sci.misc = 1
+sci.math = 1
+rec.sport.baseball = 1
+comp.sys.amiga.hardware = 1
+comp.sys.m68k = 1
+
+
+================================================================================
+
+CLUSTER 16
+Medoid:
+['alt.atheism']
+10nn:
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['misc.forsale']
+['alt.atheism']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.windows.x']
+
+______ALL______
+
+alt.atheism = 38
+rec.autos = 18
+comp.sys.mac.hardware = 9
+comp.sys.ibm.pc.hardware = 6
+rec.sport.baseball = 4
+talk.religion.misc = 3
+talk.origins = 3
+comp.graphics = 2
+comp.os.ms-windows.misc = 2
+rec.motorcycles = 2
+rec.sport.hockey = 2
+comp.windows.x = 1
+soc.motss = 1
+rec.scouting = 1
+comp.sys.ibm.pc.misc = 1
+sci.med = 1
+rec.autos.tech = 1
+comp.protocols.tcp-ip.ibmpc = 1
+comp.os.ms-windows.apps = 1
+misc.forsale = 1
+
+
+================================================================================
+
+CLUSTER 17
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['talk.religion.misc', 'talk.religion.newage']
+['rec.sport.baseball']
+['talk.politics.guns']
+['rec.motorcycles']
+['talk.politics.mideast']
+['rec.sport.baseball']
+['rec.sport.baseball']
+
+______ALL______
+
+rec.sport.baseball = 359
+rec.sport.hockey = 13
+rec.motorcycles = 8
+soc.culture.jewish = 3
+comp.sys.mac.hardware = 2
+rec.sport.baseball.fantasy = 2
+soc.culture.japan = 2
+sci.med = 2
+rec.sport.basketball.college = 1
+rec.sport.basketball.pro = 1
+rec.autos = 1
+alt.atheism = 1
+soc.motss = 1
+rec.scouting = 1
+comp.os.ms-windows.misc = 1
+us.sport.baseball = 1
+rec.collecting.cards = 1
+
+
+================================================================================
+
+CLUSTER 18
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.politics.guns', 'alt.fan.rush-limbaugh']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.misc', 'talk.politics.guns']
+['can.politics', 'talk.politics.guns']
+
+______ALL______
+
+talk.politics.guns = 128
+talk.politics.misc = 96
+talk.religion.misc = 77
+alt.conspiracy = 35
+sci.skeptic = 34
+alt.activism = 23
+soc.culture.usa = 15
+misc.legal = 12
+alt.rush-limbaugh = 10
+tx.politics = 9
+alt.law-enforcement = 8
+alt.politics.clinton = 6
+alt.atheism = 4
+alt.society.civil-liberties = 3
+tx.general = 2
+justice.usa = 2
+misc.headlines = 2
+soc.culture.jewish = 2
+rec.autos = 1
+alt.fan.rush-limbaugh = 1
+can.politics = 1
+alt.activism.d = 1
+alt.politics.libertarian = 1
+alt.politics.usa.constitution = 1
+alt.society.civil-liberty = 1
+alt.civil-liberties = 1
+soc.culture.british = 1
+
+
+================================================================================
+
+CLUSTER 19
+Medoid:
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+10nn:
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.religion.misc', 'talk.religion.newage']
+['alt.magick', 'alt.pagan', 'talk.religion.misc', 'talk.religion.newage']
+['alt.atheism', 'talk.religion.misc']
+['alt.magick', 'talk.religion.newage', 'alt.pagan', 'talk.religion.misc']
+['alt.atheism', 'talk.origins']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['alt.mythology', 'alt.pagan', 'talk.religion.misc']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+
+______ALL______
+
+talk.religion.misc = 240
+alt.atheism = 150
+talk.origins = 107
+talk.politics.misc = 44
+alt.pagan = 40
+talk.abortion = 40
+alt.magick = 21
+sci.skeptic = 20
+alt.conspiracy = 19
+talk.religion.newage = 15
+alt.slack = 7
+alt.sales.fundada = 4
+alt.mythology = 4
+alt.preciou = 3
+alt.discordia = 3
+alt.religion.kibology = 3
+alt.athiesm = 3
+soc.motss = 3
+alt.discrimination = 3
+alt.spam = 2
+misc.legal = 2
+rpi.rumor = 1
+sci.med = 1
+talk.politics.theory = 1
+alt.sex = 1
+soc.men = 1
+alt.sex.stories.alt.sex = 1
+alt.folklore.urban = 1
+alt.sex.stories = 1
+soc.culture.celtic = 1
+alt.politics.usa.constitution = 1
+alt.tv.prisoner = 1
+alt.rodney-king = 1
+alt.society.civil-liberty = 1
+alt.precious-metals.aluminum = 1
+
+
+================================================================================
+
+CLUSTER 20
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+comp.sys.mac.hardware = 21
+comp.sys.ibm.pc.hardware = 3
+sci.electronics = 3
+sci.space = 3
+rec.radio.amateur.packet = 2
+misc.forsale = 1
+
+
+================================================================================
+
+CLUSTER 21
+Medoid:
+['alt.atheism']
+10nn:
+['alt.atheism']
+['rec.autos']
+['rec.autos']
+['comp.windows.x']
+['talk.politics.misc', 'talk.religion.misc', 'sci.skeptic']
+['talk.politics.misc', 'talk.religion.misc', 'sci.skeptic']
+['rec.motorcycles']
+['rec.autos']
+['rec.motorcycles']
+['rec.motorcycles']
+
+______ALL______
+
+rec.autos = 31
+rec.motorcycles = 21
+sci.med = 18
+sci.electronics = 14
+comp.sys.ibm.pc.hardware = 11
+comp.sys.mac.hardware = 10
+comp.windows.x = 9
+talk.politics.guns = 9
+misc.forsale = 8
+sci.space = 7
+misc.consumers = 6
+comp.graphics = 6
+sci.crypt = 6
+talk.religion.misc = 5
+rec.food.cooking = 5
+sci.environment = 5
+talk.politics.misc = 4
+talk.politics.mideast = 4
+comp.os.ms-windows.misc = 3
+rec.sport.baseball = 3
+alt.atheism = 3
+ba.market.misc = 3
+alt.cd-rom = 2
+sci.skeptic = 2
+misc.legal = 2
+soc.culture.jewish = 2
+talk.politics.space = 2
+rec.autos.tech = 2
+ba.forsale = 2
+chi.forsale = 1
+alt.privacy.clipper = 1
+rec.radio.amateur.packet = 1
+sci.med.occupational = 1
+comp.os.windows.misc = 1
+alt.sex = 1
+soc.men = 1
+comp.org.eff.talk = 1
+rec.sport.hockey = 1
+alt.activism = 1
+alt.conspiracy = 1
+alt.society.sovereign = 1
+misc.invest = 1
+soc.culture.usa = 1
+alt.rush-limbaugh = 1
+soc.culture.arabic = 1
+comp.multimedia = 1
+alt.mythology = 1
+alt.pagan = 1
+alt.slack = 1
+alt.discordia = 1
+ba.market.computers = 1
+gnu.misc.discuss = 1
+comp.graphics.visualization = 1
+ca.forsale = 1
+ba.market = 1
+dec.pa.market = 1
+su.market = 1
+sri.market = 1
+misc.health.alternative = 1
+sci.med.nutrition = 1
+rec.skiing = 1
+alt.privacy = 1
+alt.security.pgp = 1
+
+
+================================================================================
+
+CLUSTER 22
+Medoid:
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+10nn:
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+
+______ALL______
+
+talk.politics.misc = 126
+alt.sex = 87
+soc.men = 85
+misc.legal = 82
+ca.politics = 73
+ba.politics = 50
+soc.history = 5
+alt.politics.clinton = 4
+misc.leg = 3
+misc.consumers = 1
+sci.electronics = 1
+misc.headlines = 1
+sci.crypt = 1
+alt.privacy.clipper = 1
+
+
+================================================================================
+
+CLUSTER 23
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['rec.autos']
+['talk.politics.mideast']
+['talk.politics.misc']
+['talk.politics.mideast']
+['rec.autos']
+['talk.religion.misc']
+['rec.autos']
+['rec.autos']
+['talk.politics.misc', 'ca.politics', 'ba.politics', 'alt.sex', 'soc.men', 'misc.legal']
+
+______ALL______
+
+talk.politics.mideast = 23
+talk.politics.misc = 21
+talk.religion.misc = 19
+rec.autos = 17
+alt.sex = 12
+soc.men = 12
+misc.legal = 12
+rec.motorcycles = 12
+misc.forsale = 11
+rec.sport.hockey = 11
+rec.sport.baseball = 10
+comp.windows.x = 9
+sci.electronics = 7
+ca.politics = 6
+ba.politics = 6
+comp.graphics = 5
+alt.conspiracy = 4
+sci.med = 4
+comp.sys.mac.hardware = 3
+soc.culture.jewish = 3
+talk.abortion = 3
+misc.forsale.computers.mac = 3
+sci.crypt = 2
+alt.security = 2
+comp.org.eff.talk = 2
+misc.forsale.computers.pc-clone = 2
+alt.pagan = 2
+sci.space = 2
+talk.politics.guns = 2
+uva.want-ads = 2
+soc.culture.arabic = 1
+comp.sys.mac.misc = 1
+alt.activism = 1
+pa.general = 1
+phl.misc = 1
+talk.religion.newage = 1
+alt.atheism = 1
+alt.mythology = 1
+rec.arts.sf.science = 1
+misc.wanted = 1
+rec.music.marketplace = 1
+alt.politics.usa.misc = 1
+alt.flame = 1
+comp.sys.handhelds = 1
+comp.sys.palmtops = 1
+dc.forsale = 1
+relcom.demos.commerce = 1
+bel.commerce = 1
+relcom.commerce.transport = 1
+ukr.commerce = 1
+alt.slack = 1
+comp.human-factors = 1
+comp.sys.hp = 1
+misc.leg = 1
+comp.os.ms-windows.misc = 1
+misc.forsale.computers = 1
+alt.sci.planetary = 1
+sci.astro = 1
+rec.autos.tec = 1
+soc.culture.turkish = 1
+soc.culture.greek = 1
+
+
+================================================================================
+
+CLUSTER 24
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['comp.graphics']
+['sci.space']
+['sci.med']
+['sci.space']
+['alt.atheism']
+['comp.sys.ibm.pc.hardware']
+['comp.os.ms-windows.misc']
+['comp.windows.x']
+['sci.space']
+
+______ALL______
+
+comp.graphics = 49
+sci.electronics = 40
+comp.sys.ibm.pc.hardware = 39
+alt.atheism = 28
+comp.os.ms-windows.misc = 25
+sci.space = 24
+comp.windows.x = 19
+comp.sys.mac.hardware = 18
+sci.med = 12
+sci.crypt = 11
+rec.autos = 9
+talk.religion.misc = 7
+talk.politics.mideast = 7
+comp.org.eff.talk = 7
+comp.sys.intel = 5
+sci.astro = 4
+alt.3d = 3
+talk.politics.guns = 2
+alt.religion.kibology = 2
+alt.spam = 2
+comp.graphics.visualization = 2
+rec.motorcycles = 2
+misc.consumers = 2
+rec.food.cooking = 2
+sci.environment = 2
+aus.forsale = 2
+misc.forsale = 2
+alt.privacy.clipper = 2
+comp.os.linux = 2
+comp.graphics.animation = 2
+comp.sys.amgia.graphics = 1
+comp.sys.ibm.pc.misc = 1
+sci.bio = 1
+sci.bio.technology = 1
+sci.engr.biomed = 1
+aus.mac = 1
+comp.misc = 1
+comp.periphs = 1
+comp.sys.laptops = 1
+talk.abortion = 1
+alt.pagan = 1
+alt.slack = 1
+alt.discordia = 1
+comp.windows.x.motif = 1
+aus.computers.ibm-pc = 1
+comp.os.misc = 1
+comp.os.msdos.misc = 1
+alt.internet.services = 1
+alt.unix.wizards = 1
+comp.ai = 1
+alt.history.what-if = 1
+comp.sys.mac.system = 1
+sci.image.processing = 1
+comp.lang.c++ = 1
+comp.os.msdos.programmer = 1
+rec.games.programmer = 1
+comp.lang.pascal = 1
+comp.protocols.tcp-ip.ibmpc = 1
+comp.os.ms-windows.apps = 1
+alt.sci.planetary = 1
+alt.conspiracy = 1
+talk.politics.misc = 1
+rec.sport.baseball = 1
+misc.fitness = 1
+
+
+================================================================================
+
+CLUSTER 25
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.religion.misc', 'misc.legal']
+['rec.motorcycles']
+['comp.graphics']
+['sci.med']
+['rec.motorcycles']
+['sci.crypt']
+['talk.religion.misc', 'talk.religion.newage']
+['talk.politics.mideast']
+['talk.politics.mideast']
+
+______ALL______
+
+rec.motorcycles = 39
+comp.sys.mac.hardware = 29
+talk.politics.mideast = 28
+rec.autos = 20
+sci.space = 20
+sci.electronics = 19
+sci.crypt = 18
+sci.med = 15
+talk.religion.misc = 14
+comp.windows.x = 13
+talk.politics.misc = 12
+misc.forsale = 11
+talk.politics.guns = 9
+comp.sys.ibm.pc.hardware = 8
+alt.atheism = 7
+comp.graphics = 7
+sci.skeptic = 6
+rec.sport.hockey = 5
+tx.politics = 4
+comp.os.ms-windows.misc = 4
+rec.sport.baseball = 4
+misc.legal = 3
+talk.abortion = 3
+misc.wanted = 2
+rec.radio.swap = 2
+misc.consumers.house = 2
+sci.energy = 2
+sci.image.processing = 2
+sci.anthropology = 2
+alt.sci.physics.new-theories = 2
+alt.alien.visitors = 2
+soc.culture.jewish = 2
+alt.law-enforcement = 1
+tx.general = 1
+alt.activism = 1
+justice.usa = 1
+sci.philosophy.meta = 1
+alt.politics.radical-left = 1
+soc.motss = 1
+alt.discrimination = 1
+comp.unix.solaris = 1
+PowerBook = 1
+Hardware = 1
+rec.radio.amateur.misc = 1
+rec.aviation = 1
+comp.windows.x.apps = 1
+comp.sys.hp = 1
+rec.motorcycles.dirt = 1
+tx.motorcycles = 1
+comp.os.msdos.misc = 1
+
+
+================================================================================
+
+CLUSTER 26
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['sci.crypt', 'alt.privacy.clipper']
+['sci.crypt', 'alt.privacy.clipper']
+['sci.space']
+['talk.politics.guns']
+['sci.crypt']
+['pdx.forsale', 'or.forsale', 'misc.forsale', 'pnw.forsale']
+['rec.motorcycles', 'ba.motorcycles']
+['rec.motorcycles']
+['misc.forsale']
+
+______ALL______
+
+rec.motorcycles = 8
+sci.crypt = 8
+ba.motorcycles = 6
+sci.space = 3
+comp.sys.mac.hardware = 3
+alt.privacy.clipper = 3
+misc.forsale = 3
+rec.arts.movies = 2
+rec.arts.sf.movies = 2
+sci.med = 2
+sci.chem = 2
+sci.bio = 2
+talk.politics.guns = 2
+sci.astro = 1
+sci.electronics = 1
+rec.sport.hockey = 1
+comp.org.eff.talk = 1
+alt.privacy = 1
+alt.security.pgp = 1
+comp.graphics = 1
+rec.music.synth = 1
+rec.music.makers.synth = 1
+ba.music = 1
+pdx.forsale = 1
+or.forsale = 1
+pnw.forsale = 1
+
+
+================================================================================
+
+CLUSTER 27
+Medoid:
+['sci.space']
+10nn:
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.crypt']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+
+______ALL______
+
+sci.space = 88
+sci.crypt = 33
+sci.astro = 29
+comp.os.ms-windows.misc = 11
+sci.space.shuttle = 11
+alt.atheism = 10
+talk.religion.misc = 10
+misc.forsale = 7
+talk.origins = 7
+alt.sci.planetary = 6
+comp.sys.ibm.pc.hardware = 6
+alt.security.pgp = 5
+rec.sport.hockey = 4
+alt.security = 4
+sci.med = 4
+alt.privacy.clipper = 4
+comp.org.eff.talk = 4
+talk.politics.guns = 3
+dc.forsale = 3
+talk.politics.space = 3
+alt.conspiracy = 3
+alt.pagan = 3
+comp.org.ieee = 2
+pa.forsale = 2
+misc.consumers = 2
+rec.food.cooking = 2
+sci.environment = 2
+comp.security.misc = 2
+comp.windows.x = 2
+comp.os.ms-windows.setup = 2
+rec.games.video.sega = 1
+alt.sega.genesis = 1
+rec.games.video.marketplace = 1
+phl.forsale = 1
+rec.games.video = 1
+comp.graphics = 1
+rec.autos = 1
+rec.motorcycles = 1
+dc.general = 1
+talk.politics.misc = 1
+sci.electronics = 1
+ne.forsale = 1
+sci.bio = 1
+sci.med.physics = 1
+sci.misc = 1
+sci.math = 1
+sci.physics = 1
+comp.org.acm = 1
+alt.society.civil-liberty = 1
+alt.activism = 1
+soc.culture.usa = 1
+misc.forsale.computers = 1
+rec.sport.baseball = 1
+comp.sys.mac.hardware = 1
+comp.os.ms-windows.apps = 1
+
+
+================================================================================
+
+CLUSTER 28
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['rec.autos']
+['rec.sport.baseball']
+['sci.med']
+['rec.autos']
+['talk.politics.mideast']
+['comp.os.ms-windows.misc']
+['sci.electronics']
+['rec.autos']
+['comp.graphics']
+
+______ALL______
+
+rec.sport.baseball = 33
+talk.politics.mideast = 19
+alt.atheism = 19
+talk.politics.misc = 17
+rec.autos = 14
+sci.space = 13
+comp.sys.mac.hardware = 12
+talk.politics.guns = 10
+sci.med = 9
+talk.religion.misc = 9
+rec.motorcycles = 8
+talk.origins = 7
+alt.activism = 7
+sci.crypt = 6
+comp.os.ms-windows.misc = 6
+sci.electronics = 6
+soc.culture.usa = 6
+alt.rush-limbaugh = 5
+comp.windows.x = 5
+misc.consumers = 5
+comp.graphics = 5
+alt.discrimination = 4
+sci.astro = 4
+alt.sex = 4
+alt.fan.rush-limbaugh = 3
+soc.culture.jewish = 3
+alt.journalism = 3
+comp.sys.ibm.pc.hardware = 3
+rec.food.cooking = 2
+sci.environment = 2
+comp.org.eff.talk = 2
+soc.motss = 2
+soc.culture.arabic = 1
+talk.philosophy.misc = 1
+sci.lang = 1
+soc.women = 1
+soc.men = 1
+misc.legal = 1
+rec.sport.hockey = 1
+rec.scouting = 1
+comp.sys.mac.comm = 1
+alt.privacy.clipper = 1
+alt.flame = 1
+
+
+================================================================================
+
+CLUSTER 29
+Medoid:
+['sci.electronics']
+10nn:
+['sci.electronics']
+['sci.electronics']
+['rec.motorcycles']
+['rec.autos']
+['comp.windows.x']
+['misc.forsale', 'chi.forsale', 'triangle.forsale']
+['rec.motorcycles']
+['rec.motorcycles']
+['sci.med']
+['rec.motorcycles']
+
+______ALL______
+
+rec.motorcycles = 41
+sci.crypt = 24
+talk.politics.guns = 22
+misc.forsale = 22
+rec.autos = 22
+alt.atheism = 21
+sci.electronics = 14
+comp.sys.ibm.pc.hardware = 11
+comp.os.ms-windows.misc = 10
+talk.religion.misc = 10
+sci.med = 10
+talk.politics.misc = 9
+comp.windows.x = 6
+comp.org.eff.talk = 5
+chi.forsale = 5
+rec.sport.hockey = 5
+rec.sport.baseball = 4
+nj.forsale = 4
+comp.graphics = 3
+talk.abortion = 3
+soc.motss = 3
+rec.scouting = 3
+alt.security = 3
+talk.origins = 2
+comp.sys.mac.hardware = 2
+alt.politics.usa.constitution = 2
+rec.video = 2
+alt.security.pgp = 2
+alt.privacy.clipper = 2
+sci.skeptic = 2
+comp.org.ieee = 2
+ca.politics = 2
+phl.forsale = 2
+rec.games.video.marketplace = 2
+alt.cd-rom = 1
+soc.women = 1
+rec.boats = 1
+ba.motorcycles = 1
+rec.motorcycles.racing = 1
+comp.os.ms-windows.setup = 1
+alt.conspiracy = 1
+triangle.forsale = 1
+rec.autos.tech = 1
+alt.war.vietnam = 1
+rec.collecting = 1
+rec.antiques = 1
+princeton.forsale = 1
+rec.games.video = 1
+comp.windows.x.i386unix = 1
+misc.kids = 1
+talk.politics.mideast = 1
+comp.sys.cbm = 1
+sci.space = 1
+comp.security.misc = 1
+comp.org.acm = 1
+rec.guns = 1
+comp.sys.ibm.pc.games = 1
+chi.wanted = 1
+misc.consumers.house = 1
+misc.forsale.computers = 1
+rec.motorcycles.harley = 1
+misc.consumers = 1
+la.general = 1
+ca.general = 1
+alt.politics.libertarian = 1
+alt.privacy = 1
+nj.market.autos = 1
+pa.forsale = 1
+alt.law-enforcement = 1
+misc.legal = 1
+alt.society.civil-liberty = 1
+misc.fitness = 1
+rec.bicycles.marketplace = 1
+rec.windsurfing = 1
+ny.forsale = 1
+
+
+================================================================================
+
+CLUSTER 30
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.sport.hockey']
+['talk.religion.misc', 'talk.religion.newage']
+['rec.sport.hockey']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['comp.os.ms-windows.misc']
+['rec.motorcycles']
+['rec.sport.hockey']
+['rec.sport.baseball']
+['talk.politics.guns']
+
+______ALL______
+
+rec.sport.hockey = 283
+rec.sport.baseball = 28
+maine.hockey-l = 4
+misc.consumers = 1
+talk.politics.mideast = 1
+rec.skate = 1
+rec.autos.sport = 1
+edm.general = 1
+news.answers = 1
+rec.answers = 1
+
+
+================================================================================
+
+CLUSTER 31
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['comp.sys.ibm.pc.hardware']
+['sci.space']
+['sci.space']
+['comp.sys.ibm.pc.hardware']
+['comp.graphics']
+['comp.sys.mac.hardware']
+['comp.windows.x']
+['comp.graphics']
+['sci.electronics']
+
+______ALL______
+
+comp.graphics = 34
+sci.electronics = 18
+comp.sys.ibm.pc.hardware = 14
+comp.windows.x = 13
+comp.sys.mac.hardware = 12
+talk.politics.mideast = 10
+comp.os.ms-windows.misc = 10
+sci.med = 9
+sci.crypt = 8
+sci.space = 7
+soc.culture.arabic = 5
+comp.graphics.visualization = 3
+soc.culture.jewish = 3
+rec.autos = 2
+comp.graphics.animation = 2
+comp.os.ms-windows.apps = 2
+alt.3d = 2
+soc.culture.turkish = 2
+alt.fan.serdar-argic = 2
+comp.multimedia = 2
+alt.security = 2
+rec.sport.hockey = 1
+sci.astro = 1
+alt.sci.planetary = 1
+talk.religion.misc = 1
+comp.protocols.appletalk = 1
+comp.lang.postscript = 1
+sci.chem = 1
+sci.misc = 1
+sci.chem.organomet = 1
+sci.cryonics = 1
+sci.engr.chem = 1
+comp.sys.ibm.pc.misc = 1
+comp.music = 1
+alt.cd-rom = 1
+misc.wanted = 1
+alt.authorware = 1
+alt.emusic = 1
+comp.periphs = 1
+alt.activism = 1
+talk.politics.misc = 1
+comp.os.msdos.misc = 1
+comp.sys.amiga.graphics = 1
+sci.image.processing = 1
+comp.org.eff.talk = 1
+comp.security.misc = 1
+comp.sys.sun.hardware = 1
+alt.folklore.urban = 1
+rec.motorcycles = 1
+rec.audio = 1
+rec.audio.car = 1
+
+
+================================================================================
+
+CLUSTER 32
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['rec.sport.baseball']
+['rec.autos']
+['rec.sport.baseball']
+['talk.politics.guns']
+['rec.autos']
+['misc.forsale']
+['rec.autos']
+['rec.sport.baseball']
+['git.ads', 'ga.forsale', 'misc.forsale', 'misc.forsale.computers']
+
+______ALL______
+
+rec.sport.hockey = 16
+talk.politics.guns = 15
+sci.electronics = 15
+rec.sport.baseball = 14
+sci.med = 13
+misc.forsale = 8
+comp.os.ms-windows.misc = 7
+rec.autos = 5
+git.ads = 4
+sci.space = 4
+ga.forsale = 3
+comp.unix.wizards = 2
+comp.windows.x = 2
+misc.consumers.house = 2
+comp.sys.ibm.pc.hardware = 1
+comp.unix.solaris = 1
+misc.forsale.computers = 1
+rec.audio.car = 1
+rec.music.marketplace = 1
+rec.video = 1
+comp.graphics = 1
+talk.politics.soviet = 1
+soc.culture.turkish = 1
+talk.politics.mideast = 1
+
+
+================================================================================
+
+CLUSTER 33
+Medoid:
+['sci.med']
+10nn:
+['sci.med']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['sci.med']
+['comp.sys.mac.hardware']
+['rec.autos']
+['ba.market.misc', 'misc.forsale', 'alt.forsale']
+['ba.market.misc', 'misc.forsale', 'alt.forsale']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+comp.sys.mac.hardware = 27
+talk.politics.guns = 25
+misc.forsale = 17
+rec.sport.baseball = 16
+rec.autos = 15
+alt.atheism = 12
+rec.motorcycles = 12
+comp.os.ms-windows.misc = 11
+talk.religion.misc = 10
+ba.market.misc = 9
+rec.sport.hockey = 9
+talk.origins = 8
+sci.med = 7
+ba.market.computers = 6
+ba.forsale = 5
+alt.forsale = 5
+rec.backcountry = 4
+ba.motorcycles = 4
+talk.politics.mideast = 4
+alt.politics.usa.constitution = 4
+talk.politics.misc = 3
+su.market = 3
+alt.law-enforcement = 3
+misc.legal = 3
+alt.society.civil-liberty = 3
+sci.space = 3
+sci.environment = 2
+comp.os.msdos.misc = 2
+comp.graphics = 2
+talk.abortion = 2
+soc.culture.iranian = 2
+sci.electronics = 2
+comp.sys.next.hardware = 2
+rec.autos.vw = 2
+talk.politics.space = 2
+comp.windows.x = 1
+ca.forsale = 1
+rec.games.video = 1
+misc.consumers = 1
+rec.food.cooking = 1
+comp.sys.ibm.pc.hardware = 1
+comp.periphs.printers = 1
+comp.os.ms-windows.apps = 1
+comp.os.msdos.apps = 1
+ba.market.housing = 1
+talk.politics.drugs = 1
+alt.rush-limbaugh = 1
+misc.forsale.computers.pc-clone = 1
+maine.hockey-l = 1
+comp.sys.laptops = 1
+soc.culture.korean = 1
+soc.culture.japan = 1
+rec.autos.tech = 1
+sci.crypt = 1
+talk.philosophy.misc = 1
+sci.image.processing = 1
+alt.society.sovereign = 1
+comp.sys.next.software = 1
+comp.sys.mac.programmer = 1
+comp.sys.3b1 = 1
+alt.rodney-king = 1
+misc.forsale.computers.d = 1
+misc.forsale.computers.other = 1
+comp.os.ms-windows.advocacy = 1
+alt.out-of-body = 1
+sci.astro = 1
+alt.save.the.earth = 1
+talk.environment = 1
+boulder.general = 1
+
+
+================================================================================
+
+CLUSTER 34
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['comp.windows.x']
+['talk.religion.misc', 'talk.religion.newage']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['comp.os.ms-windows.misc']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['misc.forsale']
+['comp.os.ms-windows.misc']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['rec.motorcycles']
+
+______ALL______
+
+comp.os.ms-windows.misc = 20
+comp.windows.x = 15
+comp.sys.mac.hardware = 12
+comp.sys.ibm.pc.hardware = 7
+comp.graphics = 6
+misc.forsale = 5
+sci.electronics = 3
+misc.forsale.computers = 2
+comp.lang.postscript = 2
+comp.os.ms-windows.apps = 1
+comp.os.msdos.a.misc = 1
+uchi.forsale = 1
+chi.forsale = 1
+misc.forsale.computers.ot = 1
+comp.periphs.printers = 1
+comp.sys.sgi.graphics = 1
+talk.religion.misc = 1
+comp.os.msdos.misc = 1
+comp.windows.x.apps = 1
+comp.text = 1
+comp.text.interleaf = 1
+comp.text.frame = 1
+
+
+================================================================================
+
+CLUSTER 35
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['comp.windows.x']
+['comp.windows.open-look', 'comp.windows.x']
+['comp.windows.x', 'comp.windows.x.motif', 'comp.windows.open-look']
+['comp.sys.sun.misc', 'comp.windows.x', 'comp.windows.open-look']
+['comp.windows.x', 'comp.windows.x.motif', 'comp.windows.x.apps', 'comp.windows.x.i386unix', 'comp.windows.x.intrinsics']
+['comp.windows.x', 'comp.windows.x.motif']
+['comp.infosystems.gopher', 'comp.infosystems.wais', 'comp.infosystems', 'alt.hypertext', 'comp.windows.x.apps', 'comp.windows.x']
+['comp.windows.x.motif', 'comp.windows.x', 'comp.human-factors', 'comp.windows.ms', 'comp.windows.open-look']
+['comp.windows.x', 'comp.windows.x.motif']
+
+______ALL______
+
+comp.windows.x = 194
+comp.windows.x.motif = 63
+comp.windows.open-look = 30
+comp.windows.x.apps = 23
+comp.windows.x.intrinsics = 22
+comp.lang.postscript = 9
+news.answers = 7
+comp.answers = 7
+comp.unix.aix = 6
+comp.graphics = 6
+comp.text = 6
+comp.text.interleaf = 6
+comp.text.frame = 6
+comp.sys.sun.misc = 6
+alt.toolkits.xview = 5
+comp.sys.sun.apps = 5
+comp.os.ms-windows.misc = 5
+comp.sys.sun.admin = 4
+comp.sys.dec = 4
+comp.windows.ms = 4
+comp.windows.x.i386unix = 4
+comp.os.ms-windows.programmer.tools = 3
+mlists.motif-talk = 3
+comp.human-factors = 3
+connect.audit = 3
+comp.text.tex = 3
+comp.windows.misc = 3
+comp.unix.solaris = 3
+comp.mail.mh = 2
+comp.unix.sysv386 = 2
+comp.windows.x.openlook = 2
+comp.unix.ultrix = 2
+comp.sys.sgi.apps = 2
+comp.sys.hp = 2
+sci.math.stat = 2
+sci.math.num-analysis = 2
+comp.object = 2
+comp.lang.c++ = 2
+news.announce.newgroups = 2
+news.groups = 2
+comp.sys.sgi.misc = 2
+comp.sys.mac.misc = 2
+comp.sys.ibm.pc.misc = 2
+comp.lang.perl = 1
+rec.autos = 1
+comp.windows.motif.x = 1
+comp.sys.sun.wanted = 1
+new.products = 1
+comp.infosystems.gopher = 1
+comp.infosystems.wais = 1
+comp.infosystems = 1
+alt.hypertext = 1
+comp.sys.sun = 1
+gnu.gdb.bug = 1
+comp.unix.osf.misc = 1
+comp.unix.misc = 1
+comp.windows.motif = 1
+
+
+================================================================================
+
+CLUSTER 36
+Medoid:
+['sci.crypt', 'sci.answers', 'news.answers']
+10nn:
+['sci.crypt', 'sci.answers', 'news.answers']
+['sci.crypt', 'comp.security.misc', 'alt.security', 'comp.org.eff.talk', 'alt.privacy', 'alt.privacy.clipper']
+['sci.crypt']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['sci.crypt', 'alt.privacy.clipper']
+['sci.crypt']
+['comp.org.eff.talk', 'alt.privacy.clipper', 'sci.crypt']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt']
+['sci.crypt']
+
+______ALL______
+
+sci.crypt = 271
+alt.privacy.clipper = 72
+comp.org.eff.talk = 39
+alt.security.pgp = 30
+news.answers = 13
+alt.security = 13
+comp.security.misc = 12
+sci.answers = 10
+alt.privacy = 10
+talk.politics.guns = 4
+comp.org.acm = 4
+comp.org.ieee = 4
+alt.security.ripem = 3
+comp.mail.misc = 3
+comp.answers = 3
+comp.windows.x = 3
+alt.answers = 2
+alt.fan.david-sternlight = 2
+alt.security.clipper = 1
+alt.law-enforcement = 1
+comp.privacy = 1
+comp.sys.mac.apps = 1
+comp.protocols.kerberos = 1
+talk.politics.misc = 1
+bit.listserv.xtropy-l = 1
+demon.security = 1
+uk.org.community = 1
+
+
+================================================================================
+
+CLUSTER 37
+Medoid:
+['comp.sys.ibm.pc.hardware']
+10nn:
+['comp.sys.ibm.pc.hardware']
+['comp.os.ms-windows.misc']
+['sci.med']
+['misc.forsale']
+['rec.motorcycles']
+['rec.sport.hockey']
+['comp.os.ms-windows.misc']
+['sci.electronics']
+['soc.culture.canada', 'rec.humor', 'rec.sport.baseball']
+['rec.sport.hockey']
+
+______ALL______
+
+rec.sport.hockey = 167
+sci.electronics = 73
+rec.motorcycles = 59
+comp.os.ms-windows.misc = 42
+comp.sys.ibm.pc.hardware = 38
+rec.sport.baseball = 34
+comp.sys.mac.hardware = 33
+rec.autos = 24
+comp.graphics = 22
+sci.med = 21
+comp.windows.x = 18
+sci.space = 13
+talk.politics.mideast = 12
+misc.forsale = 11
+talk.religion.misc = 11
+talk.politics.misc = 9
+sci.crypt = 9
+soc.culture.canada = 6
+talk.politics.guns = 6
+misc.consumers.house = 5
+rec.autos.tech = 5
+alt.parents-teens = 4
+edm.general = 4
+soc.culture.usa = 4
+comp.robotics = 4
+alt.atheism = 4
+soc.culture.jewish = 2
+rec.audio = 2
+soc.culture.iranian = 2
+alt.conspiracy = 2
+rec.food.cooking = 2
+comp.sys.mac.misc = 2
+rec.arts.sf.science = 2
+soc.culture.arabic = 2
+sci.astro = 2
+wi.forsale = 1
+uwisc.forsale = 1
+uwisc.cae.general = 1
+alt.politics.radical-left = 1
+rec.motorcycles.racing = 1
+rec.motorcycles.harley = 1
+aus.motorcycles = 1
+tx.motorcycles = 1
+ky.motorcycles = 1
+ba.motorcycles = 1
+rec.audio.pro = 1
+misc.legal = 1
+alt.politics.libertarian = 1
+alt.activism = 1
+alt.politics.usa.constitution = 1
+rec.games.programmer = 1
+alt.binaries.pictures.d = 1
+sci.bio = 1
+comp.lsi = 1
+rec.sport.soccer = 1
+comp.graphics.visualization = 1
+comp.os.msdos.misc = 1
+misc.consumers = 1
+sci.environment = 1
+alt.sci.planetary = 1
+alt.stagecraft = 1
+sci.optics = 1
+rec.humor = 1
+comp.programming = 1
+sci.math = 1
+sci.skeptic = 1
+alt.internet.services = 1
+comp.mail.misc = 1
+comp.multimedia = 1
+alt.graphics.pixutils = 1
+comp.unix.aix = 1
+comp.org.eff.talk = 1
+ont.forsale = 1
+ott.forsale = 1
+alt.magick = 1
+alt.pagan = 1
+comp.bbs.waffle = 1
+
+
+================================================================================
+
+CLUSTER 38
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['rec.sport.baseball']
+['soc.motss', 'soc.bi', 'talk.politics.misc']
+['misc.forsale']
+['rec.sport.baseball']
+['comp.graphics', 'uw.graphics']
+['sci.med']
+['rec.sport.hockey']
+['comp.graphics', 'uw.graphics']
+['rec.autos']
+
+______ALL______
+
+comp.sys.mac.hardware = 18
+rec.autos = 16
+sci.electronics = 14
+comp.graphics = 12
+rec.sport.baseball = 9
+sci.med = 9
+misc.forsale = 8
+sci.space = 7
+talk.politics.misc = 7
+comp.sys.ibm.pc.hardware = 7
+alt.atheism = 7
+talk.religion.misc = 6
+alt.pagan = 5
+misc.legal = 5
+rec.motorcycles = 4
+comp.windows.x = 4
+alt.magick = 4
+talk.politics.guns = 4
+sci.astro = 4
+rec.sport.hockey = 3
+comp.os.ms-windows.misc = 2
+uw.graphics = 2
+alt.drugs = 2
+comp.sys.ibm.pc.misc = 2
+alt.activism = 2
+alt.conspiracy = 2
+rec.video.production = 2
+rec.video = 2
+comp.graphics.animation = 2
+seattle.forsale = 2
+comp.theory = 1
+misc.consumers = 1
+comp.os.ms-windows.setup = 1
+comp.sys.sun.admin = 1
+comp.os.msdos.misc = 1
+comp.os.msdos.apps = 1
+uw.pc.ibm = 1
+comp.lang.postscript = 1
+comp.windows.x.apps = 1
+comp.text = 1
+comp.text.interleaf = 1
+comp.text.frame = 1
+sci.crypt = 1
+biz.comp.hardware = 1
+comp.misc = 1
+ = 1
+comp.sys.mac.misc = 1
+talk.politics.space = 1
+comp.windows.x.intrinsics = 1
+soc.college.grad = 1
+soc.college.gradinfo = 1
+uw.forsale = 1
+uwash.forsale = 1
+pnw.forsale = 1
+soc.motss = 1
+soc.bi = 1
+soc.culture.usa = 1
+
+
+================================================================================
+
+CLUSTER 39
+Medoid:
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+10nn:
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+
+______ALL______
+
+alt.atheism = 24
+talk.abortion = 23
+talk.religion.misc = 23
+
+
+================================================================================
+
+CLUSTER 40
+Medoid:
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+10nn:
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['talk.religion.misc', 'talk.religion.newage']
+['misc.forsale']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['rec.motorcycles']
+['talk.politics.guns']
+['misc.forsale', 'misc.wanted', 'rec.radio.swap']
+['misc.forsale', 'ne.forsale']
+
+______ALL______
+
+misc.forsale = 308
+ne.forsale = 21
+rec.arts.comics.marketplace = 14
+rec.collecting = 14
+ny.forsale = 14
+rec.music.marketplace = 13
+fl.forsale = 12
+misc.forsale.computers = 11
+ba.market.misc = 10
+misc.wanted = 10
+rec.video = 9
+rec.autos = 8
+rec.motorcycles = 7
+rec.music.makers = 7
+rec.photo = 6
+rec.music.makers.synth = 6
+rec.games.video.marketplace = 6
+nj.forsale = 5
+rec.audio = 5
+rec.radio.swap = 5
+misc.forsale.computers.other = 4
+chi.forsale = 4
+pa.forsale = 4
+rec.audio.pro = 3
+phl.forsale = 3
+osu.for-sale = 3
+comp.graphics = 3
+misc.forsale.computers.pc-clone = 3
+rec.music.cd = 3
+sci.electronics = 3
+rpi.forsale = 3
+rec.music.misc = 3
+kw.forsale = 2
+misc.books.technical = 2
+rec.bicycles.marketplace = 2
+ba.forsale = 2
+rec.mag = 2
+na.forsale = 2
+misc.forsale.wanted = 2
+ont.forsale = 2
+rec.travel = 2
+rec.travel.air = 2
+rec.games.video.classic = 2
+alt.rock-n-roll.metal.heavy = 2
+alt.drumcorps = 2
+rec.arts.marching.drumcorps = 2
+rec.radio.amateur.misc = 2
+comp.sys.ibm.pc.hardware = 2
+ba.market.computers = 2
+rec.skiing = 2
+ca.forsale = 2
+rec.games.video = 2
+rec.games.video.arcade = 2
+labs.talk = 2
+ba.market.vehicles = 2
+chi.wanted = 2
+rec.autos.vw = 2
+cornell.marketplace = 2
+us.forsale.misc = 2
+su.market = 2
+csugrad.forsale = 1
+dc.forsale = 1
+vt.forsale = 1
+uw.forsale = 1
+comp.windows.x = 1
+comp.lang.postscript = 1
+misc.forsale.computers.workstation = 1
+msu.forsale = 1
+comp.sys.mac.hardware = 1
+sci.chem = 1
+sci.engr.chem = 1
+uic.general = 1
+uiuc.general = 1
+psu.market.forsale = 1
+ne.wanted = 1
+comp.sys.laptops = 1
+cmh.forsale = 1
+rec.travel.marketplace = 1
+misc.computer.forsale = 1
+mi.wanted = 1
+umr.student.forsale = 1
+misc.forsale.computer.other = 1
+comp.music = 1
+tx.forsale = 1
+tx.wanted = 1
+rec.motorcycles.harley = 1
+alt.rock-n-roll.classic = 1
+alt.sega.genesis = 1
+rec.arts.manga = 1
+misc.writing = 1
+misc.entrepreneurs = 1
+ur.general = 1
+ny.general = 1
+wny.general = 1
+comp.os.linux = 1
+fibercom.general = 1
+triangle.forsale = 1
+alt.supermodels = 1
+misc.forsale.computers.pc = 1
+rec.arts.comics = 1
+rec.arts.comics.misc = 1
+alt.music.alternative = 1
+alt.cd-rom = 1
+misc.consumers.house = 1
+ba.market.housing = 1
+athena.forsale = 1
+rec.video.releases = 1
+rec.audio.car = 1
+wpi.forsale = 1
+rec.arts.comics.xbooks = 1
+comp.sys.3b1 = 1
+ba.market = 1
+sci.crypt = 1
+alt.rock-n-roll.metal = 1
+ingr.forsale = 1
+hsv.forsale = 1
+misc.forsale.computers.mac = 1
+bu.forsale = 1
+alt.forsale = 1
+misc.invest.real-estate = 1
+ott.forsale = 1
+rec.games.frp.marketplace = 1
+rec.scuba = 1
+rec.music.synth = 1
+bbn.bboard = 1
+mit.bboard = 1
+rec.arts.sf.marketplace = 1
+maine.forsale = 1
+austin.forsale = 1
+rec.sport.baseball = 1
+5col.forsale = 1
+comp.sys.ibm.pc.games = 1
+
+
+================================================================================
+
+CLUSTER 41
+Medoid:
+['talk.politics.guns']
+10nn:
+['talk.politics.guns']
+['comp.sys.mac.hardware']
+['comp.graphics']
+['comp.sys.mac.hardware']
+['talk.politics.misc']
+['comp.graphics']
+['sci.electronics']
+['misc.forsale']
+['talk.politics.misc', 'alt.politics.clinton']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+talk.politics.misc = 30
+talk.politics.mideast = 27
+comp.sys.ibm.pc.hardware = 24
+talk.religion.misc = 16
+comp.sys.mac.hardware = 12
+soc.culture.jewish = 12
+talk.politics.guns = 12
+alt.magick = 11
+alt.pagan = 11
+misc.forsale = 10
+comp.os.ms-windows.misc = 10
+rec.autos = 9
+alt.politics.clinton = 9
+soc.culture.arabic = 8
+sci.med = 8
+rec.motorcycles = 6
+rec.sport.hockey = 6
+comp.graphics = 6
+comp.windows.x = 3
+misc.headlines = 3
+misc.legal = 3
+alt.conspiracy = 3
+comp.dcom.modems = 3
+misc.consumers = 3
+soc.misc = 2
+soc.history = 2
+alt.fan.rush-limbaugh = 2
+sci.electronics = 2
+rec.autos.driving = 1
+rec.autos.tech = 1
+rec.sport.baseball = 1
+soc.culture.canada = 1
+alt.atheism = 1
+comp.os.msdos.misc = 1
+misc.forsale.computers.pc-clone = 1
+alt.activism = 1
+alt.rush-limbaugh = 1
+alt.president.clinton = 1
+sci.space = 1
+comp.sys.amiga.hardware = 1
+comp.sys.sun.hardware = 1
+comp.sys.mac.wanted = 1
+talk.religion.newage = 1
+soc.culture.african.american = 1
+misc.invest = 1
+alt.politics.libertarian = 1
+
+
+================================================================================
+
+CLUSTER 42
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['talk.politics.mideast']
+['sci.med']
+['talk.politics.mideast']
+['comp.sys.ibm.pc.hardware']
+['talk.politics.mideast']
+['misc.forsale']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['talk.politics.mideast']
+
+______ALL______
+
+rec.sport.hockey = 26
+talk.politics.mideast = 21
+talk.politics.misc = 13
+comp.sys.ibm.pc.hardware = 11
+rec.motorcycles = 11
+misc.forsale = 8
+sci.electronics = 6
+comp.graphics = 6
+talk.politics.guns = 5
+ny.forsale = 5
+comp.windows.x = 5
+soc.culture.canada = 5
+rec.sport.baseball = 5
+sci.med = 3
+soc.culture.jewish = 3
+sci.crypt = 3
+nj.forsale = 3
+ne.forsale = 3
+alt.politics.clinton = 3
+comp.os.ms-windows.misc = 3
+rec.autos = 2
+comp.lsi = 2
+can.general = 2
+sci.physics = 2
+sci.chem = 2
+sci.bio = 2
+comp.sys.mac.hardware = 2
+alt.graphics = 2
+rec.arts.sf.marketplace = 2
+rec.startrek.fandom = 2
+alt.activism.d = 2
+talk.politics.medicine = 2
+can.politics = 2
+soc.culture.usa = 1
+misc.misc = 1
+comp.lsi.testing = 1
+soc.culture.turkish = 1
+talk.politics.soviet = 1
+soc.culture.greek = 1
+rec.autos.vw = 1
+alt.graphics.pixutils = 1
+alt.law-enforcement = 1
+alt.internet.services = 1
+alt.cad.autocad = 1
+alt.cad = 1
+comp.sys.ibm.pc.misc = 1
+ba.motorcycles = 1
+rec.music.marketplace = 1
+nyc.general = 1
+comp.sys.amiga = 1
+comp.graphics.animation = 1
+alt.3d = 1
+comp.dcom.modems = 1
+us.forsale.misc = 1
+comp.sys.mac.misc = 1
+
+
+================================================================================
+
+CLUSTER 43
+Medoid:
+['comp.windows.x']
+10nn:
+['comp.windows.x']
+['misc.headlines', 'talk.politics.misc', 'soc.culture.african.american']
+['comp.windows.x']
+['comp.windows.x']
+['comp.windows.x']
+['sci.crypt']
+['comp.windows.x']
+['comp.windows.x']
+['sci.med']
+['comp.windows.x']
+
+______ALL______
+
+comp.windows.x = 116
+comp.sys.mac.hardware = 22
+talk.politics.mideast = 18
+sci.crypt = 17
+talk.politics.misc = 14
+rec.sport.baseball = 13
+sci.electronics = 10
+soc.culture.jewish = 9
+comp.sys.ibm.pc.hardware = 9
+sci.med = 7
+misc.forsale = 6
+ne.forsale = 5
+rec.autos = 5
+sci.space = 5
+comp.os.ms-windows.misc = 5
+rec.sport.hockey = 5
+misc.legal = 4
+comp.graphics = 4
+talk.religion.misc = 3
+talk.politics.guns = 3
+comp.windows.x.motif = 3
+sci.astro = 3
+rec.motorcycles = 3
+alt.privacy.clipper = 3
+rec.radio.swap = 3
+rec.radio.amateur.misc = 3
+comp.sys.mac.misc = 3
+misc.headlines = 2
+athena.forsale = 2
+mit.bboard = 2
+soc.culture.arabic = 2
+ne.general = 2
+comp.sys.ibm.pc.misc = 2
+comp.windows.open-look = 1
+athena.misc = 1
+misc.forsale.computers = 1
+misc.forsale.computers.pc-clonecomrec.music.marketplace = 1
+talk.abortion = 1
+misc.consumers.house = 1
+soc.culture.african.american = 1
+misc.writing = 1
+misc.entrepreneurs = 1
+ny.forsale = 1
+alt.sex = 1
+rec.radio.info = 1
+misc.forsale.computers.pc-clone = 1
+misc.forsale.computers.other = 1
+alt.internet.services = 1
+alt.unix.wizards = 1
+comp.ai = 1
+comp.sys.mac.comm = 1
+alt.law-enforcement = 1
+alt.atheism = 1
+rec.music.marketplace = 1
+alt.security.pgp = 1
+alt.conspiracy = 1
+alt.flame = 1
+alt.stupidity = 1
+comp.sys.mac.system = 1
+comp.unix.aux = 1
+
+
+================================================================================
+
+CLUSTER 44
+Medoid:
+['comp.os.ms-windows.misc']
+10nn:
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+
+______ALL______
+
+comp.os.ms-windows.misc = 10
+rec.motorcycles = 8
+comp.graphics = 3
+sci.space = 3
+sci.electronics = 2
+rec.sport.hockey = 1
+ba.motorcycles = 1
+rec.motorcycles.racing = 1
+sci.astro = 1
+comp.sys.ibm.pc.hardware = 1
+
+
+================================================================================
+
+CLUSTER 45
+Medoid:
+['sci.space']
+10nn:
+['sci.space']
+['sci.med']
+['rec.motorcycles']
+['sci.space']
+['dc.forsale', 'misc.forsale']
+['rec.motorcycles']
+['sci.space']
+['talk.politics.guns']
+['talk.politics.mideast']
+['sci.space']
+
+______ALL______
+
+alt.atheism = 18
+sci.space = 17
+talk.politics.misc = 15
+talk.religion.misc = 10
+talk.politics.mideast = 9
+rec.motorcycles = 8
+misc.forsale = 8
+comp.sys.ibm.pc.hardware = 8
+rec.autos = 6
+sci.electronics = 6
+comp.sys.mac.hardware = 5
+sci.skeptic = 5
+alt.conspiracy = 5
+talk.politics.guns = 4
+sci.med = 3
+sci.crypt = 3
+alt.activism = 3
+misc.consumers.house = 2
+comp.os.ms-windows.misc = 2
+rec.autos.tech = 2
+comp.graphics = 2
+sci.astro = 2
+rec.motorcycles.racing = 1
+rec.sport.baseball = 1
+rec.autos.driving = 1
+alt.flame = 1
+alt.pagan = 1
+comp.ai = 1
+alt.unix.wizards = 1
+alt.internet.services = 1
+dc.forsale = 1
+sci.geo.meteorology = 1
+sci.geo.geology = 1
+misc.legal = 1
+sci.space.shuttle = 1
+comp.windows.x = 1
+alt.privacy.clipper = 1
+
+
+================================================================================
+
+CLUSTER 46
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+
+______ALL______
+
+talk.politics.mideast = 198
+talk.politics.misc = 21
+soc.culture.jewish = 11
+misc.headlines = 8
+soc.culture.arabic = 7
+alt.conspiracy = 5
+alt.censorship = 4
+soc.misc = 2
+alt.activism = 1
+soc.culture.turkish = 1
+comp.sys.ibm.pc.games = 1
+rec.games.misc = 1
+alt.flame = 1
+
+
+================================================================================
+
+CLUSTER 47
+Medoid:
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+10nn:
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.autos']
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+['talk.politics.guns']
+['alt.activism', 'talk.politics.misc']
+['sci.crypt']
+['talk.politics.misc', 'misc.legal', 'alt.politics.libertarian']
+
+______ALL______
+
+talk.politics.misc = 51
+misc.legal = 24
+alt.politics.libertarian = 24
+rec.autos = 17
+talk.politics.guns = 14
+rec.motorcycles = 9
+sci.space = 9
+alt.conspiracy = 8
+sci.crypt = 6
+misc.forsale = 5
+comp.sys.ibm.pc.hardware = 5
+talk.religion.misc = 5
+rec.sport.baseball = 5
+alt.activism = 5
+alt.sex = 4
+comp.sys.mac.hardware = 4
+talk.politics.medicine = 4
+alt.politics.usa.misc = 3
+alt.politics.clinton = 3
+alt.privacy.clipper = 3
+alt.politics.bush = 2
+soc.culture.jewish = 2
+sci.med = 2
+comp.os.ms-windows.misc = 2
+alt.society.sovereign = 2
+sci.electronics = 2
+alt.atheism = 2
+comp.graphics = 2
+sci.astro = 2
+rec.autos.tech = 2
+alt.activism.d = 2
+rec.music.cd = 1
+rec.music.misc = 1
+alt.rock-n-roll.metal = 1
+rec.motorcycles.racing = 1
+ba.motorcycles = 1
+alt.law-enforcement = 1
+alt.politics.usa.constitution = 1
+alt.society.civil-liberty = 1
+alt.politics.perot = 1
+sci.skeptic = 1
+rec.games.video = 1
+alt.news-media = 1
+alt.politics.elections = 1
+alt.fan.bill-gates = 1
+comp.os.ms-windows.advocacy = 1
+pa.general = 1
+phl.misc = 1
+soc.men = 1
+talk.politics.mideast = 1
+sci.space.shuttle = 1
+comp.windows.x.motif = 1
+comp.windows.x = 1
+sci.materials = 1
+alt.autos.antique = 1
+rec.autos.antique = 1
+soc.history = 1
+alt.fan.rush-limbaugh = 1
+rec.motorcycles.harley = 1
+alt.president.clinton = 1
+soc.culture.usa = 1
+alt.rush-limbaugh = 1
+ny.forsale = 1
+
+
+================================================================================
+
+CLUSTER 48
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['sci.electronics']
+['misc.forsale']
+['rec.autos']
+['rec.autos']
+['rec.sport.baseball']
+['rec.motorcycles']
+['rec.sport.baseball']
+['misc.forsale']
+['rec.motorcycles']
+
+______ALL______
+
+talk.politics.guns = 21
+rec.sport.baseball = 15
+talk.religion.misc = 11
+rec.autos = 10
+soc.culture.usa = 9
+misc.forsale = 9
+alt.rush-limbaugh = 8
+comp.sys.mac.hardware = 8
+alt.atheism = 8
+talk.origins = 8
+rec.motorcycles = 7
+comp.os.ms-windows.misc = 7
+talk.politics.misc = 5
+comp.graphics = 5
+comp.sys.ibm.pc.hardware = 4
+az.general = 2
+sci.crypt = 2
+sci.med = 2
+sci.electronics = 2
+comp.os.ms-windows.advocacy = 2
+soc.culture.jewish = 2
+alt.conspiracy = 1
+comp.lang.c++ = 1
+sci.research = 1
+alt.psychoactives = 1
+sci.psychology = 1
+misc.consumers.house = 1
+comp.os.ms-windows.app = 1
+comp.os.ms-windows.apps = 1
+sci.astro = 1
+sci.space = 1
+sci.geo.meteorology = 1
+sci.geo.geology = 1
+misc.wanted = 1
+sci.energy = 1
+sci.image.processing = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+sci.skeptic = 1
+alt.alien.visitors = 1
+comp.os.ms-windows.setup = 1
+ba.motorcycles = 1
+
+
+================================================================================
+
+CLUSTER 49
+Medoid:
+['talk.religion.misc']
+10nn:
+['talk.religion.misc']
+['soc.religion.christian']
+['soc.religion.christian']
+['talk.religion.misc']
+['talk.religion.misc']
+['soc.religion.christian']
+['soc.religion.christian']
+['soc.religion.christian']
+['talk.religion.misc']
+['soc.religion.christian']
+
+______ALL______
+
+talk.religion.misc = 68
+alt.atheism = 64
+soc.religion.christian = 37
+talk.origins = 6
+talk.politics.misc = 3
+alt.conspiracy = 2
+talk.politics.mideast = 2
+talk.religion.newage = 2
+alt.slack = 2
+talk.politics.guns = 2
+soc.culture.jewish = 2
+sci.skeptic = 2
+rpi.rumor = 1
+rpi.talk = 1
+alt.history.whatif = 1
+alt.pagan = 1
+
+
+================================================================================
+
+CLUSTER 50
+Medoid:
+['talk.politics.guns']
+10nn:
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+
+______ALL______
+
+talk.politics.guns = 189
+misc.headlines = 12
+talk.politics.misc = 11
+alt.politics.usa.constitution = 8
+alt.society.civil-liberty = 6
+alt.society.sovereign = 5
+alt.law-enforcement = 4
+misc.legal = 4
+alt.conspiracy = 4
+rec.guns = 3
+talk.religion.misc = 3
+alt.activism = 2
+soc.culture.usa = 2
+rec.backcountry = 2
+talk.abortion = 2
+alt.rush-limbaugh = 2
+soc.rights.human = 2
+sci.space = 1
+alt.atheism = 1
+alt.politics.libertarian = 1
+alt.politics.usa.misc = 1
+
+
+================================================================================
+
+CLUSTER 51
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['comp.graphics']
+['comp.graphics']
+['comp.sys.ibm.pc.hardware']
+['soc.religion.christian']
+['rec.motorcycles']
+['sci.electronics']
+['rec.motorcycles']
+['sci.electronics']
+['comp.windows.x']
+
+______ALL______
+
+rec.motorcycles = 54
+comp.windows.x = 48
+alt.atheism = 47
+comp.graphics = 44
+sci.electronics = 28
+talk.religion.misc = 24
+sci.crypt = 23
+comp.sys.ibm.pc.hardware = 20
+comp.sys.mac.hardware = 16
+sci.space = 15
+rec.autos = 15
+talk.politics.guns = 12
+comp.os.ms-windows.misc = 12
+talk.origins = 11
+sci.med = 10
+talk.abortion = 8
+talk.politics.misc = 8
+rec.games.video.marketplace = 5
+misc.forsale = 5
+alt.sex = 5
+ba.motorcycles = 4
+ca.politics = 4
+ba.politics = 4
+sci.image.processing = 3
+alt.binaries.pictures.supermodels = 3
+alt.graphics.pixutils = 3
+alt.binaries.pictures.erotica.d = 3
+alt.binaries.pictures.d = 3
+alt.privacy.clipper = 3
+soc.culture.usa = 3
+alt.rush-limbaugh = 3
+soc.men = 3
+alt.security = 2
+alt.sega.genesis = 2
+comp.org.eff.talk = 2
+rec.sport.baseball = 2
+uk.misc = 2
+misc.forsale.computers.other = 2
+comp.sys.mac.misc = 2
+misc.headlines = 2
+rec.games.video = 2
+misc.legal = 2
+comp.sys.mentor = 1
+rec.motorcycles.harley = 1
+comp.sys.hp = 1
+alt.super.snes = 1
+rec.sport.hockey = 1
+soc.culture.arabic = 1
+soc.culture.pakistan = 1
+soc.culture.turkish = 1
+comp.unix.sys5.r4 = 1
+comp.sys.novell = 1
+comp.unix.pc-clone.32bit = 1
+comp.misc = 1
+comp.periphs = 1
+comp.sys.laptops = 1
+comp.windows.x.intrinsics = 1
+soc.religion.christian = 1
+comp.multimedia = 1
+comp.windows.ms = 1
+comp.os.msdos.apps = 1
+rec.audio = 1
+alt.super.nes = 1
+misc.consumers.house = 1
+sci.astro = 1
+comp.sys.mac.system = 1
+alt.politics.usa.constitution = 1
+comp.lang.modula2 = 1
+comp.lang.pascal = 1
+misc.consumers = 1
+rec.food.cooking = 1
+sci.environment = 1
+alt.games.video.classic = 1
+rec.games.vectrex = 1
+rec.games.video.classic = 1
+misc.wanted = 1
+alt.politics.sex = 1
+alt.politics.usa.misc = 1
+comp.sys.amiga.hardware = 1
+comp.sys.m68k = 1
+comp.lang.postscript = 1
+bit.listserv.pscript = 1
+comp.lang.c++ = 1
+sci.skeptic = 1
+sci.math = 1
+comp.windows.x.motif = 1
+alt.security.pgp = 1
+uk.jobs = 1
+misc.jobs.misc = 1
+
+
+================================================================================
+
+CLUSTER 52
+Medoid:
+['talk.religion.misc']
+10nn:
+['talk.religion.misc']
+['alt.atheism']
+['talk.religion.misc']
+['talk.religion.misc']
+['talk.religion.misc']
+['talk.religion.misc']
+['talk.religion.misc']
+['alt.conspiracy', 'talk.religion.misc']
+['alt.atheism']
+['talk.religion.misc']
+
+______ALL______
+
+talk.religion.misc = 82
+alt.atheism = 40
+talk.abortion = 13
+comp.sys.mac.hardware = 12
+talk.politics.misc = 12
+rec.sport.hockey = 8
+rec.motorcycles = 8
+alt.conspiracy = 6
+sci.electronics = 4
+rec.sport.baseball = 3
+misc.forsale = 3
+sci.space = 2
+talk.politics.guns = 2
+alt.slack = 2
+ba.market.misc = 2
+ba.motorcycles = 1
+comp.sys.mac.misc = 1
+alt.pagan = 1
+alt.magick = 1
+sci.med = 1
+alt.sex.stories.alt.sex = 1
+ba.market.computers = 1
+ne.forsale = 1
+talk.bizarre = 1
+sci.crypt = 1
+comp.lang.c++ = 1
+alt.flame = 1
+
+
+================================================================================
+
+CLUSTER 53
+Medoid:
+['comp.windows.x']
+10nn:
+['comp.windows.x']
+['comp.windows.x']
+['sci.med']
+['sci.med']
+['comp.graphics']
+['sci.med']
+['comp.graphics']
+['sci.crypt']
+['sci.electronics']
+['sci.crypt']
+
+______ALL______
+
+sci.crypt = 47
+alt.atheism = 32
+rec.motorcycles = 23
+comp.windows.x = 22
+talk.religion.misc = 16
+sci.electronics = 14
+comp.graphics = 12
+talk.abortion = 11
+comp.os.ms-windows.misc = 11
+sci.med = 10
+comp.sys.ibm.pc.hardware = 8
+alt.fan.bill-gates = 4
+comp.os.ms-windows.advocacy = 4
+alt.sex = 3
+comp.sys.mac.hardware = 3
+talk.politics.misc = 2
+soc.men = 2
+misc.legal = 2
+comp.multimedia = 2
+alt.security = 2
+alt.privacy.clipper = 2
+talk.politics.mideast = 2
+comp.graphics.animation = 2
+alt.security.pgp = 2
+comp.unix.ultrix = 1
+talk.bizarre = 1
+uk.misc = 1
+rec.radio.amateur.packet = 1
+uk.jobs = 1
+misc.jobs.misc = 1
+sci.image.processing = 1
+comp.windows.x.motif = 1
+alt.flame = 1
+rec.sport.hockey = 1
+sci.space = 1
+alt.privacy = 1
+bit.listserv.xtropy-l = 1
+demon.local = 1
+demon.security = 1
+uk.events = 1
+uk.org.community = 1
+comp.periphs = 1
+comp.os.msdos.misc = 1
+comp.binaries.ibm.pc.wanted = 1
+comp.sys.ibm.pc.misc = 1
+comp.binaries.ibm.pc.archives = 1
+
+
+================================================================================
+
+CLUSTER 54
+Medoid:
+['sci.electronics']
+10nn:
+['sci.electronics']
+['sci.electronics']
+['rec.sport.baseball']
+['rec.autos']
+['sci.med']
+['rec.motorcycles']
+['talk.politics.guns']
+['comp.sys.mac.hardware']
+['rec.autos']
+['comp.windows.x']
+
+______ALL______
+
+sci.electronics = 45
+talk.politics.misc = 40
+rec.autos = 39
+rec.motorcycles = 32
+rec.sport.baseball = 25
+talk.politics.guns = 24
+talk.religion.misc = 19
+comp.sys.ibm.pc.hardware = 18
+alt.conspiracy = 16
+comp.os.ms-windows.misc = 9
+comp.windows.x = 8
+sci.med = 8
+talk.politics.mideast = 6
+rec.autos.tech = 6
+misc.consumers.house = 6
+misc.forsale = 6
+sci.skeptic = 6
+alt.drugs = 6
+comp.graphics = 6
+rec.sport.hockey = 5
+alt.activism = 4
+alt.president.clinton = 3
+alt.rush-limbaugh = 3
+sci.crypt = 3
+comp.os.ms-windows.apps = 3
+rec.autos.driving = 2
+comp.sys.mac.hardware = 2
+soc.culture.british = 2
+soc.culture.usa = 2
+alt.politics.clinton = 2
+soc.culture.jewish = 2
+rec.audio = 1
+soc.culture.iranian = 1
+sci.research = 1
+sci.med.telemedicine = 1
+misc.consumers = 1
+rec.food.cooking = 1
+sci.environment = 1
+comp.misc = 1
+comp.periphs = 1
+comp.sys.laptops = 1
+talk.politics.drugs = 1
+rec.games.video = 1
+alt.bbs = 1
+misc.forsale.computers = 1
+rec.radio.amateur.packet = 1
+comp.windows.x.motif = 1
+alt.society.civil-liberties = 1
+alt.journalism = 1
+sci.edu = 1
+sci.energy = 1
+comp.periphs.printers = 1
+comp.os.msdos.apps = 1
+comp.os.msdos.misc = 1
+soc.culture.canada = 1
+sci.space = 1
+alt.sex = 1
+soc.men = 1
+misc.legal = 1
+
+
+================================================================================
+
+CLUSTER 55
+Medoid:
+['rec.sport.hockey']
+10nn:
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['comp.os.ms-windows.misc']
+['rec.sport.hockey']
+['sci.electronics']
+['talk.religion.misc']
+['rec.sport.hockey']
+['comp.os.ms-windows.misc']
+
+______ALL______
+
+rec.sport.hockey = 35
+alt.atheism = 25
+comp.graphics = 15
+comp.sys.ibm.pc.hardware = 14
+talk.religion.misc = 13
+sci.space = 8
+comp.sys.mac.hardware = 7
+comp.os.ms-windows.misc = 6
+talk.origins = 5
+sci.electronics = 5
+sci.med = 5
+comp.windows.x = 4
+comp.sys.mac.wanted = 3
+sci.astro = 3
+rec.autos = 2
+alt.binaries.pictures.d = 2
+alt.binaries.pictures.erotica.d = 2
+rec.ham-radio = 2
+rec.nude = 2
+rec.radio.amateur.misc = 2
+rec.radio.cb = 2
+rec.radio.shortwave = 2
+sci.aeronautic = 2
+sci.aeronautics = 2
+sci.econ = 2
+sci.misc = 2
+soc.bi = 2
+comp.unix.aix = 1
+sci.image.processing = 1
+comp.graphics.animation = 1
+comp.graphics.visualization = 1
+comp.os.ms-windows.setup = 1
+rec.motorcycles = 1
+comp.sys.mac.system = 1
+alt.binaries.pictures.utilities = 1
+sci.crypt = 1
+alt.politics.usa.constitution = 1
+talk.politics.guns = 1
+comp.sys.ibm.pc.games = 1
+talk.politics.misc = 1
+comp.sys.sun.admin = 1
+comp.windows.ms = 1
+alt.binaries.pictures.supermodels = 1
+alt.graphics.pixutils = 1
+
+
+================================================================================
+
+CLUSTER 56
+Medoid:
+['tx.motorcycles', 'rec.motorcycles']
+10nn:
+['tx.motorcycles', 'rec.motorcycles']
+['tx.motorcycles', 'rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.motorcycles']
+['tx.motorcycles', 'rec.motorcycles']
+['rec.motorcycles']
+
+______ALL______
+
+rec.motorcycles = 13
+tx.motorcycles = 5
+comp.sys.sun.hardware = 1
+comp.windows.x = 1
+
+
+================================================================================
+
+CLUSTER 57
+Medoid:
+['sci.space']
+10nn:
+['sci.space']
+['sci.space']
+['sci.med']
+['sci.space']
+['comp.windows.x']
+['talk.religion.misc']
+['soc.motss', 'soc.bi', 'talk.politics.misc']
+['sci.electronics']
+['comp.windows.x']
+['sci.crypt']
+
+______ALL______
+
+sci.crypt = 61
+sci.med = 35
+talk.politics.guns = 34
+talk.politics.misc = 32
+rec.sport.baseball = 30
+talk.religion.misc = 21
+sci.electronics = 19
+comp.sys.mac.hardware = 17
+comp.sys.ibm.pc.hardware = 16
+rec.motorcycles = 16
+rec.autos = 11
+comp.graphics = 10
+alt.atheism = 9
+ca.politics = 9
+misc.forsale = 7
+comp.windows.x = 7
+alt.privacy.clipper = 6
+alt.conspiracy = 6
+alt.security.pgp = 6
+sci.space = 6
+comp.os.msdos.misc = 4
+alt.law-enforcement = 4
+comp.org.eff.talk = 4
+talk.politics.mideast = 3
+soc.motss = 3
+soc.bi = 3
+soc.culture.usa = 3
+soc.history = 3
+comp.os.ms-windows.misc = 3
+alt.parents-teens = 2
+rec.sport.hockey = 2
+soc.culture.jewish = 2
+alt.magick = 2
+alt.pagan = 2
+rec.autos.tech = 2
+alt.drugs = 2
+talk.abortion = 2
+ba.motorcycles = 2
+alt.activism = 2
+soc.singles = 2
+misc.headlines = 2
+or.politics = 2
+ba.politics = 2
+alt.internet.services = 2
+alt.unix.wizards = 2
+comp.ai = 2
+ba.market.vehicles = 2
+ba.market.computers = 2
+soc.culture.arabic = 1
+alt.president.clinton = 1
+alt.fan.rush-limbaugh = 1
+comp.multimedia = 1
+sci.skeptic = 1
+rec.autos.driving = 1
+misc.consumers = 1
+rec.food.cooking = 1
+sci.environment = 1
+rec.radio.amateur.misc = 1
+rec.radio.amateur.packet = 1
+tx.politics = 1
+alt.security.clipper = 1
+alt.fan.dan-quayle = 1
+comp.os.ms-windows.setup = 1
+rec.motorcycles.racing = 1
+soc.misc = 1
+alt.politics.clinton = 1
+rec.video.production = 1
+alt.rush-limbaugh = 1
+comp.lang.c++ = 1
+alt.security = 1
+comp.org.ieee = 1
+soc.culture.african.american = 1
+tx.motorcycles = 1
+comp.sys.mac.apps = 1
+misc.forsale.computers.other = 1
+sci.psychology = 1
+sci.med.nutrition = 1
+misc.kids = 1
+misc.legal = 1
+soc.men = 1
+alt.sex = 1
+comp.lang.c = 1
+soc.culture.celtic = 1
+comp.fonts = 1
+alt.binaries.pictures.utilities = 1
+alt.binaries.pictures.d = 1
+alt.binaries.pictures.erotica.d = 1
+alt.bbs = 1
+rec.audio = 1
+comp.sys.mac.programmer = 1
+comp.sys.atari.st = 1
+ba.wanted = 1
+rec.music.makers.synth = 1
+rec.music.marketplace = 1
+comp.misc = 1
+comp.periphs = 1
+comp.sys.laptops = 1
+comp.windows.x.motif = 1
+sci.astro = 1
+sci.physics = 1
+
+
+================================================================================
+
+CLUSTER 58
+Medoid:
+['alt.atheism']
+10nn:
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+
+______ALL______
+
+alt.atheism = 93
+sci.space = 15
+talk.politics.guns = 12
+sci.electronics = 11
+sci.skeptic = 10
+sci.med = 10
+talk.religion.misc = 9
+sci.astro = 7
+rec.autos = 7
+talk.politics.misc = 7
+talk.origins = 7
+sci.energy = 6
+sci.image.processing = 6
+sci.anthropology = 6
+alt.sci.physics.new-theories = 6
+alt.alien.visitors = 6
+rec.sport.baseball = 5
+misc.consumers = 4
+rec.food.cooking = 4
+sci.environment = 4
+sci.crypt = 3
+comp.graphics = 3
+comp.sys.mac.hardware = 2
+rec.motorcycles = 2
+alt.sci.planetary = 2
+rec.autos.tech = 1
+sci.materials = 1
+talk.abortion = 1
+soc.women = 1
+misc.forsale = 1
+comp.os.ms-windows.misc = 1
+misc.legal = 1
+rec.audio.car = 1
+rec.audio = 1
+alt.politics.usa.constitution = 1
+rec.motorcycles.harley = 1
+misc.consumers.house = 1
+
+
+================================================================================
+
+CLUSTER 59
+Medoid:
+['rec.sport.hockey']
+10nn:
+['rec.sport.hockey']
+['rec.sport.hockey']
+['talk.religion.misc']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['talk.religion.misc']
+['rec.sport.hockey']
+['talk.religion.misc']
+['rec.sport.hockey', 'edm.general']
+
+______ALL______
+
+rec.sport.hockey = 30
+talk.religion.misc = 20
+comp.os.ms-windows.misc = 10
+comp.sys.ibm.pc.hardware = 9
+sci.electronics = 9
+talk.politics.guns = 8
+misc.forsale = 6
+rec.autos = 4
+comp.windows.x = 4
+talk.politics.misc = 4
+comp.graphics = 2
+rec.motorcycles = 2
+soc.culture.jewish = 2
+alt.conspiracy = 2
+sci.crypt = 2
+ny.forsale = 2
+sunyab.forsale = 2
+comp.sys.mac.hardware = 1
+comp.os.ms-windows.setup = 1
+comp.os.ms-windows.apps = 1
+comp.music = 1
+rec.music.makers = 1
+comp.windows.open-look = 1
+edm.general = 1
+sci.math = 1
+misc.legal = 1
+alt.security.pgp = 1
+alt.privacy.clipper = 1
+ont.forsale = 1
+comp.unix.wizards = 1
+comp.unix.solaris = 1
+alt.atheism = 1
+alt.security = 1
+comp.org.eff.talk = 1
+comp.security.misc = 1
+comp.org.acm = 1
+comp.org.ieee = 1
+sci.med = 1
+rec.food.cooking = 1
+rec.sport.baseball = 1
+misc.forsale.computers.d = 1
+misc.forsale.computers.other = 1
+comp.sys.ibm.pc.misc = 1
+alt.activism = 1
+
+
+================================================================================
+
+CLUSTER 60
+Medoid:
+['comp.sys.ibm.pc.hardware']
+10nn:
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.hardware']
+
+______ALL______
+
+comp.sys.ibm.pc.hardware = 136
+comp.sys.mac.hardware = 29
+comp.periphs.scsi = 11
+misc.forsale = 9
+comp.os.ms-windows.misc = 4
+comp.arch.storage = 3
+comp.periphs = 3
+misc.forsale.computers.workstation = 2
+misc.forsale.computers = 2
+comp.os.os2.misc = 1
+bit.listserv.os2-l = 1
+comp.sys.mac.comm = 1
+comp.sys.amiga.marketplace = 1
+alt.folklore.computers = 1
+misc.forsale.computers.other = 1
+athena.forsale = 1
+misc.forsale.computers.mac = 1
+misc.forsale.computers.pc-clone = 1
+comp.sys.mac.wanted = 1
+comp.sys.ibm.pc.misc = 1
+comp.sys.ibm.ps2.hardware = 1
+comp.sys.next.hardware = 1
+comp.sys.next.marketplace = 1
+comp.sys.next.misc = 1
+comp.sys.sun.wanted = 1
+sci.electronics = 1
+chi.forsale = 1
+
+
+================================================================================
+
+CLUSTER 61
+Medoid:
+['talk.politics.guns']
+10nn:
+['talk.politics.guns']
+['talk.politics.misc']
+['talk.politics.misc']
+['sci.med']
+['talk.politics.misc', '']
+['talk.politics.misc']
+['comp.sys.mac.hardware']
+['talk.religion.misc']
+['talk.politics.guns']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+
+______ALL______
+
+sci.med = 9
+talk.politics.misc = 8
+talk.politics.mideast = 8
+talk.politics.guns = 7
+talk.religion.misc = 6
+rec.autos = 5
+rec.motorcycles = 4
+comp.sys.mac.hardware = 4
+comp.graphics = 3
+rec.sport.hockey = 3
+misc.forsale = 3
+comp.windows.x = 3
+misc.health.alternative = 3
+comp.sys.ibm.pc.hardware = 2
+ = 2
+comp.os.ms-windows.misc = 2
+alt.magick = 2
+alt.pagan = 2
+ny.forsale = 2
+sci.space = 2
+rec.sport.baseball = 2
+soc.culture.jewish = 2
+sci.electronics = 2
+soc.culture.yugoslavia = 1
+rec.music.marketplace = 1
+alt.rush-limbaugh = 1
+soc.culture.usa = 1
+sci.misc = 1
+sci.math = 1
+misc.writing = 1
+misc.entrepreneurs = 1
+nyc.general = 1
+
+
+================================================================================
+
+CLUSTER 62
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['talk.politics.mideast']
+['rec.motorcycles']
+['rec.motorcycles']
+['rec.sport.hockey']
+['sci.med']
+['sci.med']
+['rec.motorcycles']
+['rec.motorcycles']
+['alt.atheism']
+
+______ALL______
+
+rec.motorcycles = 48
+talk.politics.guns = 17
+rec.sport.hockey = 17
+talk.religion.misc = 13
+alt.atheism = 11
+rec.autos = 10
+misc.forsale = 8
+comp.windows.x = 7
+rec.sport.baseball = 6
+sci.med = 5
+talk.abortion = 4
+sci.electronics = 3
+comp.sys.sun.admin = 3
+comp.sys.ibm.pc.hardware = 3
+sun.forsale = 3
+talk.origins = 3
+comp.graphics = 3
+comp.sys.mac.hardware = 3
+soc.culture.usa = 2
+sci.space = 2
+comp.sys.sun.misc = 2
+ba.market.misc = 2
+alt.pagan = 2
+comp.windows.x.apps = 1
+comp.windows.x.motif = 1
+alt.psychoactives = 1
+ba.market.vehicles = 1
+sun.forsale.cars = 1
+comp.sys.sun.wanted = 1
+ba.market = 1
+talk.politics.mideast = 1
+comp.unix.solaris = 1
+soc.culture.jewish = 1
+ne.forsale = 1
+misc.forsale.computers = 1
+rec.sport.baseball.fantasy = 1
+alt.consciousness = 1
+alt.magick = 1
+sci.astro = 1
+rec.autos.tech = 1
+alt.autos.antique = 1
+rec.autos.antique = 1
+misc.consumers = 1
+misc.legal = 1
+comp.os.ms-windows.misc = 1
+
+
+================================================================================
+
+CLUSTER 63
+Medoid:
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+10nn:
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+['comp.os.msdos.programmer', 'alt.msdos.programmer', 'sci.electronics']
+
+______ALL______
+
+sci.electronics = 45
+comp.os.msdos.programmer = 38
+alt.msdos.programmer = 37
+misc.forsale = 4
+comp.sys.ibm.pc.hardware = 1
+
+
+================================================================================
+
+CLUSTER 64
+Medoid:
+['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup', 'comp.windows.ms']
+10nn:
+['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup', 'comp.windows.ms']
+['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup']
+['comp.databases', 'comp.lang.c++', 'comp.lang.c', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.programmer.misc']
+['comp.sys.ibm.ps2.hardware', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.programmer.misc', 'comp.os.ms-windows.programmer.tools', 'comp.os.ms-windows.programmer.win32', 'comp.os.ms-windows.setup', 'comp.windows.ms', 'comp.windows.ms.programmer', 'alt.windows.text']
+['comp.sys.ibm.ps2.hardware', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.programmer.misc', 'comp.os.ms-windows.programmer.tools', 'comp.os.ms-windows.programmer.win32', 'comp.os.ms-windows.setup', 'comp.windows.ms', 'comp.windows.ms.programmer', 'alt.windows.text']
+['comp.sys.ibm.ps2.hardware', 'comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.programmer.misc', 'comp.os.ms-windows.programmer.tools', 'comp.os.ms-windows.programmer.win32', 'comp.os.ms-windows.setup', 'comp.windows.ms', 'comp.windows.ms.programmer', 'alt.windows.text']
+['comp.os.ms-windows.apps', 'comp.os.ms-windows.setup', 'comp.os.ms-windows.misc']
+['comp.os.ms-windows.apps', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup', 'comp.windows.ms']
+['comp.os.ms-windows.misc', 'comp.os.ms-windows.apps']
+['comp.os.ms-windows.programmer.tools', 'comp.os.ms-windows.programmer.misc', 'comp.os.ms-windows.misc', 'comp.os.ms-windows.setup', 'comp.os.ms-windows.programmer.win32', 'comp.os.ms-windows.apps']
+
+______ALL______
+
+comp.os.ms-windows.misc = 240
+comp.os.ms-windows.apps = 101
+comp.os.ms-windows.advocacy = 65
+alt.fan.bill-gates = 59
+comp.os.ms-windows.setup = 41
+comp.os.ms-windows.programmer.misc = 38
+comp.os.ms-windows.programmer.tools = 21
+comp.os.msdos.misc = 19
+comp.os.ms-windows.programmer.win32 = 16
+comp.os.msdos.apps = 15
+comp.unix.dos-under-unix = 12
+comp.sys.ibm.pc.misc = 11
+comp.windows.ms = 11
+comp.sys.ibm.pc.hardware = 11
+alt.uu.comp.os.linux.questions = 9
+comp.apps.spreadsheets = 9
+comp.misc = 9
+alt.os.linux = 9
+comp.os.linux = 9
+comp.os.os2.advocacy = 9
+comp.periphs.printers = 9
+comp.sys.ibm.pc.net = 8
+man.linux = 8
+comp.databases = 6
+comp.unix.misc = 6
+comp.os.os2.misc = 6
+comp.os.msdos.programmer = 5
+comp.windows.ms.programmer = 4
+comp.windows.x = 4
+news.announce.newgroups = 4
+news.groups = 4
+comp.os.os2.programmer = 4
+comp.os.misc = 4
+comp.windows.misc = 3
+comp.sys.ibm.pc.programmer = 3
+comp.sys.ibm.ps2.hardware = 3
+alt.windows.text = 3
+comp.os.ms-windows.programmer.toolscomp.os.ms-windows.apps = 3
+comp.periphs = 3
+comp.os.msdos.pcgeos = 3
+comp.windows.x.i386unix = 3
+comp.unix.wizards = 3
+comp.unix.pc-clone.16bit = 3
+comp.unix.pc-clone.32bit = 3
+comp.fonts = 3
+comp.sys.ibm.pc.games = 2
+comp.os.os2.networking = 2
+comp.archives.msdos.d = 2
+sys.mac.misc = 1
+alt.folklore.computers = 1
+comp.windows.open-look = 1
+comp.multimedia = 1
+talk.bizarre = 1
+comp.sys.next.programmer = 1
+comp.sys.next.advocacy = 1
+comp.org.sug = 1
+comp.os.386bsd.misc = 1
+comp.os.386bsd.questions = 1
+comp.os.ms-windows.programme = 1
+comp.ms-windows.apps = 1
+comp.protocols.appletalk = 1
+gnu.ghostscript.bug = 1
+comp.windows.x.motif = 1
+bit.listserv.win3-l = 1
+comp.os.ms-win = 1
+alt.cd-rom = 1
+comp.periphs.scsi = 1
+comp.unix.msdos = 1
+comp.os.ms-windows.announce = 1
+comp.lang.c++ = 1
+comp.lang.c = 1
+comp.graphics = 1
+
+
+================================================================================
+
+CLUSTER 65
+Medoid:
+['talk.politics.mideast', 'talk.politics.misc', 'soc.culture.jewish']
+10nn:
+['talk.politics.mideast', 'talk.politics.misc', 'soc.culture.jewish']
+['talk.politics.mideast', 'talk.politics.misc', 'soc.culture.jewish']
+['talk.politics.mideast', 'talk.politics.misc', 'soc.culture.jewish']
+['soc.culture.jewish', 'talk.politics.mideast']
+['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+['talk.religion.misc', 'talk.politics.guns', 'soc.culture.jewish']
+['talk.politics.mideast', 'talk.politics.misc', 'soc.culture.jewish']
+['soc.culture.jewish', 'talk.politics.mideast', 'talk.politics.misc']
+
+______ALL______
+
+soc.culture.jewish = 149
+talk.politics.mideast = 121
+talk.politics.misc = 96
+talk.politics.guns = 66
+talk.religion.misc = 52
+soc.culture.arabic = 32
+misc.headlines = 21
+soc.misc = 13
+soc.history = 12
+alt.conspiracy = 7
+soc.culture.usa = 5
+soc.culture.pakistan = 4
+soc.culture.african.american = 4
+soc.culture.canada = 4
+alt.activism = 2
+rec.arts.books = 2
+sci.skeptic = 2
+soc.culture.iranian = 1
+soc.culture.british = 1
+
+
+================================================================================
+
+CLUSTER 66
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['talk.politics.mideast']
+['sci.space']
+['comp.sys.ibm.pc.hardware']
+['rec.motorcycles']
+['sci.med']
+['comp.sys.mac.hardware']
+['comp.sys.mac.hardware']
+['rec.motorcycles']
+['sci.space']
+
+______ALL______
+
+sci.med = 14
+misc.forsale = 14
+comp.os.ms-windows.misc = 11
+rec.motorcycles = 11
+comp.sys.mac.hardware = 10
+talk.politics.mideast = 9
+rec.sport.baseball = 8
+sci.space = 7
+comp.sys.ibm.pc.hardware = 7
+comp.windows.x = 7
+talk.politics.misc = 7
+talk.politics.guns = 6
+rec.food.cooking = 5
+rec.autos = 5
+misc.consumers = 4
+sci.environment = 4
+comp.os.misc = 4
+comp.os.os2.misc = 4
+comp.periphs = 4
+comp.graphics = 4
+ba.market.vehicles = 4
+sci.crypt = 3
+comp.org.eff.talk = 3
+ba.motorcycles = 3
+misc.legal = 2
+ucb.market.misc = 2
+ba.market.computers = 2
+rec.sport.hockey = 2
+alt.parents-teens = 2
+sci.electronics = 2
+misc.computer.forsale = 1
+comp.sys.mac.databases = 1
+alt.graphics.pixutils = 1
+ba.market.misc = 1
+sci.med.occupational = 1
+comp.human-factors = 1
+sci.answers = 1
+comp.answers = 1
+news.answers = 1
+comp.lang.tcl = 1
+misc.writing = 1
+misc.entrepreneurs = 1
+ny.forsale = 1
+ucb.market.vehicles = 1
+alt.privacy.clipper = 1
+comp.sys.mac.system = 1
+rec.games.video.marketplace = 1
+comp.sys.sun.admin = 1
+misc.forsale.computers.mac = 1
+comp.sys.mac.apps = 1
+comp.sys.mac.misc = 1
+rec.games.board = 1
+ba.wanted = 1
+ = 1
+soc.motss = 1
+soc.bi = 1
+computers.pc-clone = 1
+comp.os.ms-windows.apps = 1
+rec.autos.tech = 1
+sci.skeptic = 1
+talk.religion.misc = 1
+rec.motorcycles.racing = 1
+comp.text = 1
+
+
+================================================================================
+
+CLUSTER 67
+Medoid:
+['rec.autos']
+10nn:
+['rec.autos']
+['comp.graphics']
+['uiuc.classifieds', 'misc.forsale']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['sci.electronics']
+['rec.sport.baseball']
+['rec.sport.hockey']
+['alt.atheism']
+['rec.autos']
+
+______ALL______
+
+rec.autos = 34
+alt.atheism = 33
+talk.religion.misc = 28
+sci.space = 28
+talk.politics.mideast = 17
+comp.graphics = 15
+talk.origins = 15
+comp.os.ms-windows.misc = 14
+rec.sport.baseball = 13
+talk.politics.guns = 11
+sci.astro = 11
+comp.sys.mac.hardware = 10
+talk.politics.misc = 9
+soc.culture.usa = 9
+alt.rush-limbaugh = 9
+sci.electronics = 8
+sci.med = 8
+misc.forsale = 7
+comp.sys.ibm.pc.hardware = 7
+rec.motorcycles = 4
+talk.abortion = 4
+rec.autos.tech = 4
+sci.environment = 3
+misc.consumers = 3
+talk.politics.space = 3
+rec.sport.hockey = 3
+misc.invest = 2
+uiuc.classifieds = 2
+alt.magick = 2
+alt.pagan = 2
+alt.conspiracy = 2
+alt.discrimination = 2
+labs.talk = 2
+ne.forsale = 2
+ny.forsale = 2
+rec.food.cooking = 2
+comp.os.msdos.programmer = 2
+comp.lang.c = 1
+comp.lang.c++ = 1
+rec.autos.tec = 1
+alt.psychology.personality = 1
+sci.image.processing = 1
+talk.philosophy.misc = 1
+comp.os.ms-windows.apps = 1
+talk.environment = 1
+rec.backcountry = 1
+misc.rural = 1
+misc.headlines = 1
+k12.chat.teacher = 1
+soc.culture.turkish = 1
+soc.culture.greek = 1
+alt.activism = 1
+soc.culture.canada = 1
+soc.culture.british = 1
+soc.motss = 1
+alt.autos.antique = 1
+rec.autos.antique = 1
+rec.arts.drwho = 1
+comp.os.ms-windows.programmer.misc = 1
+comp.os.ms-windows.programmer.tools = 1
+rec.audio.car = 1
+rec.audio = 1
+misc.forsale.computers = 1
+misc.forsale.computers.other = 1
+sci.crypt = 1
+alt.security.pgp = 1
+alt.privacy = 1
+comp.org.eff.talk = 1
+comp.sys.ibm.pc.misc = 1
+sci.space.shuttle = 1
+rec.autos.vw = 1
+alt.society.civil-liberties = 1
+uiuc.classifieds.computer = 1
+sci.materials = 1
+alt.fan.rush-limbaugh = 1
+
+
+================================================================================
+
+CLUSTER 68
+Medoid:
+['rec.sport.hockey']
+10nn:
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.baseball']
+
+______ALL______
+
+rec.sport.hockey = 98
+rec.sport.baseball = 62
+misc.forsale = 4
+comp.sys.ibm.pc.games = 2
+bit.listserv.games-l = 1
+misc.forsale.computers.pc-clone = 1
+comp.sys.ibm.pc.hardware = 1
+
+
+================================================================================
+
+CLUSTER 69
+Medoid:
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+10nn:
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee', 'sci.crypt']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.or']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee', 'misc.legal']
+['sci.crypt', 'alt.security', 'comp.org.eff.talk', 'comp.security.misc', 'comp.org.acm', 'comp.org.ieee']
+
+______ALL______
+
+sci.crypt = 177
+comp.org.eff.talk = 159
+alt.security = 119
+comp.security.misc = 115
+comp.org.acm = 98
+comp.org.ieee = 98
+alt.privacy = 27
+alt.privacy.clipper = 22
+alt.security.pgp = 16
+misc.legal = 2
+comp.or = 2
+alt.dcom.telecom = 2
+comp.sys.mac.hardware = 2
+comp.databases.oracle = 1
+news.admin.policy = 1
+comp.admin.policy = 1
+alt.answers = 1
+sci.answers = 1
+news.answers = 1
+
+
+================================================================================
+
+CLUSTER 70
+Medoid:
+['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+10nn:
+['sci.image.processing', 'alt.graphics.pixutils', 'comp.graphics']
+['comp.graphics']
+['comp.graphics', 'comp.answers', 'news.answers']
+['comp.graphics', 'comp.answers', 'news.answers']
+['comp.graphics']
+['sci.image.processing', 'comp.databases', 'comp.graphics']
+['alt.binaries.pictures.supermodels', 'alt.graphics.pixutils', 'comp.graphics', 'alt.binaries.pictures.erotica.d', 'alt.binaries.pictures.d']
+['alt.binaries.pictures.supermodels', 'alt.graphics.pixutils', 'comp.graphics', 'alt.binaries.pictures.erotica.d', 'alt.binaries.pictures.d']
+['sci.image.processing', 'comp.graphics']
+['sci.astro', 'sci.space', 'comp.graphics']
+
+______ALL______
+
+comp.graphics = 71
+sci.image.processing = 26
+comp.answers = 9
+news.answers = 9
+alt.graphics.pixutils = 8
+alt.binaries.pictures.erotica.d = 7
+alt.binaries.pictures.d = 7
+rec.photo = 5
+comp.windows.x = 4
+sci.space = 4
+alt.binaries.pictures.supermodels = 4
+comp.graphics.visualization = 3
+comp.os.ms-windows.misc = 3
+comp.graphics.animation = 3
+alt.binaries.pictures.utilities = 3
+alt.answers = 3
+sci.astro = 2
+alt.binaries.pictures = 2
+rec.arts.misc = 2
+alt.artcom = 2
+comp.dcom.fax = 1
+alt.fax = 1
+comp.windows.ms = 1
+comp.sys.amiga.graphics = 1
+comp.databases = 1
+alt.internet.services = 1
+rec.arts.animation = 1
+comp.multimedia = 1
+alt.virtual-worlds = 1
+alt.zines = 1
+rec.mag = 1
+de.alt.binaries.pictures = 1
+alt.binaries.pictures.misc = 1
+comp.dsp = 1
+comp.os.ms-windows.apps = 1
+
+
+================================================================================
+
+CLUSTER 71
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['rec.sport.baseball']
+['rec.sport.hockey']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['misc.forsale']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+rec.sport.baseball = 28
+alt.atheism = 15
+talk.religion.misc = 13
+talk.abortion = 8
+misc.forsale = 8
+comp.sys.mac.hardware = 6
+alt.politics.clinton = 3
+alt.president.clinton = 3
+talk.politics.mideast = 3
+ne.forsale = 3
+rec.audio = 3
+sci.physics = 2
+rec.sport.hockey = 2
+sci.crypt = 2
+comp.graphics = 2
+ny.forsale = 2
+comp.sys.ibm.pc.hardware = 1
+sci.skeptic = 1
+talk.politics.misc = 1
+misc.legal = 1
+comp.org.eff.talk = 1
+news.admin.policy = 1
+comp.admin.policy = 1
+sci.math = 1
+comp.os.ms-windows.misc = 1
+comp.sys.amiga.graphics = 1
+comp.graphics.animation = 1
+
+
+================================================================================
+
+CLUSTER 72
+Medoid:
+['comp.sys.amiga.marketplace', 'misc.forsale']
+10nn:
+['comp.sys.amiga.marketplace', 'misc.forsale']
+['sci.med']
+['comp.os.ms-windows.misc']
+['talk.politics.misc']
+['sci.med']
+['comp.sys.mac.hardware']
+['misc.forsale']
+['misc.forsale', 'misc.forsale.computers', 'fido.cforsale']
+['misc.forsale', 'fido.cforsale', 'rec.photo']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+rec.sport.baseball = 19
+misc.forsale = 13
+talk.religion.misc = 11
+alt.atheism = 11
+comp.sys.ibm.pc.hardware = 8
+talk.politics.guns = 8
+talk.politics.misc = 8
+comp.os.ms-windows.misc = 8
+comp.sys.mac.hardware = 7
+talk.abortion = 5
+misc.forsale.computers = 5
+sci.electronics = 5
+sci.med = 4
+alt.conspiracy = 4
+rec.motorcycles = 4
+talk.politics.mideast = 3
+tx.politics = 3
+alt.law-enforcement = 3
+sci.space = 3
+comp.graphics = 2
+alt.folklore.urban = 2
+news.admin.policy = 2
+rec.autos = 2
+misc.legal = 2
+sci.crypt = 2
+rec.sport.baseball.fantasy = 2
+fido.cforsale = 2
+alt.binaries.pictures.utilities = 1
+alt.binaries.pi = 1
+co.general = 1
+alt.slack = 1
+misc.forsale.computers.pc = 1
+sci.materials = 1
+alt.sex = 1
+soc.culture.jewish = 1
+misc.consumers = 1
+rec.photo = 1
+rec.pyrotechnics = 1
+comp.sys.amiga.marketplace = 1
+ba.motorcycles = 1
+nyx.forsale = 1
+co.ads = 1
+comp.os.ms-windows.apps = 1
+misc.wanted = 1
+misc.forsale.wanted = 1
+misc.forsale.computers.mac = 1
+rec.radio.amateur.packet = 1
+comp.sys.ibm.pc.misc = 1
+alt.pagan = 1
+alt.politics.homosexuality = 1
+comp.windows.x = 1
+alt.activism.d = 1
+soc.culture.turkish = 1
+alt.fan.rush-limbaugh = 1
+misc.consumers.house = 1
+
+
+================================================================================
+
+CLUSTER 73
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['sci.electronics']
+['comp.os.ms-windows.misc']
+['comp.windows.x', 'comp.sys.sgi.graphics']
+['sci.electronics']
+['misc.forsale', 'wi.forsale', 'uwisc.forsale', 'uwisc.cae.general']
+['sci.electronics']
+['comp.periphs.printers', 'comp.sys.mac.hardware']
+['misc.forsale', 'wi.forsale', 'uwisc.forsale']
+['sci.electronics']
+
+______ALL______
+
+sci.electronics = 17
+alt.atheism = 12
+talk.religion.misc = 11
+misc.forsale = 9
+comp.sys.mac.hardware = 7
+talk.politics.misc = 5
+comp.robotics = 4
+comp.os.ms-windows.misc = 4
+sci.skeptic = 4
+sci.med = 3
+talk.origins = 3
+comp.sys.ibm.pc.hardware = 3
+comp.windows.x = 3
+wi.forsale = 2
+uwisc.forsale = 2
+sci.space = 2
+sci.astro = 2
+talk.politics.mideast = 2
+comp.sys.sgi.graphics = 2
+uwisc.cae.general = 1
+talk.abortion = 1
+comp.sys.amiga.marketplace = 1
+rec.sport.hockey = 1
+rec.sport.baseball = 1
+comp.periphs.printers = 1
+comp.dcom.modems = 1
+misc.consumers = 1
+misc.legal = 1
+soc.men = 1
+alt.sex = 1
+comp.unix.aix = 1
+alt.aci.planetary = 1
+alt.astrology = 1
+comp.graphics = 1
+
+
+================================================================================
+
+CLUSTER 74
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['rec.sport.hockey']
+['talk.politics.guns']
+['sci.med', 'alt.drugs', 'alt.psychoactives']
+['rec.motorcycles']
+['alt.activism', 'alt.conspiracy', 'talk.politics.misc', 'misc.legal']
+['talk.politics.guns']
+['sci.electronics']
+
+______ALL______
+
+talk.politics.guns = 27
+rec.sport.baseball = 14
+rec.motorcycles = 13
+comp.windows.x = 10
+talk.politics.misc = 10
+sci.med = 9
+rec.autos = 8
+alt.drugs = 7
+alt.conspiracy = 7
+soc.culture.jewish = 5
+sci.electronics = 5
+comp.os.ms-windows.misc = 4
+comp.sys.mac.hardware = 4
+sci.space = 4
+rec.backcountry = 4
+misc.headlines = 4
+rec.sport.hockey = 4
+sci.crypt = 4
+talk.politics.mideast = 4
+comp.sys.ibm.pc.hardware = 3
+talk.religion.misc = 3
+comp.org.eff.talk = 3
+alt.activism = 3
+misc.legal = 3
+rec.autos.tech = 2
+sci.environment = 2
+misc.consumers = 2
+misc.invest = 2
+sci.astro = 2
+talk.environment = 2
+talk.politics.space = 2
+misc.rural = 2
+k12.chat.teacher = 2
+co.general = 2
+misc.forsale = 2
+alt.sex = 2
+comp.windows.x.motif = 2
+comp.windows.x.intrinsics = 2
+alt.security = 2
+comp.security.misc = 2
+comp.org.acm = 2
+comp.org.ieee = 2
+alt.psychoactives = 2
+alt.rush-limbaugh = 2
+alt.politics.usa.constitution = 1
+ba.motorcycles = 1
+soc.culture.pakistan = 1
+soc.culture.indian = 1
+soc.culture.bangladesh = 1
+news.groups = 1
+boulder.general = 1
+cu.cs.grads = 1
+alt.security.pgp = 1
+alt.privacy = 1
+comp.windows.open-look = 1
+sci.materials = 1
+rec.food.cooking = 1
+talk.politics.drugs = 1
+sci.psychology = 1
+news.admin.misc = 1
+soc.culture.arabic = 1
+comp.graphics = 1
+comp.os.ms-windows.apps = 1
+rec.autos.sport = 1
+comp.windows.x.apps = 1
+comp.sys.ibm.pc.misc = 1
+
+
+================================================================================
+
+CLUSTER 75
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['sci.crypt']
+['sci.crypt', 'alt.security.pgp']
+['comp.sys.ibm.pc.hardware']
+['sci.crypt', 'comp.org.eff.talk']
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['sci.crypt']
+['comp.sys.mac.hardware']
+['ca.politics', 'talk.politics.misc']
+['sci.crypt']
+
+______ALL______
+
+sci.crypt = 8
+talk.politics.misc = 6
+comp.graphics = 5
+sci.med = 4
+talk.religion.misc = 4
+misc.forsale = 4
+sci.skeptic = 3
+comp.sys.ibm.pc.hardware = 3
+comp.sys.mac.hardware = 3
+ca.politics = 2
+rec.sport.baseball = 2
+rec.autos = 1
+sci.space = 1
+comp.os.ms-windows.misc = 1
+comp.org.eff.talk = 1
+comp.arch.storage = 1
+alt.security = 1
+comp.org.ieee = 1
+comp.windows.x = 1
+sci.energy = 1
+sci.image.processing = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+alt.alien.visitors = 1
+sci.electronics = 1
+
+
+================================================================================
+
+CLUSTER 76
+Medoid:
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+10nn:
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+['talk.abortion', 'alt.atheism', 'talk.religion.misc']
+
+______ALL______
+
+alt.atheism = 176
+talk.religion.misc = 150
+talk.abortion = 146
+rec.sport.hockey = 2
+comp.sys.ibm.pc.hardware = 1
+comp.windows.x = 1
+comp.windows.x.motif = 1
+talk.politics.misc = 1
+
+
+================================================================================
+
+CLUSTER 77
+Medoid:
+['comp.windows.x']
+10nn:
+['comp.windows.x']
+['comp.sys.ibm.pc.hardware']
+['comp.graphics']
+['comp.windows.x', 'comp.sources.wanted']
+['comp.windows.x']
+['comp.windows.x']
+['comp.windows.x']
+['comp.graphics']
+['rec.autos']
+['comp.sys.ibm.pc.hardware']
+
+______ALL______
+
+comp.windows.x = 24
+sci.crypt = 19
+comp.sys.mac.hardware = 9
+comp.graphics = 8
+comp.sys.ibm.pc.hardware = 7
+comp.os.ms-windows.misc = 7
+comp.org.eff.talk = 4
+sci.space = 4
+alt.atheism = 3
+talk.religion.misc = 3
+talk.origins = 3
+alt.security = 3
+comp.security.misc = 3
+comp.text.tex = 3
+sci.med = 3
+rec.autos = 2
+comp.org.acm = 2
+comp.org.ieee = 2
+comp.unix.aix = 2
+talk.politics.misc = 2
+sci.electronics = 2
+comp.windows.x.motif = 2
+sci.energy = 2
+sci.image.processing = 2
+sci.anthropology = 2
+alt.sci.physics.new-theories = 2
+sci.skeptic = 2
+alt.alien.visitors = 2
+sci.misc = 2
+sci.math = 2
+rec.sport.hockey = 1
+sci.astro = 1
+alt.privacy = 1
+comp.sys.sgi.graphics = 1
+comp.graphics.visualization = 1
+ca.politics = 1
+comp.unix.solaris = 1
+comp.sources.wanted = 1
+comp.windows.x.intrinsics = 1
+comp.windows.open-look = 1
+alt.politics.homosexuality = 1
+alt.privacy.clipper = 1
+alt.security.pgp = 1
+
+
+================================================================================
+
+CLUSTER 78
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.politics.guns']
+['sci.med']
+['rec.autos']
+['sci.med']
+['rec.sport.baseball']
+['comp.graphics']
+['comp.sys.ibm.pc.hardware']
+['talk.politics.mideast']
+['talk.religion.misc', 'talk.religion.newage']
+
+______ALL______
+
+sci.electronics = 149
+sci.med = 147
+comp.graphics = 107
+rec.motorcycles = 102
+rec.autos = 79
+comp.sys.mac.hardware = 76
+comp.sys.ibm.pc.hardware = 75
+comp.windows.x = 73
+alt.atheism = 68
+misc.forsale = 58
+talk.politics.guns = 55
+talk.politics.mideast = 49
+sci.space = 45
+rec.sport.hockey = 41
+rec.sport.baseball = 38
+sci.crypt = 31
+talk.politics.misc = 30
+comp.os.ms-windows.misc = 29
+talk.religion.misc = 22
+rec.food.cooking = 10
+misc.consumers = 8
+sci.environment = 7
+alt.sex = 6
+rec.pets.dogs = 3
+rec.pets = 3
+comp.lsi = 3
+sci.philosophy.meta = 3
+comp.robotics = 3
+soc.motss = 3
+alt.security = 2
+misc.headlines = 2
+rec.motorcycles.harley = 2
+misc.legal = 2
+alt.discrimination = 2
+comp.os.os2 = 1
+rec.arts.sf.science = 1
+soc.culture.iranian = 1
+alt.security.pgp = 1
+austin.forsale = 1
+alt.config = 1
+nwu.general = 1
+chi.forsale = 1
+sci.engr.biomed = 1
+sci.bio.technology = 1
+sci.skeptic = 1
+soc.men = 1
+sci.physics = 1
+tx.politics = 1
+comp.misc = 1
+comp.periphs = 1
+comp.sys.laptops = 1
+comp.dsp = 1
+misc.wanted = 1
+comp.os.ms-windows.setup = 1
+comp.lsi.testing = 1
+rec.radio.amateur.misc = 1
+misc.consumers.house = 1
+comp.org.eff.talk = 1
+alt.flame = 1
+misc.health.alternative = 1
+ucla.rumor = 1
+talk.rape = 1
+rec.autos.tec = 1
+alt.cd-rom = 1
+sci.engr = 1
+sci.engr.mech = 1
+sci.engr.control = 1
+sci.cognitive = 1
+comp.ai.fuzzy = 1
+comp.ai.genetic = 1
+comp.ai.neural-nets = 1
+comp.ai.edu = 1
+comp.ai = 1
+can.ai = 1
+can.general = 1
+ieee.general = 1
+rec.models.rc = 1
+ont.events = 1
+tor.general = 1
+ont.sf-lovers = 1
+rec.scouting = 1
+rec.audio.car = 1
+rec.audio = 1
+alt.civil-liberties = 1
+comp.lang.c++ = 1
+comp.sys.mac = 1
+comp.comression = 1
+
+
+================================================================================
+
+CLUSTER 79
+Medoid:
+['alt.atheism']
+10nn:
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['alt.atheism']
+['sci.skeptic', 'alt.atheism']
+['alt.atheism']
+
+______ALL______
+
+alt.atheism = 39
+talk.religion.misc = 2
+talk.origins = 2
+sci.skeptic = 1
+
+
+================================================================================
+
+CLUSTER 80
+Medoid:
+['sci.space.shuttle', 'sci.space']
+10nn:
+['sci.space.shuttle', 'sci.space']
+['sci.space', 'sci.space.shuttle', 'sci.astro']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space']
+['sci.space', 'sci.space.shuttle', 'sci.astro']
+['sci.astro', 'sci.space', 'sci.space.shuttle']
+['sci.astro', 'sci.space']
+['sci.space', 'sci.space.shuttle', 'sci.astro']
+
+______ALL______
+
+sci.space = 301
+sci.astro = 143
+sci.med = 38
+sci.energy = 36
+sci.skeptic = 35
+sci.anthropology = 34
+sci.image.processing = 33
+sci.space.shuttle = 30
+alt.sci.physics.new-theories = 30
+alt.alien.visitors = 30
+talk.politics.space = 29
+alt.sci.planetary = 23
+sci.environment = 21
+talk.environment = 21
+misc.consumers = 20
+rec.backcountry = 20
+misc.invest = 19
+misc.rural = 19
+misc.headlines = 19
+k12.chat.teacher = 18
+news.answers = 14
+sci.answers = 13
+sci.physics = 10
+sci.geo.geology = 7
+talk.politics.misc = 6
+sci.bio = 6
+sci.misc = 5
+sci.geo.meteorology = 5
+alt.aci.planetary = 4
+alt.astrology = 4
+sci.research = 4
+misc.education = 4
+sci.bio.technology = 3
+sci.engr.biomed = 3
+talk.politics.libertarian = 3
+sci.math = 2
+sci.edu = 2
+sci.electronics = 2
+misc.legal = 2
+sci.chem = 1
+sci.chem.organomet = 1
+sci.cryonics = 1
+sci.crypt = 1
+sci.engr.chem = 1
+alt.history.what-if = 1
+sci.med.nutrition = 1
+rec.arts.books = 1
+rec.arts.sf.written = 1
+rec.arts.sf.marketplace = 1
+rec.models.rockets = 1
+rec.aviation.misc = 1
+misc.health.alternative = 1
+sci.optics = 1
+talk.politics/space = 1
+alt.atheism = 1
+eunet.misc = 1
+eunet.newprod = 1
+rec.arts.sf.science = 1
+sci.materials = 1
+
+
+================================================================================
+
+CLUSTER 81
+Medoid:
+['comp.sys.mac.hardware']
+10nn:
+['comp.sys.mac.hardware']
+['comp.windows.x']
+['talk.politics.mideast']
+['comp.graphics']
+['sci.electronics']
+['sci.electronics']
+['comp.windows.x']
+['sci.electronics']
+['comp.windows.x']
+['sci.misc', 'sci.math', 'sci.space']
+
+______ALL______
+
+comp.sys.mac.hardware = 22
+comp.sys.ibm.pc.hardware = 15
+comp.windows.x = 15
+rec.sport.hockey = 15
+comp.graphics = 13
+rec.autos = 7
+sci.electronics = 7
+comp.os.ms-windows.misc = 7
+sci.med = 6
+sci.space = 5
+talk.religion.misc = 3
+comp.windows.open-look = 3
+talk.politics.mideast = 3
+rec.motorcycles = 2
+comp.os.msdos.programmer = 2
+alt.msdos.programmer = 2
+sci.astro = 2
+alt.sci.planetary = 2
+comp.sys.mac.games = 2
+comp.sys.mac.system = 2
+rec.arts.books = 1
+alt.folklore.computers = 1
+rec.arts.sf.written = 1
+misc.books.technical = 1
+comp.unix.questions = 1
+comp.programming = 1
+comp.edu = 1
+sci.edu = 1
+rec.arts.sf.science = 1
+sci.philosophy.meta = 1
+sci.psychology = 1
+comp.sys.mac.programmer = 1
+comp.graphics.animation = 1
+rec.gardens = 1
+alt.magick = 1
+alt.pagan = 1
+comp.multimedia = 1
+sci.misc = 1
+sci.math = 1
+soc.culture.turkish = 1
+talk.politics.soviet = 1
+soc.culture.greek = 1
+comp.sys.sun.apps = 1
+comp.os.aix = 1
+comp.windows.x.intrinsics = 1
+comp.windows.x.motif = 1
+comp.sys.atari.st = 1
+
+
+================================================================================
+
+CLUSTER 82
+Medoid:
+['sci.med']
+10nn:
+['sci.med']
+['comp.graphics']
+['talk.politics.mideast']
+['rec.sport.baseball']
+['rec.sport.baseball']
+['alt.conspiracy', 'talk.politics.misc', 'talk.politics.guns']
+['rec.sport.baseball']
+['comp.graphics']
+['rec.motorcycles']
+['alt.activism', 'talk.politics.misc']
+
+______ALL______
+
+talk.politics.misc = 8
+alt.conspiracy = 8
+rec.sport.baseball = 7
+comp.graphics = 7
+misc.forsale = 5
+sci.med = 5
+comp.sys.ibm.pc.hardware = 4
+sci.electronics = 4
+talk.politics.guns = 4
+comp.sys.mac.hardware = 4
+rec.motorcycles = 3
+rec.sport.hockey = 3
+talk.religion.misc = 3
+comp.os.ms-windows.misc = 3
+ucsd.buy+sell = 2
+sdnet.forsale = 2
+sci.space = 2
+talk.politics.mideast = 2
+sci.environment = 2
+misc.consumers = 2
+alt.rave = 2
+rec.music.funky = 2
+rec.games.video = 1
+misc.forsale.computers = 1
+misc.forsale.computers.pc-clone = 1
+alt.activism = 1
+soc.history = 1
+rec.autos = 1
+rec.music.makers = 1
+rec.music.makers.synth = 1
+rec.music.synth = 1
+comp.music = 1
+comp.sys.mac.misc = 1
+misc.wanted = 1
+misc.forsale.wanted = 1
+sdnet.wanted = 1
+ca.wanted = 1
+sci.energy = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+sci.skeptic = 1
+alt.alien.visitors = 1
+misc.invest = 1
+sci.astro = 1
+talk.environment = 1
+talk.politics.space = 1
+rec.backcountry = 1
+misc.rural = 1
+misc.headlines = 1
+k12.chat.teacher = 1
+rec.food.cooking = 1
+comp.periphs.printers = 1
+
+
+================================================================================
+
+CLUSTER 83
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['misc.forsale']
+['rec.sport.hockey']
+['comp.graphics']
+['misc.forsale', 'osu.for-sale']
+['misc.forsale']
+['rec.autos']
+['sci.med']
+['rec.sport.baseball']
+['comp.graphics']
+
+______ALL______
+
+misc.forsale = 28
+rec.autos = 24
+talk.politics.misc = 19
+comp.sys.mac.hardware = 10
+sci.crypt = 9
+rec.autos.tech = 8
+misc.forsale.computers.other = 6
+alt.fan.rush-limbaugh = 6
+rec.sport.baseball = 6
+ca.politics = 5
+talk.politics.guns = 5
+rec.sport.hockey = 4
+sci.med = 4
+rec.motorcycles = 4
+sci.electronics = 4
+rec.autos.vw = 4
+soc.culture.canada = 4
+osu.for-sale = 3
+comp.sys.ibm.pc.hardware = 3
+soc.culture.usa = 3
+alt.rush-limbaugh = 3
+can.politics = 3
+talk.religion.misc = 2
+comp.os.ms-windows.misc = 2
+sci.skeptic = 2
+comp.graphics = 2
+misc.wanted = 2
+alt.president.clinton = 2
+alt.society.civil-liberty = 2
+alt.security = 1
+misc.headlines = 1
+soc.culture.african.american = 1
+alt.privacy = 1
+comp.org.eff.talk = 1
+ba.politics = 1
+alt.sex = 1
+soc.men = 1
+misc.leg = 1
+comp.windows.x = 1
+rec.motorcycles.harley = 1
+soc.culture.iranian = 1
+talk.politics.mideast = 1
+alt.politics.clinton = 1
+soc.motss = 1
+alt.discrimination = 1
+misc.forsale.computers.pc = 1
+sci.energy = 1
+sci.image.processing = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+alt.alien.visitors = 1
+ba.motorcycles = 1
+misc.forsale.computers.pc-clone = 1
+comp.sys.hardware.ibmpc = 1
+alt.security.pgp = 1
+comp.sys.amiga.marketplace = 1
+mh.forsale = 1
+
+
+================================================================================
+
+CLUSTER 84
+Medoid:
+['comp.graphics']
+10nn:
+['comp.graphics']
+['sci.crypt']
+['comp.graphics']
+['rec.sport.hockey']
+['comp.sys.ibm.pc.hardware']
+['sci.space']
+['misc.forsale']
+['rec.sport.baseball']
+['misc.forsale']
+['sci.electronics']
+
+______ALL______
+
+comp.graphics = 11
+misc.forsale = 8
+rec.sport.baseball = 6
+misc.headlines = 5
+talk.politics.misc = 5
+alt.conspiracy = 5
+alt.censorship = 5
+comp.sys.mac.hardware = 5
+talk.politics.mideast = 4
+rec.sport.hockey = 4
+sci.space = 4
+rec.autos = 3
+alt.politics.media = 3
+comp.sys.ibm.pc.hardware = 3
+rec.audio = 3
+sci.crypt = 2
+comp.os.ms-windows.misc = 2
+rec.autos.tech = 1
+comp.unix.misc = 1
+comp.os.os2.advocacy = 1
+comp.security.misc = 1
+comp.sys.mac.comm = 1
+sci.electronics = 1
+
+
+================================================================================
+
+CLUSTER 85
+Medoid:
+['talk.politics.mideast', 'soc.culture.greek', 'soc.history', 'soc.culture.turkish', 'soc.culture.iranian']
+10nn:
+['talk.politics.mideast', 'soc.culture.greek', 'soc.history', 'soc.culture.turkish', 'soc.culture.iranian']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish', 'soc.rights.human']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.history', 'soc.culture.turkish', 'soc.rights.human']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.turkish', 'soc.rights.human', 'soc.culture.greek']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.culture.europe', 'soc.history', 'soc.culture.soviet']
+['soc.culture.turkish', 'talk.politics.mideast', 'talk.politics.soviet', 'soc.culture.greek', 'soc.rights.human', 'soc.history', 'soc.culture.europe']
+['talk.politics.mideast', 'soc.culture.greek', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish']
+['talk.politics.mideast', 'soc.culture.greek', 'soc.culture.europe', 'soc.history', 'soc.culture.soviet', 'soc.culture.turkish']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.history', 'soc.culture.turkish', 'soc.culture.soviet']
+['talk.politics.mideast', 'talk.politics.soviet', 'soc.history', 'soc.culture.turkish', 'soc.culture.iranian']
+
+______ALL______
+
+talk.politics.mideast = 194
+soc.culture.turkish = 179
+talk.politics.soviet = 124
+soc.culture.greek = 100
+soc.history = 92
+soc.culture.soviet = 66
+soc.rights.human = 56
+soc.culture.europe = 39
+soc.culture.iranian = 32
+soc.culture.jewish = 21
+soc.culture.yugoslavia = 16
+talk.politics.misc = 11
+soc.culture.bosna-herzgvna = 11
+misc.headlines = 5
+alt.censorship = 4
+alt.conspiracy = 4
+alt.news-media = 4
+alt.activism = 4
+alt.activism.d = 4
+soc.culture.arabic = 4
+soc.culture.pakistan = 4
+soc.culture.croatia = 3
+alt.folklore.urban = 3
+soc.culture.baltics = 3
+soc.culture.bulgaria = 2
+soc.culture.greece = 2
+soc.college = 1
+alt.politics.correct = 1
+soc.culture.cis = 1
+talk.politics.cis = 1
+soc.culture.indian = 1
+soc.culture.usa = 1
+soc/culture.iranian = 1
+alt.revisionism = 1
+
+
+================================================================================
+
+CLUSTER 86
+Medoid:
+['misc.forsale']
+10nn:
+['misc.forsale']
+['misc.forsale']
+['rec.motorcycles']
+['comp.sys.mac.hardware']
+['sci.med']
+['rec.motorcycles']
+['rec.sport.hockey']
+['comp.sys.mac.hardware']
+['sci.space']
+['comp.windows.x']
+
+______ALL______
+
+rec.sport.hockey = 37
+alt.atheism = 17
+comp.windows.x = 15
+misc.forsale = 14
+rec.autos = 12
+comp.sys.mac.hardware = 10
+talk.religion.misc = 8
+rec.motorcycles = 7
+sci.med = 6
+sci.electronics = 5
+talk.politics.guns = 4
+cmu.misc.market = 4
+talk.origins = 4
+comp.sys.ibm.pc.hardware = 4
+rec.sport.baseball = 4
+comp.windows.open-look = 3
+talk.abortion = 3
+sci.crypt = 3
+sci.space = 2
+rec.audio = 2
+misc.forsale.computers = 2
+alt.privacy.clipper = 2
+alt.security.pgp = 2
+rec.sport.baseball.fantasy = 1
+alt.fan.david-sternlight = 1
+cmu.cs.general = 1
+comp.org.eff.talk = 1
+comp.windows.x.intrinsics = 1
+comp.windows.x.i386unix = 1
+comp.graphics = 1
+
+
+================================================================================
+
+CLUSTER 87
+Medoid:
+['rec.sport.hockey']
+10nn:
+['rec.sport.hockey']
+['rec.sport.hockey']
+['rec.sport.baseball']
+['rec.sport.hockey']
+['comp.os.ms-windows.misc']
+['rec.sport.baseball']
+['rec.sport.hockey']
+['comp.sys.mac.hardware']
+['rec.motorcycles']
+['rec.motorcycles']
+
+______ALL______
+
+rec.sport.hockey = 28
+rec.sport.baseball = 17
+comp.sys.ibm.pc.hardware = 11
+misc.forsale = 6
+comp.sys.mac.hardware = 6
+sci.electronics = 5
+comp.windows.x = 5
+comp.sys.ibm.pc.misc = 4
+comp.os.ms-windows.misc = 4
+rec.motorcycles = 4
+sci.crypt = 3
+comp.os.ms-windows.setup = 1
+rec.autos = 1
+pa.forsale = 1
+phl.forsale = 1
+alt.conspiracy = 1
+alt.activism = 1
+pa.general = 1
+phl.misc = 1
+talk.politics.misc = 1
+rec.radio.swap = 1
+sci.med = 1
+comp.windows.x.apps = 1
+
+
+================================================================================
+
+CLUSTER 88
+Medoid:
+['sci.space']
+10nn:
+['sci.space']
+['sci.med']
+['comp.windows.x']
+['comp.windows.x']
+['sci.space']
+['comp.windows.x']
+['sci.space']
+['talk.politics.guns']
+['sci.space']
+['comp.sys.mac.hardware']
+
+______ALL______
+
+sci.space = 97
+sci.astro = 35
+comp.windows.x = 31
+sci.electronics = 31
+talk.politics.misc = 20
+alt.sci.planetary = 20
+sci.med = 20
+comp.sys.ibm.pc.hardware = 17
+rec.motorcycles = 14
+comp.graphics = 13
+rec.autos = 12
+comp.sys.mac.hardware = 10
+rec.sport.hockey = 8
+rec.food.cooking = 7
+alt.atheism = 6
+sci.crypt = 6
+alt.conspiracy = 6
+alt.activism = 6
+talk.politics.guns = 5
+comp.org.eff.talk = 5
+sci.space.shuttle = 5
+rec.sport.baseball = 5
+ca.politics = 5
+misc.forsale = 5
+talk.religion.misc = 4
+talk.origins = 4
+pa.general = 4
+alt.law-enforcement = 3
+comp.windows.x.motif = 3
+rec.audio = 3
+misc.consumers.house = 3
+comp.os.ms-windows.misc = 3
+phl.misc = 3
+alt.privacy = 2
+alt.security = 2
+comp.security.misc = 2
+rec.audio.car = 2
+talk.politics.space = 2
+sci.materials = 2
+sci.geo.meteorology = 2
+comp.sys.mac.misc = 2
+rec.music.marketplace = 2
+osu.for-sale = 2
+misc.wanted = 2
+comp.music = 2
+rec.music.makers.synth = 2
+alt.fan.rush-limbaugh = 1
+alt.president.clinton = 1
+rec.sport.baseball.fantasy = 1
+comp.realtime = 1
+rec.radio.amateur.misc = 1
+rec.radio.amateur.packet = 1
+comp.sys.mac.programmer = 1
+sci.misc = 1
+sci.math = 1
+comp.sys.sgi = 1
+comp.windows.x.apps = 1
+sci.answers = 1
+news.answers = 1
+comp.sys.ibm.pc.misc = 1
+sci.image.processing = 1
+misc.consumers = 1
+sci.environment = 1
+sci.edu = 1
+sci.energy = 1
+alt.politics.homosexuality = 1
+comp.unix.pc-clone.32bit = 1
+rec.arts.sf.science = 1
+rec.video = 1
+rec.radio.swap = 1
+rec.autos.sport = 1
+sci.physics = 1
+ba.politics = 1
+ba.motorcycles = 1
+comp.sys.mac.system = 1
+comp.unix.aux = 1
+comp.graphics.animation = 1
+comp.windows.x.intrinsics = 1
+misc.forsale.computers = 1
+comp.sys.hp = 1
+alt.binaries.pictures.supermodels = 1
+alt.graphics.pixutils = 1
+alt.binaries.pictures.erotica.d = 1
+alt.binaries.pictures.d = 1
+
+
+================================================================================
+
+CLUSTER 89
+Medoid:
+['sci.med']
+10nn:
+['sci.med']
+['sci.electronics']
+['sci.med']
+['comp.windows.x']
+['comp.graphics']
+['comp.graphics']
+['sci.electronics']
+['comp.windows.x']
+['sci.electronics']
+['comp.os.ms-windows.misc']
+
+______ALL______
+
+comp.graphics = 14
+sci.electronics = 10
+comp.windows.x = 9
+comp.sys.ibm.pc.hardware = 7
+sci.crypt = 4
+rec.autos = 4
+comp.os.ms-windows.misc = 4
+rec.motorcycles = 3
+comp.sys.amiga.graphics = 3
+comp.graphics.animation = 3
+sci.med = 3
+alt.politics.clinton = 3
+alt.president.clinton = 3
+talk.politics.mideast = 3
+alt.security.clipper = 1
+comp.unix.programmers = 1
+biz.sco.general = 1
+biz.sco.opendesktop = 1
+rec.autos.tech = 1
+alt.autos.antique = 1
+rec.autos.antique = 1
+sci.space = 1
+rec.sport.baseball = 1
+comp.os.os2.misc = 1
+comp.sys.mac.hardware = 1
+
+
+================================================================================
+
+CLUSTER 90
+Medoid:
+['sci.med']
+10nn:
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+['sci.med']
+
+______ALL______
+
+sci.med = 116
+rec.sport.hockey = 21
+rec.sport.baseball = 17
+talk.religion.misc = 11
+talk.politics.guns = 5
+comp.graphics = 5
+sci.electronics = 4
+talk.politics.medicine = 3
+rec.food.cooking = 3
+alt.atheism = 2
+comp.sys.mac.hardware = 2
+misc.forsale = 2
+soc.culture.jewish = 2
+talk.politics.misc = 2
+comp.multimedia = 1
+misc.consumers = 1
+sci.environment = 1
+misc.health.alternative = 1
+sci.space = 1
+misc.fitness = 1
+
+
+================================================================================
+
+CLUSTER 91
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.religion.misc', 'talk.religion.newage']
+['comp.sys.ibm.pc.hardware']
+['comp.windows.x']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['comp.os.ms-windows.misc']
+['comp.os.ms-windows.misc']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['comp.sys.ibm.pc.hardware']
+['talk.politics.guns']
+
+______ALL______
+
+comp.sys.ibm.pc.hardware = 95
+comp.os.ms-windows.misc = 48
+comp.graphics = 34
+comp.sys.mac.hardware = 24
+misc.forsale = 3
+comp.sys.ibm.pc.misc = 3
+sci.electronics = 3
+comp.os.ms-windows.setup = 3
+comp.windows.x = 3
+comp.dcom.lans.ethernet = 2
+comp.graphics.animation = 2
+comp.multimedia = 2
+comp.sys.atari.st = 2
+comp.windows.x.i386unix = 2
+comp.unix.pc-clone.32bit = 2
+comp.unix.bsd = 2
+comp.answers = 2
+news.answers = 2
+comp.os.os2.misc = 1
+alt.cd-rom = 1
+comp.periphs.scsi = 1
+comp.binaries.ibm.pc.wanted = 1
+comp.archives.msdos.d = 1
+rec.video.production = 1
+rec.video = 1
+comp.sys.mac.wanted = 1
+comp.sys.mac.programmer = 1
+comp.edu = 1
+comp.edu.composition = 1
+comp.graphics.visualization = 1
+comp.human-factors = 1
+comp.lang.c = 1
+comp.lang.c++ = 1
+comp.lang.misc = 1
+comp.os.386bsd.development = 1
+comp.os.386bsd.misc = 1
+comp.os.ms-windows.advocacy = 1
+comp.dcom.lans = 1
+comp.os.386bsd.questions = 1
+alt.folklore.computers = 1
+comp.sys.ibm.pc = 1
+sci.crypt = 1
+
+
+================================================================================
+
+CLUSTER 92
+Medoid:
+['talk.politics.guns']
+10nn:
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['talk.politics.guns']
+['misc.legal', 'talk.politics.guns', 'alt.law-enforcement']
+['talk.politics.guns']
+['talk.politics.guns']
+
+______ALL______
+
+talk.politics.guns = 82
+sci.crypt = 18
+soc.culture.usa = 14
+comp.org.eff.talk = 10
+talk.politics.misc = 10
+alt.rush-limbaugh = 10
+talk.religion.misc = 8
+alt.privacy.clipper = 7
+alt.politics.usa.constitution = 6
+soc.culture.jewish = 6
+misc.forsale = 5
+alt.conspiracy = 5
+misc.legal = 4
+rec.sport.baseball = 4
+alt.politics.libertarian = 4
+rec.audio = 3
+ne.forsale = 3
+rec.autos = 3
+rec.audio.car = 2
+sci.electronics = 2
+alt.law-enforcement = 2
+alt.atheism = 2
+ny.forsale = 2
+ba.forsale = 2
+sci.med = 2
+soc.motss = 1
+rec.scouting = 1
+rec.mag = 1
+rec.arts.comics.marketplace = 1
+rec.arts.sf.marketplace = 1
+alt.politics.usa.misc = 1
+alt.activism.d = 1
+comp.graphics = 1
+misc.legal.computing = 1
+alt.privacy = 1
+alt.security = 1
+comp.security.misc = 1
+tx.politics = 1
+alt.activism = 1
+justice.usa = 1
+sci.energy = 1
+sci.image.processing = 1
+sci.anthropology = 1
+alt.sci.physics.new-theories = 1
+sci.skeptic = 1
+alt.alien.visitors = 1
+sci.space = 1
+rec.music.marketplace = 1
+
+
+================================================================================
+
+CLUSTER 93
+Medoid:
+['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+10nn:
+['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+['talk.abortion', 'talk.politics.misc', 'talk.religion.misc']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+['talk.politics.misc', 'talk.religion.misc', 'talk.abortion']
+['talk.politics.misc', 'talk.religion.misc', 'talk.abortion']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+['talk.abortion', 'talk.religion.misc', 'talk.politics.misc']
+
+______ALL______
+
+talk.abortion = 95
+talk.politics.misc = 93
+talk.religion.misc = 91
+alt.feminism = 3
+
+
+================================================================================
+
+CLUSTER 94
+Medoid:
+['rec.motorcycles']
+10nn:
+['rec.motorcycles']
+['comp.graphics']
+['rec.autos']
+['rec.motorcycles']
+['alt.atheism']
+['sci.electronics']
+['rec.motorcycles']
+['rec.autos']
+['comp.graphics']
+['rec.motorcycles']
+
+______ALL______
+
+rec.motorcycles = 17
+rec.autos = 9
+talk.politics.misc = 9
+alt.atheism = 8
+talk.religion.misc = 6
+comp.sys.ibm.pc.hardware = 4
+talk.origins = 4
+sci.electronics = 4
+comp.graphics = 3
+misc.invest = 3
+sci.med = 3
+comp.windows.x = 3
+rec.autos.tech = 2
+sci.econ = 2
+comp.os.ms-windows.misc = 2
+ca.politics = 2
+pdx.forsale = 1
+tek.forsale = 1
+or.forsale = 1
+pnw.forsale = 1
+misc.forsale = 1
+misc.invest.real-estate = 1
+misc.consumers.house = 1
+comp.sys.ibm.pc.games = 1
+alt.sex = 1
+soc.men = 1
+soc.motss = 1
+alt.flame = 1
+comp.os.ms-windows.programmer.win32 = 1
+rec.radio.amateur.misc = 1
+rec.radio.amateur.packet = 1
+comp.sys.mac.hardware = 1
+sci.space = 1
+sci.astro = 1
+rec.sport.baseball = 1
+talk.abortion = 1
+
+
+================================================================================
+
+CLUSTER 95
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['talk.religion.misc', 'talk.religion.newage']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['comp.windows.x']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['talk.politics.mideast']
+['sci.crypt', 'alt.privacy', 'alt.answers', 'sci.answers', 'news.answers']
+['rec.motorcycles']
+['talk.politics.guns']
+['sci.space']
+
+______ALL______
+
+sci.med = 230
+sci.electronics = 128
+talk.politics.misc = 111
+alt.atheism = 97
+comp.windows.x = 77
+sci.space = 76
+rec.motorcycles = 76
+comp.sys.ibm.pc.hardware = 72
+comp.graphics = 66
+sci.crypt = 65
+talk.religion.misc = 61
+talk.politics.mideast = 53
+comp.sys.mac.hardware = 49
+rec.autos = 34
+talk.politics.guns = 27
+comp.os.ms-windows.misc = 24
+rec.sport.baseball = 18
+rec.food.cooking = 18
+misc.legal = 17
+misc.consumers = 17
+soc.culture.turkish = 16
+misc.forsale = 15
+talk.politics.soviet = 14
+sci.philosophy.meta = 14
+sci.environment = 14
+soc.rights.human = 13
+soc.religion.christian = 11
+alt.conspiracy = 10
+rec.sport.hockey = 10
+alt.activism = 9
+alt.sex = 9
+alt.activism.d = 8
+talk.politics.medicine = 8
+soc.culture.arabic = 8
+sci.astro = 7
+alt.pagan = 7
+rec.audio = 7
+misc.headlines = 7
+ca.politics = 6
+sci.answers = 6
+news.answers = 6
+sci.med.nutrition = 6
+soc.culture.iranian = 6
+rec.motorcycles.harley = 5
+rec.audio.car = 5
+comp.ai = 5
+sci.econ = 5
+misc.kids = 5
+misc.health.alternative = 5
+alt.sources = 5
+misc.misc = 5
+sci.bio = 4
+alt.magick = 4
+soc.culture.soviet = 4
+comp.lang.c = 4
+comp.sources.d = 4
+comp.unix.wizards = 4
+sci.engr.biomed = 3
+sci.skeptic = 3
+alt.fan.rush-limbaugh = 3
+alt.internet.services = 3
+alt.unix.wizards = 3
+soc.culture.canada = 3
+news.announce.newgroups = 3
+news.groups = 3
+soc.men = 3
+ba.motorcycles = 3
+soc.culture.jewish = 3
+comp.org.eff.talk = 3
+comp.robotics = 3
+talk.origins = 3
+soc.culture.greek = 3
+misc.consumers.house = 3
+sci.math = 3
+rec.radio.amateur.misc = 3
+soc.bi = 3
+soc.culture.usa = 3
+alt.privacy = 3
+bionet.general = 2
+bionet.neuroscience = 2
+pa.general = 2
+phl.misc = 2
+sci.physics = 2
+alt.security = 2
+alt.politics.usa.constitution = 2
+soc.culture.pakistan = 2
+talk.abortion = 2
+rec.motorcycles.dirt = 2
+can.general = 2
+sci.med.occupational = 2
+comp.human-factors = 2
+comp.answers = 2
+sci.research = 2
+alt.society.sovereign = 2
+nyc.general = 2
+comp.multimedia = 2
+alt.messianic = 2
+alt.mythology = 2
+alt.psychology.personality = 2
+comp.lsi = 2
+talk.politics.drugs = 2
+comp.programming = 2
+rec.ham-radio = 2
+rec.nude = 2
+rec.radio.cb = 2
+rec.radio.shortwave = 2
+sci.aeronautic = 2
+sci.aeronautics = 2
+sci.misc = 2
+sci.psychology = 2
+talk.philosophy.misc = 2
+soc.culture.indian = 2
+soc.culture.bangladesh = 2
+soc.motss = 2
+sci.engr.mech = 2
+comp.ai.genetic = 2
+comp.ai.neural-nets = 2
+alt.society.civil-liberty = 2
+alt.answers = 2
+soc.history = 2
+rec.scouting = 2
+ = 2
+talk.religion.newage = 2
+alt.aci.planetary = 1
+alt.astrology = 1
+alt.privacy.clipper = 1
+ut.general = 1
+soc.women = 1
+comp.graphics.animation = 1
+comp.sys.intel = 1
+soc.college.grad = 1
+sci.chem = 1
+alt.revisionism = 1
+alt.censorship.soc.history = 1
+alt.flame = 1
+biz.sco.opendesktop = 1
+biz.sco.general = 1
+comp.unix.xenix.sco = 1
+comp.unix.pc-clone.32bit = 1
+comp.windows.x.motif = 1
+alt.security.pgp = 1
+talk.politics.space = 1
+talk.politics.libertarian = 1
+misc.education = 1
+comp.arch.storage = 1
+comp.sys.super = 1
+rec.video.satellite = 1
+soc.veterans = 1
+alt.military.cadet = 1
+comp.sys.sun.admin = 1
+alt.current_events.bosnia = 1
+alt.sex.stories = 1
+alt.history.what-if = 1
+tx.politics = 1
+ba.market.computers = 1
+ba.market.misc = 1
+ba.forsale = 1
+alt.politics.libertarian = 1
+rec.music.marketplace = 1
+soc.religion.islam = 1
+soc.culture.asean = 1
+comp.windows.open-look = 1
+comp.unix.solaris = 1
+rec.puzzles = 1
+alt.discrimination = 1
+chi.general = 1
+sci.engr = 1
+sci.engr.control = 1
+sci.cognitive = 1
+comp.ai.fuzzy = 1
+comp.ai.edu = 1
+can.ai = 1
+ieee.general = 1
+rec.models.rc = 1
+ont.events = 1
+tor.general = 1
+ont.sf-lovers = 1
+alt.binaries.pictures.utilities = 1
+alt.binaries.pictures.d = 1
+alt.binaries.pictures.erotica.d = 1
+rec.motorcycles.racing = 1
+sci.med.telemedicine = 1
+comp.unix.osf.osf1 = 1
+comp.unix.ultrix = 1
+alt.stagecraft = 1
+sci.optics = 1
+la.general = 1
+ca.general = 1
+alt.cad = 1
+sci.engr.civil = 1
+talk.politics.med = 1
+talk.environment = 1
+soc.culture.african.american = 1
+alt.censorship = 1
+alt.sci.planetary = 1
+ba.politics = 1
+alt.politics.clinton = 1
+biz.misc = 1
+sci.comp-aided = 1
+alt.cad.autocad = 1
+bit.listserv.lawsch-l = 1
+rec.radio.amateur.packet = 1
+comp.lang.perl = 1
+alt.journalism = 1
+comp.infosystems.gis = 1
+comp.sys.atari.st.tech = 1
+news.admin.policy = 1
+comp.admin.policy = 1
+comp.mail.mime = 1
+misc.fitness = 1
+comp.os.msdos.programmer = 1
+uiuc.sys.ibm-pc = 1
+eunet.politics = 1
+soc.culture.europe = 1
+talk.politics.theory = 1
+
+
+================================================================================
+
+CLUSTER 96
+Medoid:
+['talk.politics.mideast']
+10nn:
+['talk.politics.mideast']
+['talk.politics.mideast']
+['soc.culture.arabic', 'talk.politics.mideast', 'soc.culture.jewish']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast']
+['talk.politics.mideast', 'soc.culture.arabic']
+['rec.sport.hockey']
+
+______ALL______
+
+talk.politics.mideast = 38
+talk.religion.misc = 10
+alt.atheism = 8
+talk.origins = 8
+soc.culture.jewish = 7
+comp.sys.mac.hardware = 7
+soc.culture.arabic = 5
+comp.graphics = 5
+misc.forsale = 4
+rec.autos = 3
+sci.space = 3
+talk.politics.guns = 2
+comp.sys.mac.misc = 2
+comp.os.ms-windows.misc = 2
+comp.os.msdos.misc = 2
+talk.politics.misc = 1
+comp.sys.mac.apps = 1
+comp.sys.mac.system = 1
+rec.sport.hockey = 1
+sci.med = 1
+comp.sys.mac.programmer = 1
+comp.graphics.animation = 1
+comp.multimedia = 1
+alt.folklore.urban = 1
+alt.activism.d = 1
+news.admin.policy = 1
+soc.culture.turkish = 1
+
+
+================================================================================
+
+CLUSTER 97
+Medoid:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+10nn:
+['soc.veterans', 'alt.military.cadet', 'talk.politics.misc', 'misc.headlines']
+['rec.motorcycles']
+['rec.motorcycles']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['talk.religion.misc', 'talk.religion.newage']
+['phl.forsale', 'nj.forsale', 'misc.forsale']
+['rec.autos']
+['comp.windows.x']
+['eunet.politics', 'soc.culture.europe', 'talk.politics.theory', 'talk.politics.misc']
+['sci.space']
+
+______ALL______
+
+rec.motorcycles = 164
+sci.med = 92
+sci.electronics = 75
+rec.autos = 67
+comp.sys.ibm.pc.hardware = 60
+comp.windows.x = 53
+alt.atheism = 45
+sci.crypt = 45
+sci.space = 39
+talk.politics.guns = 38
+rec.sport.baseball = 38
+comp.graphics = 32
+misc.forsale = 27
+rec.sport.hockey = 20
+rec.food.cooking = 15
+talk.politics.misc = 15
+comp.sys.mac.hardware = 13
+talk.religion.misc = 13
+talk.politics.mideast = 12
+comp.os.ms-windows.misc = 10
+misc.consumers = 9
+ba.motorcycles = 9
+sci.environment = 7
+rec.motorcycles.harley = 6
+ca.politics = 6
+sci.philosophy.meta = 5
+comp.sys.3b1 = 3
+ba.market.computers = 3
+rec.autos.tech = 3
+comp.unix.solaris = 3
+comp.org.eff.talk = 3
+nyc.general = 3
+comp.lang.c++ = 3
+misc.health.alternative = 2
+ba.market.vehicles = 2
+rec.audio = 2
+alt.psychoactives = 2
+ba.market.misc = 2
+sci.med.nutrition = 2
+rec.motorcycles.racing = 2
+rec.radio.amateur.packet = 2
+alt.conspiracy = 2
+tx.politics = 1
+sci.materials = 1
+rec.scouting = 1
+talk.politics.theory = 1
+rec.audio.car = 1
+alt.drugs = 1
+sci.psychology = 1
+alt.parents-teens = 1
+comp.unix.aix = 1
+comp.sys.sgi.misc = 1
+alt.sex = 1
+ca.forsale = 1
+news.announce.newgroups = 1
+news.groups = 1
+sci.bio = 1
+bionet.molbio.ageing = 1
+sci.cryonics = 1
+sci.nanotech = 1
+alt.cyberpunk = 1
+misc.consumers.house = 1
+rec.video = 1
+ba.market = 1
+rec.travel = 1
+rec.travel.air = 1
+alt.privacy = 1
+rec.ham-radio.swap = 1
+comp.periphs = 1
+misc.forsale.wanted = 1
+misc.test = 1
+alt.flame = 1
+triangle.forsale = 1
+tx.motorcycles = 1
+comp.multimedia = 1
+comp.mail.mh = 1
+comp.unix.sysv386 = 1
+ne.forsale = 1
+sci.astro = 1
+alt.security = 1
+alt.magick = 1
+alt.pagan = 1
+rec.motorcycles.dirt = 1
+comp.dcom.lans = 1
+alt.security.pgp = 1
+alt.privacy.clipper = 1
+alt.fan.david-sternlight = 1
+alt.stagecraft = 1
+sci.optics = 1
+comp.sys.ibm.pc.misc = 1
+rec.radio.amateur.misc = 1
+misc.invest = 1
+
+
+================================================================================
+
+CLUSTER 98
+Medoid:
+['rec.autos']
+10nn:
+['rec.autos']
+['comp.sys.ibm.pc.hardware']
+['rec.motorcycles']
+['rec.motorcycles']
+['comp.windows.x', 'comp.os.ms-windows.misc']
+['comp.windows.x', 'comp.os.ms-windows.misc']
+['talk.politics.guns']
+['comp.os.os2.misc', 'comp.sys.ibm.pc.hardware']
+['comp.sys.ibm.pc.misc', 'comp.os.ms-windows.misc']
+['rec.sport.baseball']
+
+______ALL______
+
+comp.sys.ibm.pc.hardware = 24
+rec.sport.baseball = 22
+comp.graphics = 14
+sci.electronics = 11
+rec.autos = 11
+rec.motorcycles = 11
+sci.space = 10
+talk.abortion = 10
+talk.politics.misc = 10
+comp.sys.mac.hardware = 10
+comp.os.ms-windows.misc = 9
+talk.religion.misc = 9
+sci.med = 7
+alt.atheism = 6
+comp.windows.x = 5
+sci.crypt = 4
+comp.multimedia = 3
+sci.astro = 3
+alt.fan.bill-gates = 3
+comp.os.ms-windows.advocacy = 3
+talk.politics.guns = 3
+rec.autos.tech = 2
+misc.forsale = 2
+comp.sys.amiga.graphics = 2
+comp.graphics.animation = 2
+alt.security.pgp = 2
+alt.privacy.clipper = 2
+comp.os.os2.misc = 2
+comp.os.386bsd.questions = 1
+comp.periphs = 1
+alt.autos.antique = 1
+rec.autos.antique = 1
+comp.arch = 1
+comp.unix.aix = 1
+comp.os.ms-windows.setup = 1
+comp.sys.mac.wanted = 1
+sci.philosophy.meta = 1
+labs.talk = 1
+ne.forsale = 1
+soc.motss = 1
+rec.scouting = 1
+comp.os.linux = 1
+gnu.gcc.help = 1
+comp.windows.x.i386unix = 1
+comp.sys.ibm.pc.misc = 1
+ba.motorcycles = 1
+rec.motorcycles.racing = 1
+
+
+================================================================================
+
+CLUSTER 99
+Medoid:
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+10nn:
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['alt.atheism', 'talk.religion.misc', 'talk.origins']
+['comp.os.ms-windows.misc']
+['talk.politics.guns']
+['rec.autos']
+['talk.politics.guns']
+['rec.autos']
+['talk.politics.guns']
+
+______ALL______
+
+talk.religion.misc = 16
+alt.atheism = 14
+talk.origins = 14
+talk.politics.guns = 9
+misc.forsale = 4
+comp.os.ms-windows.misc = 3
+rec.autos = 2
+soc.culture.jewish = 2
+sci.electronics = 2
+misc.forsale.computers.pc-clone = 1
+comp.sys.intel = 1
+comp.windows.x.i386unix = 1
+comp.windows.x = 1
+comp.os.ms-windows.setup = 1
+comp.sys.mac.hardware = 1
+or.politics = 1
